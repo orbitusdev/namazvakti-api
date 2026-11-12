@@ -1,0 +1,36 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:lan": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "lint": "echo 'no lint configured'",
+    "test": "vitest run",
+    "db:migrate": "tsx --env-file-if-exists=../../.env scripts/migrate.ts",
+    "sync:places": "tsx --env-file-if-exists=../../.env scripts/sync-places.ts"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "0.3.16",
+    "@namazvakti/core": "workspace:*",
+    "@namazvakti/db": "workspace:*",
+    "@namazvakti/diyanet-client": "workspace:*",
+    "drizzle-orm": "^0.44.0",
+    "next": "^15.5.0",
+    "postgres": "3.4.9",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@namazvakti/api-contract": "workspace:*",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.8.0",
+    "vitest": "^3.2.0"
+  }
+}

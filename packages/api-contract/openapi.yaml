@@ -1,0 +1,259 @@
+openapi: 3.1.0
+info:
+  title: Namaz Vakti API
+  version: 1.0.0
+  description: Prayer times API. Error messages are English; clients localize by error code.
+servers:
+  - url: /
+paths:
+  /api/v1/places/countries:
+    get:
+      operationId: listCountries
+      summary: List countries
+      responses:
+        '200':
+          description: Countries
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CountriesResponse'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
+        '503':
+          $ref: '#/components/responses/UpstreamUnavailable'
+  /api/v1/places/countries/{countryId}/states:
+    get:
+      operationId: listStates
+      summary: List states of a country
+      parameters:
+        - name: countryId
+          in: path
+          required: true
+          schema: { type: string, examples: [tr] }
+      responses:
+        '200':
+          description: States
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/StatesResponse'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
+        '503':
+          $ref: '#/components/responses/UpstreamUnavailable'
+  /api/v1/places/states/{stateId}/cities:
+    get:
+      operationId: listCities
+      summary: List cities of a state
+      parameters:
+        - name: stateId
+          in: path
+          required: true
+          schema: { type: string, examples: [tr-istanbul] }
+      responses:
+        '200':
+          description: Cities
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CitiesResponse'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
+        '503':
+          $ref: '#/components/responses/UpstreamUnavailable'
+  /api/v1/locate:
+    get:
+      operationId: locate
+      summary: Resolve coordinates (and optional geocoded place names) to a city
+      parameters:
+        - { name: lat, in: query, required: true, schema: { type: number, minimum: -90, maximum: 90 } }
+        - { name: lng, in: query, required: true, schema: { type: number, minimum: -180, maximum: 180 } }
+        - { name: country, in: query, required: false, schema: { type: string } }
+        - { name: state, in: query, required: false, schema: { type: string } }
+        - { name: city, in: query, required: false, schema: { type: string } }
+      responses:
+        '200':
+          description: Resolved city
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LocateResponse'
+        '400':
+          $ref: '#/components/responses/InvalidRequest'
+        '404':
+          $ref: '#/components/responses/NotFoundOrOutOfCoverage'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
+        '503':
+          $ref: '#/components/responses/UpstreamUnavailable'
+  /api/v1/cities/{cityId}/prayer-times:
+    get:
+      operationId: getPrayerTimes
+      summary: Prayer times for a city
+      parameters:
+        - name: cityId
+          in: path
+          required: true
+          schema: { type: string, examples: [tr-istanbul-kadikoy] }
+        - name: from
+          in: query
+          required: false
+          description: First day (YYYY-MM-DD); defaults to today in the city timezone. Must be within the range from yesterday to 365 days after today (city timezone), otherwise 400.
+          schema: { type: string, format: date }
+        - name: days
+          in: query
+          required: false
+          schema: { type: integer, minimum: 1, maximum: 60, default: 30 }
+      responses:
+        '200':
+          description: Prayer times
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PrayerTimesResponse'
+        '400':
+          $ref: '#/components/responses/InvalidRequest'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
+        '503':
+          $ref: '#/components/responses/UpstreamUnavailable'
+components:
+  responses:
+    InvalidRequest:
+      description: Invalid request (invalid_request)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    NotFound:
+      description: Resource not found (not_found)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    NotFoundOrOutOfCoverage:
+      description: Not found (not_found) or location outside coverage (out_of_coverage)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    RateLimited:
+      description: Rate limited (rate_limited)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    InternalError:
+      description: Unexpected server error (internal)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    UpstreamUnavailable:
+      description: Upstream unavailable (upstream_unavailable)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+  schemas:
+    PlaceRef:
+      type: object
+      additionalProperties: false
+      required: [id, name]
+      properties:
+        id: { type: string }
+        name: { type: string }
+    City:
+      type: object
+      additionalProperties: false
+      required: [id, name, state, country, timezone, lat, lng]
+      properties:
+        id: { type: string, examples: [tr-istanbul-kadikoy] }
+        name: { type: string }
+        state: { $ref: '#/components/schemas/PlaceRef' }
+        country: { $ref: '#/components/schemas/PlaceRef' }
+        timezone: { type: string, description: IANA timezone, examples: [Europe/Istanbul] }
+        lat: { type: number }
+        lng: { type: number }
+    DayTimes:
+      type: object
+      additionalProperties: false
+      required: [date, hijriDate, imsak, gunes, ogle, ikindi, aksam, yatsi]
+      properties:
+        date: { type: string, format: date }
+        hijriDate: { type: [string, 'null'] }
+        imsak: { $ref: '#/components/schemas/TimeOfDay' }
+        gunes: { $ref: '#/components/schemas/TimeOfDay' }
+        ogle: { $ref: '#/components/schemas/TimeOfDay' }
+        ikindi: { $ref: '#/components/schemas/TimeOfDay' }
+        aksam: { $ref: '#/components/schemas/TimeOfDay' }
+        yatsi: { $ref: '#/components/schemas/TimeOfDay' }
+    TimeOfDay:
+      type: string
+      pattern: '^\d{2}:\d{2}$'
+      description: Local time, HH:mm
+      examples: ['05:07']
+    CountriesResponse:
+      type: object
+      additionalProperties: false
+      required: [countries]
+      properties:
+        countries: { type: array, items: { $ref: '#/components/schemas/PlaceRef' } }
+    StatesResponse:
+      type: object
+      additionalProperties: false
+      required: [states]
+      properties:
+        states: { type: array, items: { $ref: '#/components/schemas/PlaceRef' } }
+    CitiesResponse:
+      type: object
+      additionalProperties: false
+      required: [cities]
+      properties:
+        cities: { type: array, items: { $ref: '#/components/schemas/PlaceRef' } }
+    LocateResponse:
+      type: object
+      additionalProperties: false
+      required: [city]
+      properties:
+        city: { $ref: '#/components/schemas/City' }
+    PrayerTimesResponse:
+      type: object
+      additionalProperties: false
+      required: [city, timezone, source, days]
+      properties:
+        city: { $ref: '#/components/schemas/City' }
+        timezone: { type: string }
+        source: { type: string, enum: [mock, diyanet] }
+        days: { type: array, items: { $ref: '#/components/schemas/DayTimes' } }
+    ErrorCode:
+      type: string
+      enum: [invalid_request, not_found, out_of_coverage, upstream_unavailable, rate_limited, internal]
+    ErrorResponse:
+      type: object
+      additionalProperties: false
+      required: [error]
+      properties:
+        error:
+          type: object
+          additionalProperties: false
+          required: [code, message]
+          properties:
+            code: { $ref: '#/components/schemas/ErrorCode' }
+            message: { type: string }

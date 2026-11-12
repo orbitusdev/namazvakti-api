@@ -1,0 +1,8 @@
+# Wikidata SPARQL (https://query.wikidata.org/sparql): current districts of Turkey with coordinates.
+SELECT ?d ?dLabel ?pLabel ?coord WHERE {
+  ?d wdt:P31 wd:Q1147395 .           # instance of: district of Turkey
+  FILTER NOT EXISTS { ?d wdt:P576 ?end }  # not dissolved
+  ?d wdt:P131 ?p .
+  ?d wdt:P625 ?coord .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "tr". }
+}

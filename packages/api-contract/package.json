@@ -1,0 +1,22 @@
+{
+  "name": "@namazvakti/api-contract",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "gen": "openapi-typescript openapi.yaml -o src/types.gen.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json",
+    "lint": "echo 'no lint configured'"
+  },
+  "devDependencies": {
+    "@seriousme/openapi-schema-validator": "^2.11.0",
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "openapi-typescript": "^7.13.0",
+    "yaml": "^2.9.1"
+  }
+}

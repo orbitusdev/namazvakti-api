@@ -1,0 +1,28 @@
+{
+  "name": "@namazvakti/db",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./testing": "./test/helpers.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json",
+    "lint": "echo 'no lint configured'",
+    "generate": "drizzle-kit generate"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "0.3.16",
+    "@namazvakti/core": "workspace:*",
+    "@namazvakti/diyanet-client": "workspace:*",
+    "drizzle-orm": "^0.44.0",
+    "postgres": "^3.4.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.0",
+    "typescript": "^5.8.0",
+    "vitest": "^3.2.0"
+  }
+}

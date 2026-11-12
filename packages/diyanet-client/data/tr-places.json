@@ -1,0 +1,5840 @@
+[
+ {
+  "il": "Adana",
+  "ilce": "Aladağ",
+  "lat": 37.5464,
+  "lng": 35.3986
+ },
+ {
+  "il": "Adana",
+  "ilce": "Ceyhan",
+  "lat": 37.0333,
+  "lng": 35.8167
+ },
+ {
+  "il": "Adana",
+  "ilce": "Çukurova",
+  "lat": 37.0494,
+  "lng": 35.271
+ },
+ {
+  "il": "Adana",
+  "ilce": "Feke",
+  "lat": 37.8,
+  "lng": 35.9
+ },
+ {
+  "il": "Adana",
+  "ilce": "İmamoğlu",
+  "lat": 37.2586,
+  "lng": 35.6728
+ },
+ {
+  "il": "Adana",
+  "ilce": "Karaisalı",
+  "lat": 37.2558,
+  "lng": 35.0593
+ },
+ {
+  "il": "Adana",
+  "ilce": "Karataş",
+  "lat": 36.5719,
+  "lng": 35.3678
+ },
+ {
+  "il": "Adana",
+  "ilce": "Kozan",
+  "lat": 37.45,
+  "lng": 35.8
+ },
+ {
+  "il": "Adana",
+  "ilce": "Pozantı",
+  "lat": 37.4278,
+  "lng": 34.8711
+ },
+ {
+  "il": "Adana",
+  "ilce": "Saimbeyli",
+  "lat": 37.9849,
+  "lng": 36.09
+ },
+ {
+  "il": "Adana",
+  "ilce": "Sarıçam",
+  "lat": 37.0403,
+  "lng": 35.4193
+ },
+ {
+  "il": "Adana",
+  "ilce": "Seyhan",
+  "lat": 36.9554,
+  "lng": 35.2164
+ },
+ {
+  "il": "Adana",
+  "ilce": "Tufanbeyli",
+  "lat": 38.2603,
+  "lng": 36.2221
+ },
+ {
+  "il": "Adana",
+  "ilce": "Yumurtalık",
+  "lat": 36.7675,
+  "lng": 35.7914
+ },
+ {
+  "il": "Adana",
+  "ilce": "Yüreğir",
+  "lat": 36.9856,
+  "lng": 35.3372
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Besni",
+  "lat": 37.7,
+  "lng": 37.8667
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Çelikhan",
+  "lat": 38.0333,
+  "lng": 38.25
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Gerger",
+  "lat": 38.0333,
+  "lng": 39.0333
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Gölbaşı",
+  "lat": 37.7833,
+  "lng": 37.65
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Kahta",
+  "lat": 37.8006,
+  "lng": 38.7111
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Merkez",
+  "lat": 37.7603,
+  "lng": 38.2773
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Samsat",
+  "lat": 37.5833,
+  "lng": 38.4833
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Sincik",
+  "lat": 38.0333,
+  "lng": 38.6167
+ },
+ {
+  "il": "Adıyaman",
+  "ilce": "Tut",
+  "lat": 37.8,
+  "lng": 37.9167
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Başmakçı",
+  "lat": 37.8833,
+  "lng": 30
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Bayat",
+  "lat": 38.9833,
+  "lng": 30.9167
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Bolvadin",
+  "lat": 38.7167,
+  "lng": 31.05
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Çay",
+  "lat": 38.5833,
+  "lng": 31.0333
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Çobanlar",
+  "lat": 38.7014,
+  "lng": 30.7828
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Dazkırı",
+  "lat": 37.9167,
+  "lng": 29.8667
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Dinar",
+  "lat": 38.0667,
+  "lng": 30.1667
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Emirdağ",
+  "lat": 39.0167,
+  "lng": 31.15
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Evciler",
+  "lat": 38.0394,
+  "lng": 29.8881
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Hocalar",
+  "lat": 38.5667,
+  "lng": 30
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "İhsaniye",
+  "lat": 39.0333,
+  "lng": 30.4167
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "İscehisar",
+  "lat": 38.8667,
+  "lng": 30.75
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Kızılören",
+  "lat": 38.25,
+  "lng": 30.15
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Merkez",
+  "lat": 38.7569,
+  "lng": 30.5387
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Sandıklı",
+  "lat": 38.4733,
+  "lng": 30.2778
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Sinanpaşa",
+  "lat": 38.75,
+  "lng": 30.25
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Sultandağı",
+  "lat": 38.5319,
+  "lng": 31.2281
+ },
+ {
+  "il": "Afyonkarahisar",
+  "ilce": "Şuhut",
+  "lat": 38.5333,
+  "lng": 30.55
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Diyadin",
+  "lat": 39.5398,
+  "lng": 43.6712
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Doğubayazıt",
+  "lat": 39.5481,
+  "lng": 44.0744
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Eleşkirt",
+  "lat": 39.8014,
+  "lng": 42.6761
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Hamur",
+  "lat": 39.6167,
+  "lng": 43
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Merkez",
+  "lat": 39.7191,
+  "lng": 43.0505
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Patnos",
+  "lat": 39.2333,
+  "lng": 42.8667
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Taşlıçay",
+  "lat": 39.6333,
+  "lng": 43.3833
+ },
+ {
+  "il": "Ağrı",
+  "ilce": "Tutak",
+  "lat": 39.5506,
+  "lng": 42.7758
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Ağaçören",
+  "lat": 38.8667,
+  "lng": 33.9167
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Eskil",
+  "lat": 38.2871,
+  "lng": 33.3905
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Gülağaç",
+  "lat": 38.3941,
+  "lng": 34.3461
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Güzelyurt",
+  "lat": 38.2864,
+  "lng": 34.3619
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Merkez",
+  "lat": 38.3705,
+  "lng": 34.0269
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Ortaköy",
+  "lat": 38.7333,
+  "lng": 34.0333
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Sarıyahşi",
+  "lat": 38.9833,
+  "lng": 33.85
+ },
+ {
+  "il": "Aksaray",
+  "ilce": "Sultanhanı",
+  "lat": 38.25,
+  "lng": 33.55
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Göynücek",
+  "lat": 40.3833,
+  "lng": 35.5167
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Gümüşhacıköy",
+  "lat": 40.8667,
+  "lng": 35.2167
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Hamamözü",
+  "lat": 40.7833,
+  "lng": 35.0333
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Merkez",
+  "lat": 40.6503,
+  "lng": 35.8329
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Merzifon",
+  "lat": 40.875,
+  "lng": 35.4633
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Suluova",
+  "lat": 40.8333,
+  "lng": 35.65
+ },
+ {
+  "il": "Amasya",
+  "ilce": "Taşova",
+  "lat": 40.77,
+  "lng": 36.3308
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Akyurt",
+  "lat": 40.1414,
+  "lng": 33.0975
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Altındağ",
+  "lat": 39.9458,
+  "lng": 32.8561
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Ayaş",
+  "lat": 40.0247,
+  "lng": 32.3408
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Bala",
+  "lat": 39.5534,
+  "lng": 33.1238
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Beypazarı",
+  "lat": 40.1469,
+  "lng": 31.9191
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Çamlıdere",
+  "lat": 40.5,
+  "lng": 32.48
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Çankaya",
+  "lat": 39.9206,
+  "lng": 32.8544
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Çubuk",
+  "lat": 40.2397,
+  "lng": 33.0469
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Elmadağ",
+  "lat": 39.9147,
+  "lng": 33.2367
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Etimesgut",
+  "lat": 39.9489,
+  "lng": 32.6617
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Evren",
+  "lat": 39.03,
+  "lng": 33.7978
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Gölbaşı",
+  "lat": 39.7925,
+  "lng": 32.8067
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Güdül",
+  "lat": 40.2105,
+  "lng": 32.2432
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Haymana",
+  "lat": 39.4403,
+  "lng": 32.4886
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Kahramankazan",
+  "lat": 40.2054,
+  "lng": 32.6813
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Kalecik",
+  "lat": 40.1064,
+  "lng": 33.4197
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Keçiören",
+  "lat": 39.9777,
+  "lng": 32.867
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Kızılcahamam",
+  "lat": 40.4703,
+  "lng": 32.6531
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Mamak",
+  "lat": 39.9347,
+  "lng": 32.8969
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Nallıhan",
+  "lat": 40.1944,
+  "lng": 31.3631
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Polatlı",
+  "lat": 39.5824,
+  "lng": 32.1401
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Pursaklar",
+  "lat": 40.0386,
+  "lng": 32.8969
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Sincan",
+  "lat": 39.9678,
+  "lng": 32.5797
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Şereflikoçhisar",
+  "lat": 38.9544,
+  "lng": 33.5481
+ },
+ {
+  "il": "Ankara",
+  "ilce": "Yenimahalle",
+  "lat": 39.9661,
+  "lng": 32.8088
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Akseki",
+  "lat": 37.0519,
+  "lng": 31.7842
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Aksu",
+  "lat": 36.9279,
+  "lng": 30.8235
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Alanya",
+  "lat": 36.5617,
+  "lng": 32.0231
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Demre",
+  "lat": 36.2447,
+  "lng": 29.9872
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Döşemealtı",
+  "lat": 37.023,
+  "lng": 30.6013
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Elmalı",
+  "lat": 36.7464,
+  "lng": 29.9233
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Finike",
+  "lat": 36.4236,
+  "lng": 30.0665
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Gazipaşa",
+  "lat": 36.2683,
+  "lng": 32.3175
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Gündoğmuş",
+  "lat": 36.8245,
+  "lng": 32.0068
+ },
+ {
+  "il": "Antalya",
+  "ilce": "İbradı",
+  "lat": 37.0964,
+  "lng": 31.5961
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Kaş",
+  "lat": 36.2003,
+  "lng": 29.6394
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Kemer",
+  "lat": 36.6014,
+  "lng": 30.5639
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Kepez",
+  "lat": 36.9371,
+  "lng": 30.7123
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Konyaaltı",
+  "lat": 36.8726,
+  "lng": 30.6504
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Korkuteli",
+  "lat": 37.0644,
+  "lng": 30.1969
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Kumluca",
+  "lat": 36.58,
+  "lng": 30.3
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Manavgat",
+  "lat": 36.7892,
+  "lng": 31.4486
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Muratpaşa",
+  "lat": 36.8889,
+  "lng": 30.7209
+ },
+ {
+  "il": "Antalya",
+  "ilce": "Serik",
+  "lat": 36.9167,
+  "lng": 31.1
+ },
+ {
+  "il": "Ardahan",
+  "ilce": "Çıldır",
+  "lat": 41.1333,
+  "lng": 43.1333
+ },
+ {
+  "il": "Ardahan",
+  "ilce": "Damal",
+  "lat": 41.35,
+  "lng": 42.85
+ },
+ {
+  "il": "Ardahan",
+  "ilce": "Göle",
+  "lat": 40.8,
+  "lng": 42.6167
+ },
+ {
+  "il": "Ardahan",
+  "ilce": "Hanak",
+  "lat": 41.2333,
+  "lng": 42.85
+ },
+ {
+  "il": "Ardahan",
+  "ilce": "Merkez",
+  "lat": 41.1103,
+  "lng": 42.7036
+ },
+ {
+  "il": "Ardahan",
+  "ilce": "Posof",
+  "lat": 41.1333,
+  "lng": 43.1333
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Ardanuç",
+  "lat": 41.1378,
+  "lng": 42.0667
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Arhavi",
+  "lat": 41.3483,
+  "lng": 41.3194
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Borçka",
+  "lat": 41.3594,
+  "lng": 41.6764
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Hopa",
+  "lat": 41.3833,
+  "lng": 41.4167
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Kemalpaşa",
+  "lat": 41.4833,
+  "lng": 41.5333
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Merkez",
+  "lat": 41.1831,
+  "lng": 41.8287
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Murgul",
+  "lat": 41.2833,
+  "lng": 41.5667
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Şavşat",
+  "lat": 41.2494,
+  "lng": 42.3694
+ },
+ {
+  "il": "Artvin",
+  "ilce": "Yusufeli",
+  "lat": 40.8203,
+  "lng": 41.5422
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Bozdoğan",
+  "lat": 37.6728,
+  "lng": 28.3103
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Buharkent",
+  "lat": 37.9739,
+  "lng": 28.7514
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Çine",
+  "lat": 37.6228,
+  "lng": 28.0678
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Didim",
+  "lat": 37.3931,
+  "lng": 27.2936
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Efeler",
+  "lat": 37.85,
+  "lng": 27.8433
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Germencik",
+  "lat": 37.8719,
+  "lng": 27.6014
+ },
+ {
+  "il": "Aydın",
+  "ilce": "İncirliova",
+  "lat": 37.8625,
+  "lng": 27.7297
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Karacasu",
+  "lat": 37.7472,
+  "lng": 28.5939
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Karpuzlu",
+  "lat": 37.5689,
+  "lng": 27.8408
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Koçarlı",
+  "lat": 37.7608,
+  "lng": 27.7061
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Köşk",
+  "lat": 37.8633,
+  "lng": 28.0564
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Kuşadası",
+  "lat": 37.8597,
+  "lng": 27.2597
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Kuyucak",
+  "lat": 37.9139,
+  "lng": 28.46
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Nazilli",
+  "lat": 37.9158,
+  "lng": 28.325
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Söke",
+  "lat": 37.7586,
+  "lng": 27.4131
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Sultanhisar",
+  "lat": 37.8997,
+  "lng": 28.1742
+ },
+ {
+  "il": "Aydın",
+  "ilce": "Yenipazar",
+  "lat": 37.8333,
+  "lng": 28.1844
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Altıeylül",
+  "lat": 39.6453,
+  "lng": 27.8833
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Ayvalık",
+  "lat": 39.3167,
+  "lng": 26.7
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Balya",
+  "lat": 39.75,
+  "lng": 27.5833
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Bandırma",
+  "lat": 40.35,
+  "lng": 27.9667
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Bigadiç",
+  "lat": 39.3925,
+  "lng": 28.1311
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Burhaniye",
+  "lat": 39.5,
+  "lng": 26.95
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Dursunbey",
+  "lat": 39.5878,
+  "lng": 28.6275
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Edremit",
+  "lat": 39.6053,
+  "lng": 27.0319
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Erdek",
+  "lat": 40.3986,
+  "lng": 27.7931
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Gömeç",
+  "lat": 39.3911,
+  "lng": 26.84
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Gönen",
+  "lat": 40.1144,
+  "lng": 27.6703
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Havran",
+  "lat": 39.5583,
+  "lng": 27.0983
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "İvrindi",
+  "lat": 39.5833,
+  "lng": 27.4844
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Karesi",
+  "lat": 39.7664,
+  "lng": 27.8358
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Kepsut",
+  "lat": 39.6889,
+  "lng": 28.1522
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Manyas",
+  "lat": 40.0556,
+  "lng": 27.9783
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Marmara",
+  "lat": 40.5875,
+  "lng": 27.5553
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Savaştepe",
+  "lat": 39.3839,
+  "lng": 27.6547
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Sındırgı",
+  "lat": 39.2333,
+  "lng": 28.1667
+ },
+ {
+  "il": "Balıkesir",
+  "ilce": "Susurluk",
+  "lat": 39.9233,
+  "lng": 28.1439
+ },
+ {
+  "il": "Bartın",
+  "ilce": "Amasra",
+  "lat": 41.7378,
+  "lng": 32.3944
+ },
+ {
+  "il": "Bartın",
+  "ilce": "Kurucaşile",
+  "lat": 41.8289,
+  "lng": 32.7194
+ },
+ {
+  "il": "Bartın",
+  "ilce": "Merkez",
+  "lat": 41.635,
+  "lng": 32.3366
+ },
+ {
+  "il": "Bartın",
+  "ilce": "Ulus",
+  "lat": 41.5936,
+  "lng": 32.6506
+ },
+ {
+  "il": "Batman",
+  "ilce": "Beşiri",
+  "lat": 37.9167,
+  "lng": 41.3
+ },
+ {
+  "il": "Batman",
+  "ilce": "Gercüş",
+  "lat": 37.5667,
+  "lng": 41.3833
+ },
+ {
+  "il": "Batman",
+  "ilce": "Hasankeyf",
+  "lat": 37.7167,
+  "lng": 41.4167
+ },
+ {
+  "il": "Batman",
+  "ilce": "Kozluk",
+  "lat": 38.2,
+  "lng": 41.4833
+ },
+ {
+  "il": "Batman",
+  "ilce": "Merkez",
+  "lat": 37.8836,
+  "lng": 41.1278
+ },
+ {
+  "il": "Batman",
+  "ilce": "Sason",
+  "lat": 38.3347,
+  "lng": 41.42
+ },
+ {
+  "il": "Bayburt",
+  "ilce": "Aydıntepe",
+  "lat": 40.3914,
+  "lng": 40.1472
+ },
+ {
+  "il": "Bayburt",
+  "ilce": "Demirözü",
+  "lat": 40.1667,
+  "lng": 39.9
+ },
+ {
+  "il": "Bayburt",
+  "ilce": "Merkez",
+  "lat": 40.2552,
+  "lng": 40.2205
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Bozüyük",
+  "lat": 39.9181,
+  "lng": 30.0511
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Gölpazarı",
+  "lat": 40.2956,
+  "lng": 30.3339
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "İnhisar",
+  "lat": 40.0509,
+  "lng": 30.3837
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Merkez",
+  "lat": 40.1435,
+  "lng": 29.9753
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Osmaneli",
+  "lat": 40.3675,
+  "lng": 30.0269
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Pazaryeri",
+  "lat": 40.0044,
+  "lng": 29.9206
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Söğüt",
+  "lat": 40.0247,
+  "lng": 30.1731
+ },
+ {
+  "il": "Bilecik",
+  "ilce": "Yenipazar",
+  "lat": 40.1894,
+  "lng": 30.5083
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Adaklı",
+  "lat": 39.2333,
+  "lng": 40.55
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Genç",
+  "lat": 38.7597,
+  "lng": 40.5664
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Karlıova",
+  "lat": 39.2946,
+  "lng": 41.0102
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Kiğı",
+  "lat": 39.3104,
+  "lng": 40.3496
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Merkez",
+  "lat": 38.8861,
+  "lng": 40.4972
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Solhan",
+  "lat": 38.9697,
+  "lng": 41.0561
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Yayladere",
+  "lat": 39.2167,
+  "lng": 40.0667
+ },
+ {
+  "il": "Bingöl",
+  "ilce": "Yedisu",
+  "lat": 39.434,
+  "lng": 40.5451
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Adilcevaz",
+  "lat": 38.8058,
+  "lng": 42.7367
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Ahlat",
+  "lat": 38.7544,
+  "lng": 42.4881
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Güroymak",
+  "lat": 38.5775,
+  "lng": 42.02
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Hizan",
+  "lat": 38.2333,
+  "lng": 42.4333
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Merkez",
+  "lat": 38.4021,
+  "lng": 42.1085
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Mutki",
+  "lat": 38.4097,
+  "lng": 41.9231
+ },
+ {
+  "il": "Bitlis",
+  "ilce": "Tatvan",
+  "lat": 38.4917,
+  "lng": 42.2892
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Dörtdivan",
+  "lat": 40.7167,
+  "lng": 32.0667
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Gerede",
+  "lat": 40.7136,
+  "lng": 32.3126
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Göynük",
+  "lat": 40.4031,
+  "lng": 30.7856
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Kıbrıscık",
+  "lat": 40.4,
+  "lng": 31.85
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Mengen",
+  "lat": 40.9333,
+  "lng": 32.0667
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Merkez",
+  "lat": 40.7333,
+  "lng": 31.611
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Mudurnu",
+  "lat": 40.465,
+  "lng": 31.2117
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Seben",
+  "lat": 40.4217,
+  "lng": 31.5831
+ },
+ {
+  "il": "Bolu",
+  "ilce": "Yeniçağa",
+  "lat": 40.7778,
+  "lng": 32.0492
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Ağlasun",
+  "lat": 37.65,
+  "lng": 30.5333
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Altınyayla",
+  "lat": 37.0072,
+  "lng": 29.5506
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Bucak",
+  "lat": 37.4564,
+  "lng": 30.5819
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Çavdır",
+  "lat": 37.15,
+  "lng": 29.7
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Çeltikçi",
+  "lat": 37.5339,
+  "lng": 30.4825
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Gölhisar",
+  "lat": 37.1489,
+  "lng": 29.5169
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Karamanlı",
+  "lat": 37.3839,
+  "lng": 29.8278
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Kemer",
+  "lat": 37.3633,
+  "lng": 30.0675
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Merkez",
+  "lat": 37.7248,
+  "lng": 30.2887
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Tefenni",
+  "lat": 37.3203,
+  "lng": 29.7803
+ },
+ {
+  "il": "Burdur",
+  "ilce": "Yeşilova",
+  "lat": 37.5,
+  "lng": 29.75
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Büyükorhan",
+  "lat": 39.77,
+  "lng": 28.8861
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Gemlik",
+  "lat": 40.4351,
+  "lng": 29.1494
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Gürsu",
+  "lat": 40.2144,
+  "lng": 29.1931
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Harmancık",
+  "lat": 39.6774,
+  "lng": 29.1552
+ },
+ {
+  "il": "Bursa",
+  "ilce": "İnegöl",
+  "lat": 40.0808,
+  "lng": 29.5136
+ },
+ {
+  "il": "Bursa",
+  "ilce": "İznik",
+  "lat": 40.4289,
+  "lng": 29.72
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Karacabey",
+  "lat": 40.2228,
+  "lng": 28.3667
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Keles",
+  "lat": 39.9136,
+  "lng": 29.2294
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Kestel",
+  "lat": 40.2008,
+  "lng": 29.2125
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Mudanya",
+  "lat": 40.3753,
+  "lng": 28.8839
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Mustafakemalpaşa",
+  "lat": 40.0353,
+  "lng": 28.4117
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Nilüfer",
+  "lat": 40.2138,
+  "lng": 28.9846
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Orhaneli",
+  "lat": 39.9,
+  "lng": 28.9833
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Orhangazi",
+  "lat": 40.4997,
+  "lng": 29.3119
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Osmangazi",
+  "lat": 40.2705,
+  "lng": 29.0022
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Yenişehir",
+  "lat": 40.2643,
+  "lng": 29.6508
+ },
+ {
+  "il": "Bursa",
+  "ilce": "Yıldırım",
+  "lat": 40.1901,
+  "lng": 29.0977
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Ayvacık",
+  "lat": 39.6014,
+  "lng": 26.4011
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Bayramiç",
+  "lat": 39.8167,
+  "lng": 26.6167
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Biga",
+  "lat": 40.2692,
+  "lng": 27.2084
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Bozcaada",
+  "lat": 39.8219,
+  "lng": 26.0289
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Çan",
+  "lat": 40.0333,
+  "lng": 27.05
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Eceabat",
+  "lat": 40.1833,
+  "lng": 26.35
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Ezine",
+  "lat": 39.7967,
+  "lng": 26.3569
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Gelibolu",
+  "lat": 40.4139,
+  "lng": 26.6703
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Gökçeada",
+  "lat": 40.2004,
+  "lng": 25.9085
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Lapseki",
+  "lat": 40.3167,
+  "lng": 26.7167
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Merkez",
+  "lat": 40.1463,
+  "lng": 26.4029
+ },
+ {
+  "il": "Çanakkale",
+  "ilce": "Yenice",
+  "lat": 39.9422,
+  "lng": 27.2653
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Atkaracalar",
+  "lat": 40.8167,
+  "lng": 33.0667
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Bayramören",
+  "lat": 40.95,
+  "lng": 33.2
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Çerkeş",
+  "lat": 40.8,
+  "lng": 32.8833
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Eldivan",
+  "lat": 40.5333,
+  "lng": 33.5
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Ilgaz",
+  "lat": 40.9249,
+  "lng": 33.6253
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Kızılırmak",
+  "lat": 40.355,
+  "lng": 33.9931
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Korgun",
+  "lat": 40.7333,
+  "lng": 33.5167
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Kurşunlu",
+  "lat": 40.8333,
+  "lng": 33.25
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Merkez",
+  "lat": 40.5972,
+  "lng": 33.6213
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Orta",
+  "lat": 40.6167,
+  "lng": 33.1
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Şabanözü",
+  "lat": 40.4833,
+  "lng": 33.2833
+ },
+ {
+  "il": "Çankırı",
+  "ilce": "Yapraklı",
+  "lat": 40.7686,
+  "lng": 33.7839
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Alaca",
+  "lat": 40.1783,
+  "lng": 34.8497
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Bayat",
+  "lat": 40.65,
+  "lng": 34.2667
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Boğazkale",
+  "lat": 40.0167,
+  "lng": 34.6167
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Dodurga",
+  "lat": 40.8632,
+  "lng": 34.8145
+ },
+ {
+  "il": "Çorum",
+  "ilce": "İskilip",
+  "lat": 40.7333,
+  "lng": 34.4667
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Kargı",
+  "lat": 41.1333,
+  "lng": 34.4833
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Laçin",
+  "lat": 40.7667,
+  "lng": 34.8833
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Mecitözü",
+  "lat": 40.5167,
+  "lng": 35.3
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Merkez",
+  "lat": 40.5499,
+  "lng": 34.9537
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Oğuzlar",
+  "lat": 40.75,
+  "lng": 34.7
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Ortaköy",
+  "lat": 40.283,
+  "lng": 35.2588
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Osmancık",
+  "lat": 40.9667,
+  "lng": 34.8
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Sungurlu",
+  "lat": 40.1617,
+  "lng": 34.3761
+ },
+ {
+  "il": "Çorum",
+  "ilce": "Uğurludağ",
+  "lat": 40.45,
+  "lng": 34.4667
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Acıpayam",
+  "lat": 37.4353,
+  "lng": 29.3614
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Babadağ",
+  "lat": 37.8183,
+  "lng": 28.8683
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Baklan",
+  "lat": 37.9769,
+  "lng": 29.6086
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Bekilli",
+  "lat": 38.2403,
+  "lng": 29.4256
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Beyağaç",
+  "lat": 37.2342,
+  "lng": 28.8961
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Bozkurt",
+  "lat": 37.7758,
+  "lng": 29.6081
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Buldan",
+  "lat": 38.045,
+  "lng": 28.8306
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Çal",
+  "lat": 38.0831,
+  "lng": 29.3972
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Çameli",
+  "lat": 37.0761,
+  "lng": 29.3447
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Çardak",
+  "lat": 37.825,
+  "lng": 29.6686
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Çivril",
+  "lat": 38.3014,
+  "lng": 29.7403
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Güney",
+  "lat": 38.1539,
+  "lng": 29.0652
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Honaz",
+  "lat": 37.754,
+  "lng": 29.269
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Kale",
+  "lat": 37.4525,
+  "lng": 28.8504
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Merkezefendi",
+  "lat": 37.7795,
+  "lng": 29.083
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Pamukkale",
+  "lat": 37.7627,
+  "lng": 29.1017
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Sarayköy",
+  "lat": 37.9158,
+  "lng": 28.88
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Serinhisar",
+  "lat": 37.5914,
+  "lng": 29.2725
+ },
+ {
+  "il": "Denizli",
+  "ilce": "Tavas",
+  "lat": 37.5728,
+  "lng": 29.0711
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Bağlar",
+  "lat": 37.9107,
+  "lng": 40.2263
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Bismil",
+  "lat": 37.8461,
+  "lng": 40.6633
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Çermik",
+  "lat": 38.1353,
+  "lng": 39.4558
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Çınar",
+  "lat": 37.7256,
+  "lng": 40.4157
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Çüngüş",
+  "lat": 38.2117,
+  "lng": 39.2883
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Dicle",
+  "lat": 38.3733,
+  "lng": 40.075
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Eğil",
+  "lat": 38.2572,
+  "lng": 40.0847
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Ergani",
+  "lat": 38.2653,
+  "lng": 39.7597
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Hani",
+  "lat": 38.4114,
+  "lng": 40.3964
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Hazro",
+  "lat": 38.2542,
+  "lng": 40.7786
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Kayapınar",
+  "lat": 37.938,
+  "lng": 40.1865
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Kocaköy",
+  "lat": 38.2897,
+  "lng": 40.5014
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Kulp",
+  "lat": 38.4972,
+  "lng": 41.0108
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Lice",
+  "lat": 38.4549,
+  "lng": 40.6519
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Silvan",
+  "lat": 38.1419,
+  "lng": 41.0071
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Sur",
+  "lat": 37.9136,
+  "lng": 40.2374
+ },
+ {
+  "il": "Diyarbakır",
+  "ilce": "Yenişehir",
+  "lat": 37.92,
+  "lng": 40.2299
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Akçakoca",
+  "lat": 41.0333,
+  "lng": 31.1167
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Cumayeri",
+  "lat": 40.8667,
+  "lng": 30.95
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Çilimli",
+  "lat": 40.9,
+  "lng": 31.05
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Gölyaka",
+  "lat": 40.75,
+  "lng": 30.9833
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Gümüşova",
+  "lat": 40.85,
+  "lng": 30.9333
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Kaynaşlı",
+  "lat": 40.7728,
+  "lng": 31.3153
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Merkez",
+  "lat": 40.8392,
+  "lng": 31.1595
+ },
+ {
+  "il": "Düzce",
+  "ilce": "Yığılca",
+  "lat": 40.9667,
+  "lng": 31.45
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Enez",
+  "lat": 40.7239,
+  "lng": 26.0819
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Havsa",
+  "lat": 41.55,
+  "lng": 26.8167
+ },
+ {
+  "il": "Edirne",
+  "ilce": "İpsala",
+  "lat": 40.9214,
+  "lng": 26.3833
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Keşan",
+  "lat": 40.85,
+  "lng": 26.6333
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Lalapaşa",
+  "lat": 41.8333,
+  "lng": 26.7333
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Meriç",
+  "lat": 41.2017,
+  "lng": 26.435
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Merkez",
+  "lat": 41.6759,
+  "lng": 26.5587
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Süloğlu",
+  "lat": 41.7667,
+  "lng": 26.9167
+ },
+ {
+  "il": "Edirne",
+  "ilce": "Uzunköprü",
+  "lat": 41.2667,
+  "lng": 26.6833
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Ağın",
+  "lat": 38.95,
+  "lng": 38.7167
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Alacakaya",
+  "lat": 38.45,
+  "lng": 39.8667
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Arıcak",
+  "lat": 38.5667,
+  "lng": 40.1333
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Baskil",
+  "lat": 38.5675,
+  "lng": 38.8236
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Karakoçan",
+  "lat": 38.95,
+  "lng": 40.0333
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Keban",
+  "lat": 38.8,
+  "lng": 38.75
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Kovancılar",
+  "lat": 38.7167,
+  "lng": 39.8667
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Maden",
+  "lat": 38.3922,
+  "lng": 39.6685
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Merkez",
+  "lat": 38.6747,
+  "lng": 39.2227
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Palu",
+  "lat": 38.6917,
+  "lng": 39.9269
+ },
+ {
+  "il": "Elazığ",
+  "ilce": "Sivrice",
+  "lat": 38.45,
+  "lng": 39.3167
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Çayırlı",
+  "lat": 39.8,
+  "lng": 40.0333
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "İliç",
+  "lat": 39.45,
+  "lng": 38.5667
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Kemah",
+  "lat": 39.6025,
+  "lng": 39.0359
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Kemaliye",
+  "lat": 39.2667,
+  "lng": 38.5
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Merkez",
+  "lat": 39.7468,
+  "lng": 39.491
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Otlukbeli",
+  "lat": 39.9667,
+  "lng": 40.0167
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Refahiye",
+  "lat": 39.9,
+  "lng": 38.7667
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Tercan",
+  "lat": 39.7833,
+  "lng": 40.3833
+ },
+ {
+  "il": "Erzincan",
+  "ilce": "Üzümlü",
+  "lat": 39.7103,
+  "lng": 39.7022
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Aşkale",
+  "lat": 39.9308,
+  "lng": 40.6872
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Aziziye",
+  "lat": 39.9455,
+  "lng": 41.106
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Çat",
+  "lat": 39.6106,
+  "lng": 40.9786
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Hınıs",
+  "lat": 39.3564,
+  "lng": 41.7047
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Horasan",
+  "lat": 40.0422,
+  "lng": 42.1672
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "İspir",
+  "lat": 40.4847,
+  "lng": 41.0005
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Karaçoban",
+  "lat": 39.3517,
+  "lng": 42.1097
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Karayazı",
+  "lat": 39.7036,
+  "lng": 42.1436
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Köprüköy",
+  "lat": 39.9731,
+  "lng": 41.8725
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Narman",
+  "lat": 40.3472,
+  "lng": 41.8694
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Oltu",
+  "lat": 40.545,
+  "lng": 41.9953
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Olur",
+  "lat": 40.8275,
+  "lng": 42.1294
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Palandöken",
+  "lat": 39.8878,
+  "lng": 41.2644
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Pasinler",
+  "lat": 39.9822,
+  "lng": 41.6831
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Pazaryolu",
+  "lat": 40.4139,
+  "lng": 40.7725
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Şenkaya",
+  "lat": 40.5622,
+  "lng": 42.3453
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Tekman",
+  "lat": 39.65,
+  "lng": 41.5117
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Tortum",
+  "lat": 40.2969,
+  "lng": 41.5508
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Uzundere",
+  "lat": 40.5317,
+  "lng": 41.5483
+ },
+ {
+  "il": "Erzurum",
+  "ilce": "Yakutiye",
+  "lat": 39.905,
+  "lng": 41.2731
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Alpu",
+  "lat": 39.7789,
+  "lng": 30.9703
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Beylikova",
+  "lat": 39.6972,
+  "lng": 31.2119
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Çifteler",
+  "lat": 39.3928,
+  "lng": 31.0436
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Günyüzü",
+  "lat": 39.3842,
+  "lng": 31.8094
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Han",
+  "lat": 39.1689,
+  "lng": 30.8667
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "İnönü",
+  "lat": 39.8253,
+  "lng": 30.1606
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Mahmudiye",
+  "lat": 39.5072,
+  "lng": 30.9925
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Mihalgazi",
+  "lat": 40.0372,
+  "lng": 30.5836
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Mihalıççık",
+  "lat": 39.8642,
+  "lng": 31.4953
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Odunpazarı",
+  "lat": 39.7656,
+  "lng": 30.5238
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Sarıcakaya",
+  "lat": 40.0467,
+  "lng": 30.62
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Seyitgazi",
+  "lat": 39.4456,
+  "lng": 30.6939
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Sivrihisar",
+  "lat": 39.4594,
+  "lng": 31.5247
+ },
+ {
+  "il": "Eskişehir",
+  "ilce": "Tepebaşı",
+  "lat": 39.7833,
+  "lng": 30.4833
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Araban",
+  "lat": 37.4247,
+  "lng": 37.6928
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "İslahiye",
+  "lat": 37.0244,
+  "lng": 36.6342
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Karkamış",
+  "lat": 36.8345,
+  "lng": 37.9983
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Nizip",
+  "lat": 37.0111,
+  "lng": 37.795
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Nurdağı",
+  "lat": 37.1764,
+  "lng": 36.7383
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Oğuzeli",
+  "lat": 36.965,
+  "lng": 37.5092
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Şahinbey",
+  "lat": 37.0576,
+  "lng": 37.3794
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Şehitkamil",
+  "lat": 37.0728,
+  "lng": 37.395
+ },
+ {
+  "il": "Gaziantep",
+  "ilce": "Yavuzeli",
+  "lat": 37.3233,
+  "lng": 37.5694
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Alucra",
+  "lat": 40.3167,
+  "lng": 38.7667
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Bulancak",
+  "lat": 40.7667,
+  "lng": 38.15
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Çamoluk",
+  "lat": 40.1333,
+  "lng": 38.7333
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Çanakçı",
+  "lat": 40.9167,
+  "lng": 38.9833
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Dereli",
+  "lat": 40.7333,
+  "lng": 38.4333
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Doğankent",
+  "lat": 40.8,
+  "lng": 38.9167
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Espiye",
+  "lat": 40.7833,
+  "lng": 38.7667
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Eynesil",
+  "lat": 41.0333,
+  "lng": 39.1333
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Görele",
+  "lat": 41,
+  "lng": 39.0333
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Güce",
+  "lat": 40.8167,
+  "lng": 38.8167
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Keşap",
+  "lat": 40.9139,
+  "lng": 38.5144
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Merkez",
+  "lat": 40.9174,
+  "lng": 38.3848
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Piraziz",
+  "lat": 40.9333,
+  "lng": 38.1333
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Şebinkarahisar",
+  "lat": 40.2861,
+  "lng": 38.425
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Tirebolu",
+  "lat": 41.0063,
+  "lng": 38.8498
+ },
+ {
+  "il": "Giresun",
+  "ilce": "Yağlıdere",
+  "lat": 40.8,
+  "lng": 38.65
+ },
+ {
+  "il": "Gümüşhane",
+  "ilce": "Kelkit",
+  "lat": 40.1333,
+  "lng": 39.4333
+ },
+ {
+  "il": "Gümüşhane",
+  "ilce": "Köse",
+  "lat": 40.2167,
+  "lng": 39.65
+ },
+ {
+  "il": "Gümüşhane",
+  "ilce": "Kürtün",
+  "lat": 40.6667,
+  "lng": 39.1333
+ },
+ {
+  "il": "Gümüşhane",
+  "ilce": "Merkez",
+  "lat": 40.4618,
+  "lng": 39.4757
+ },
+ {
+  "il": "Gümüşhane",
+  "ilce": "Şiran",
+  "lat": 40.1908,
+  "lng": 39.1247
+ },
+ {
+  "il": "Gümüşhane",
+  "ilce": "Torul",
+  "lat": 40.55,
+  "lng": 39.3
+ },
+ {
+  "il": "Hakkari",
+  "ilce": "Çukurca",
+  "lat": 37.3,
+  "lng": 43.55
+ },
+ {
+  "il": "Hakkari",
+  "ilce": "Derecik",
+  "lat": 37.0813,
+  "lng": 44.3119
+ },
+ {
+  "il": "Hakkari",
+  "ilce": "Merkez",
+  "lat": 37.5767,
+  "lng": 43.7378
+ },
+ {
+  "il": "Hakkari",
+  "ilce": "Şemdinli",
+  "lat": 37.3133,
+  "lng": 44.5803
+ },
+ {
+  "il": "Hakkari",
+  "ilce": "Yüksekova",
+  "lat": 37.5667,
+  "lng": 44.2833
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Altınözü",
+  "lat": 36.1156,
+  "lng": 36.2486
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Antakya",
+  "lat": 36.2444,
+  "lng": 36.2011
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Arsuz",
+  "lat": 36.4113,
+  "lng": 35.8916
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Belen",
+  "lat": 36.4922,
+  "lng": 36.1933
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Defne",
+  "lat": 36.2374,
+  "lng": 36.1636
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Dörtyol",
+  "lat": 36.8372,
+  "lng": 36.2272
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Erzin",
+  "lat": 36.9522,
+  "lng": 36.1961
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Hassa",
+  "lat": 36.7981,
+  "lng": 36.5214
+ },
+ {
+  "il": "Hatay",
+  "ilce": "İskenderun",
+  "lat": 36.5872,
+  "lng": 36.1733
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Kırıkhan",
+  "lat": 36.4978,
+  "lng": 36.3542
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Kumlu",
+  "lat": 36.3628,
+  "lng": 36.4511
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Payas",
+  "lat": 36.7556,
+  "lng": 36.2053
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Reyhanlı",
+  "lat": 36.2636,
+  "lng": 36.5683
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Samandağ",
+  "lat": 36.0845,
+  "lng": 35.9763
+ },
+ {
+  "il": "Hatay",
+  "ilce": "Yayladağı",
+  "lat": 35.9517,
+  "lng": 36.0975
+ },
+ {
+  "il": "Iğdır",
+  "ilce": "Aralık",
+  "lat": 39.8831,
+  "lng": 44.5233
+ },
+ {
+  "il": "Iğdır",
+  "ilce": "Karakoyunlu",
+  "lat": 39.9667,
+  "lng": 44.1667
+ },
+ {
+  "il": "Iğdır",
+  "ilce": "Merkez",
+  "lat": 39.9219,
+  "lng": 44.0468
+ },
+ {
+  "il": "Iğdır",
+  "ilce": "Tuzluca",
+  "lat": 40.0403,
+  "lng": 43.6625
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Aksu",
+  "lat": 37.8,
+  "lng": 31.0667
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Atabey",
+  "lat": 37.9611,
+  "lng": 30.6453
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Eğirdir",
+  "lat": 37.885,
+  "lng": 30.8186
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Gelendost",
+  "lat": 38.1167,
+  "lng": 31.0167
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Gönen",
+  "lat": 37.95,
+  "lng": 30.5167
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Keçiborlu",
+  "lat": 37.9431,
+  "lng": 30.3022
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Merkez",
+  "lat": 37.7637,
+  "lng": 30.5551
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Senirkent",
+  "lat": 38.1142,
+  "lng": 30.5547
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Sütçüler",
+  "lat": 37.5,
+  "lng": 30.9833
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Şarkikaraağaç",
+  "lat": 38.0787,
+  "lng": 31.3639
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Uluborlu",
+  "lat": 38.0791,
+  "lng": 30.448
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Yalvaç",
+  "lat": 38.3,
+  "lng": 31.1833
+ },
+ {
+  "il": "Isparta",
+  "ilce": "Yenişarbademli",
+  "lat": 37.7194,
+  "lng": 31.3719
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Adalar",
+  "lat": 40.8753,
+  "lng": 29.0944
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Arnavutköy",
+  "lat": 41.1833,
+  "lng": 28.7333
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Ataşehir",
+  "lat": 40.9833,
+  "lng": 29.1278
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Avcılar",
+  "lat": 40.9792,
+  "lng": 28.7214
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Bağcılar",
+  "lat": 41.0428,
+  "lng": 28.8363
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Bahçelievler",
+  "lat": 40.9975,
+  "lng": 28.8506
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Bakırköy",
+  "lat": 40.9831,
+  "lng": 28.8536
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Başakşehir",
+  "lat": 41.0833,
+  "lng": 28.8167
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Bayrampaşa",
+  "lat": 41.0481,
+  "lng": 28.9003
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Beşiktaş",
+  "lat": 41.0753,
+  "lng": 29.0275
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Beykoz",
+  "lat": 41.125,
+  "lng": 29.1056
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Beylikdüzü",
+  "lat": 41.0032,
+  "lng": 28.6407
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Beyoğlu",
+  "lat": 41.0319,
+  "lng": 28.9761
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Büyükçekmece",
+  "lat": 41.0311,
+  "lng": 28.5483
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Çatalca",
+  "lat": 41.15,
+  "lng": 28.45
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Çekmeköy",
+  "lat": 41.0352,
+  "lng": 29.1739
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Esenler",
+  "lat": 41.0536,
+  "lng": 28.8717
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Esenyurt",
+  "lat": 41.047,
+  "lng": 28.658
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Eyüpsultan",
+  "lat": 41.0478,
+  "lng": 28.9327
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Fatih",
+  "lat": 41.0114,
+  "lng": 28.9503
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Gaziosmanpaşa",
+  "lat": 41.0786,
+  "lng": 28.8968
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Güngören",
+  "lat": 41.0211,
+  "lng": 28.8781
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Kadıköy",
+  "lat": 40.9869,
+  "lng": 29.0367
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Kağıthane",
+  "lat": 41.0861,
+  "lng": 28.9806
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Kartal",
+  "lat": 40.9064,
+  "lng": 29.2111
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Küçükçekmece",
+  "lat": 41.0219,
+  "lng": 28.7772
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Maltepe",
+  "lat": 40.9247,
+  "lng": 29.1308
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Pendik",
+  "lat": 40.9106,
+  "lng": 29.2961
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Sancaktepe",
+  "lat": 40.9895,
+  "lng": 29.2432
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Sarıyer",
+  "lat": 41.1733,
+  "lng": 29.0467
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Silivri",
+  "lat": 41.0764,
+  "lng": 28.2583
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Sultanbeyli",
+  "lat": 40.9678,
+  "lng": 29.2667
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Sultangazi",
+  "lat": 41.1037,
+  "lng": 28.8722
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Şile",
+  "lat": 41.1744,
+  "lng": 29.6125
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Şişli",
+  "lat": 41.0594,
+  "lng": 28.9869
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Tuzla",
+  "lat": 40.8818,
+  "lng": 29.3469
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Ümraniye",
+  "lat": 41.0208,
+  "lng": 29.1204
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Üsküdar",
+  "lat": 41.0284,
+  "lng": 29.0598
+ },
+ {
+  "il": "İstanbul",
+  "ilce": "Zeytinburnu",
+  "lat": 41.0053,
+  "lng": 28.9097
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Aliağa",
+  "lat": 38.7961,
+  "lng": 26.9756
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Balçova",
+  "lat": 38.3922,
+  "lng": 27.0464
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Bayındır",
+  "lat": 38.2242,
+  "lng": 27.6472
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Bayraklı",
+  "lat": 38.4622,
+  "lng": 27.1667
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Bergama",
+  "lat": 39.1192,
+  "lng": 27.1777
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Beydağ",
+  "lat": 38.0869,
+  "lng": 28.2089
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Bornova",
+  "lat": 38.4661,
+  "lng": 27.2191
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Buca",
+  "lat": 38.3886,
+  "lng": 27.1719
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Çeşme",
+  "lat": 38.3167,
+  "lng": 26.3
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Çiğli",
+  "lat": 38.4967,
+  "lng": 27.0639
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Dikili",
+  "lat": 39.0783,
+  "lng": 26.9069
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Foça",
+  "lat": 38.6689,
+  "lng": 26.7528
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Gaziemir",
+  "lat": 38.3258,
+  "lng": 27.1372
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Güzelbahçe",
+  "lat": 38.3597,
+  "lng": 26.8881
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Karabağlar",
+  "lat": 38.3847,
+  "lng": 27.1133
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Karaburun",
+  "lat": 38.6359,
+  "lng": 26.5097
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Karşıyaka",
+  "lat": 38.4761,
+  "lng": 27.1019
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Kemalpaşa",
+  "lat": 38.4294,
+  "lng": 27.4155
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Kınık",
+  "lat": 39.0856,
+  "lng": 27.3822
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Kiraz",
+  "lat": 38.2306,
+  "lng": 28.2044
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Konak",
+  "lat": 38.4145,
+  "lng": 27.1441
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Menderes",
+  "lat": 38.2519,
+  "lng": 27.1339
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Menemen",
+  "lat": 38.6161,
+  "lng": 27.0632
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Narlıdere",
+  "lat": 38.3944,
+  "lng": 27.0097
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Ödemiş",
+  "lat": 38.2311,
+  "lng": 27.9719
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Seferihisar",
+  "lat": 38.1975,
+  "lng": 26.8388
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Selçuk",
+  "lat": 37.95,
+  "lng": 27.3667
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Tire",
+  "lat": 38.0867,
+  "lng": 27.735
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Torbalı",
+  "lat": 38.1514,
+  "lng": 27.3616
+ },
+ {
+  "il": "İzmir",
+  "ilce": "Urla",
+  "lat": 38.3325,
+  "lng": 26.7689
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Afşin",
+  "lat": 38.2581,
+  "lng": 36.9189
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Andırın",
+  "lat": 37.5878,
+  "lng": 36.3611
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Çağlayancerit",
+  "lat": 37.7497,
+  "lng": 37.2903
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Dulkadiroğlu",
+  "lat": 37.5686,
+  "lng": 36.8847
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Ekinözü",
+  "lat": 38.0617,
+  "lng": 37.1928
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Elbistan",
+  "lat": 38.2,
+  "lng": 37.1833
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Göksun",
+  "lat": 38.0167,
+  "lng": 36.5
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Nurhak",
+  "lat": 37.9654,
+  "lng": 37.4485
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Onikişubat",
+  "lat": 37.5778,
+  "lng": 36.9237
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Pazarcık",
+  "lat": 37.4894,
+  "lng": 37.2967
+ },
+ {
+  "il": "Kahramanmaraş",
+  "ilce": "Türkoğlu",
+  "lat": 37.3817,
+  "lng": 36.8511
+ },
+ {
+  "il": "Karabük",
+  "ilce": "Eflani",
+  "lat": 41.4167,
+  "lng": 32.95
+ },
+ {
+  "il": "Karabük",
+  "ilce": "Eskipazar",
+  "lat": 40.95,
+  "lng": 32.5333
+ },
+ {
+  "il": "Karabük",
+  "ilce": "Merkez",
+  "lat": 41.1955,
+  "lng": 32.6231
+ },
+ {
+  "il": "Karabük",
+  "ilce": "Ovacık",
+  "lat": 41.0756,
+  "lng": 32.9183
+ },
+ {
+  "il": "Karabük",
+  "ilce": "Safranbolu",
+  "lat": 41.25,
+  "lng": 32.6833
+ },
+ {
+  "il": "Karabük",
+  "ilce": "Yenice",
+  "lat": 41.2103,
+  "lng": 32.3367
+ },
+ {
+  "il": "Karaman",
+  "ilce": "Ayrancı",
+  "lat": 37.35,
+  "lng": 33.6833
+ },
+ {
+  "il": "Karaman",
+  "ilce": "Başyayla",
+  "lat": 36.7622,
+  "lng": 32.6886
+ },
+ {
+  "il": "Karaman",
+  "ilce": "Ermenek",
+  "lat": 36.6403,
+  "lng": 32.8906
+ },
+ {
+  "il": "Karaman",
+  "ilce": "Kazımkarabekir",
+  "lat": 37.2403,
+  "lng": 32.9642
+ },
+ {
+  "il": "Karaman",
+  "ilce": "Merkez",
+  "lat": 37.1809,
+  "lng": 33.2195
+ },
+ {
+  "il": "Karaman",
+  "ilce": "Sarıveliler",
+  "lat": 36.7017,
+  "lng": 32.6264
+ },
+ {
+  "il": "Kars",
+  "ilce": "Akyaka",
+  "lat": 40.75,
+  "lng": 43.6333
+ },
+ {
+  "il": "Kars",
+  "ilce": "Arpaçay",
+  "lat": 40.8461,
+  "lng": 43.3289
+ },
+ {
+  "il": "Kars",
+  "ilce": "Digor",
+  "lat": 40.3833,
+  "lng": 43.4167
+ },
+ {
+  "il": "Kars",
+  "ilce": "Kağızman",
+  "lat": 40.15,
+  "lng": 43.1333
+ },
+ {
+  "il": "Kars",
+  "ilce": "Merkez",
+  "lat": 40.6071,
+  "lng": 43.0948
+ },
+ {
+  "il": "Kars",
+  "ilce": "Sarıkamış",
+  "lat": 40.3335,
+  "lng": 42.5898
+ },
+ {
+  "il": "Kars",
+  "ilce": "Selim",
+  "lat": 40.4644,
+  "lng": 42.7897
+ },
+ {
+  "il": "Kars",
+  "ilce": "Susuz",
+  "lat": 40.7833,
+  "lng": 43.1333
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Abana",
+  "lat": 41.9667,
+  "lng": 34.0167
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Ağlı",
+  "lat": 41.6872,
+  "lng": 33.5542
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Araç",
+  "lat": 41.25,
+  "lng": 33.3333
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Azdavay",
+  "lat": 41.65,
+  "lng": 33.3
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Bozkurt",
+  "lat": 41.9333,
+  "lng": 34.0333
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Cide",
+  "lat": 41.8833,
+  "lng": 33.0333
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Çatalzeytin",
+  "lat": 41.95,
+  "lng": 34.2167
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Daday",
+  "lat": 41.4767,
+  "lng": 33.4644
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Devrekani",
+  "lat": 41.6,
+  "lng": 33.8333
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Doğanyurt",
+  "lat": 42,
+  "lng": 33.45
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Hanönü",
+  "lat": 41.6333,
+  "lng": 34.4667
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "İhsangazi",
+  "lat": 41.1833,
+  "lng": 33.55
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "İnebolu",
+  "lat": 41.9661,
+  "lng": 33.7656
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Küre",
+  "lat": 41.8,
+  "lng": 33.7167
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Merkez",
+  "lat": 41.3765,
+  "lng": 33.777
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Pınarbaşı",
+  "lat": 41.615,
+  "lng": 33.1131
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Seydiler",
+  "lat": 41.6167,
+  "lng": 33.75
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Şenpazar",
+  "lat": 41.8,
+  "lng": 33.2667
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Taşköprü",
+  "lat": 41.5183,
+  "lng": 34.2028
+ },
+ {
+  "il": "Kastamonu",
+  "ilce": "Tosya",
+  "lat": 41.1,
+  "lng": 34.0333
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Akkışla",
+  "lat": 39,
+  "lng": 36.1667
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Bünyan",
+  "lat": 38.8547,
+  "lng": 35.8519
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Develi",
+  "lat": 38.3883,
+  "lng": 35.4928
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Felahiye",
+  "lat": 39.09,
+  "lng": 35.5669
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Hacılar",
+  "lat": 38.6458,
+  "lng": 35.4492
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "İncesu",
+  "lat": 38.6379,
+  "lng": 35.1939
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Kocasinan",
+  "lat": 38.7356,
+  "lng": 35.4797
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Melikgazi",
+  "lat": 38.7203,
+  "lng": 35.5003
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Özvatan",
+  "lat": 39.1061,
+  "lng": 35.6989
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Pınarbaşı",
+  "lat": 38.7322,
+  "lng": 36.3822
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Sarıoğlan",
+  "lat": 39.0878,
+  "lng": 35.9744
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Sarız",
+  "lat": 38.4792,
+  "lng": 36.5006
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Talas",
+  "lat": 38.7017,
+  "lng": 35.5606
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Tomarza",
+  "lat": 38.4578,
+  "lng": 35.8047
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Yahyalı",
+  "lat": 38.1003,
+  "lng": 35.3541
+ },
+ {
+  "il": "Kayseri",
+  "ilce": "Yeşilhisar",
+  "lat": 38.3348,
+  "lng": 35.118
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Bahşılı",
+  "lat": 39.8097,
+  "lng": 33.4408
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Balışeyh",
+  "lat": 39.9167,
+  "lng": 33.7167
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Çelebi",
+  "lat": 39.467,
+  "lng": 33.517
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Delice",
+  "lat": 39.95,
+  "lng": 34.0167
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Karakeçili",
+  "lat": 39.6047,
+  "lng": 33.3825
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Keskin",
+  "lat": 39.6828,
+  "lng": 33.6183
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Merkez",
+  "lat": 39.841,
+  "lng": 33.5059
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Sulakyurt",
+  "lat": 40.15,
+  "lng": 33.7167
+ },
+ {
+  "il": "Kırıkkale",
+  "ilce": "Yahşihan",
+  "lat": 39.85,
+  "lng": 33.45
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Babaeski",
+  "lat": 41.4333,
+  "lng": 27.1
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Demirköy",
+  "lat": 41.823,
+  "lng": 27.7729
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Kofçaz",
+  "lat": 41.9333,
+  "lng": 27.1667
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Lüleburgaz",
+  "lat": 41.415,
+  "lng": 27.3733
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Merkez",
+  "lat": 41.737,
+  "lng": 27.2236
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Pehlivanköy",
+  "lat": 41.3481,
+  "lng": 26.9197
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Pınarhisar",
+  "lat": 41.6333,
+  "lng": 27.5167
+ },
+ {
+  "il": "Kırklareli",
+  "ilce": "Vize",
+  "lat": 41.5736,
+  "lng": 27.7653
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Akçakent",
+  "lat": 39.625,
+  "lng": 34.0961
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Akpınar",
+  "lat": 39.4511,
+  "lng": 33.9658
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Boztepe",
+  "lat": 39.2697,
+  "lng": 34.2614
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Çiçekdağı",
+  "lat": 39.6036,
+  "lng": 34.4169
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Kaman",
+  "lat": 39.3588,
+  "lng": 33.7243
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Merkez",
+  "lat": 39.1461,
+  "lng": 34.1606
+ },
+ {
+  "il": "Kırşehir",
+  "ilce": "Mucur",
+  "lat": 39.0628,
+  "lng": 34.3767
+ },
+ {
+  "il": "Kilis",
+  "ilce": "Elbeyli",
+  "lat": 36.6742,
+  "lng": 37.4656
+ },
+ {
+  "il": "Kilis",
+  "ilce": "Merkez",
+  "lat": 36.7166,
+  "lng": 37.1146
+ },
+ {
+  "il": "Kilis",
+  "ilce": "Musabeyli",
+  "lat": 36.8864,
+  "lng": 36.9183
+ },
+ {
+  "il": "Kilis",
+  "ilce": "Polateli",
+  "lat": 36.8433,
+  "lng": 37.1442
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Başiskele",
+  "lat": 40.7124,
+  "lng": 29.9285
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Çayırova",
+  "lat": 40.8278,
+  "lng": 29.3901
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Darıca",
+  "lat": 40.7592,
+  "lng": 29.3853
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Derince",
+  "lat": 40.76,
+  "lng": 29.81
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Dilovası",
+  "lat": 40.7891,
+  "lng": 29.5421
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Gebze",
+  "lat": 40.8976,
+  "lng": 29.5506
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Gölcük",
+  "lat": 40.72,
+  "lng": 29.8203
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "İzmit",
+  "lat": 40.7667,
+  "lng": 29.9167
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Kandıra",
+  "lat": 41.07,
+  "lng": 30.15
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Karamürsel",
+  "lat": 40.6914,
+  "lng": 29.6156
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Kartepe",
+  "lat": 40.753,
+  "lng": 30.0272
+ },
+ {
+  "il": "Kocaeli",
+  "ilce": "Körfez",
+  "lat": 40.7758,
+  "lng": 29.7944
+ },
+ {
+  "il": "Konya",
+  "ilce": "Ahırlı",
+  "lat": 37.2375,
+  "lng": 32.1181
+ },
+ {
+  "il": "Konya",
+  "ilce": "Akören",
+  "lat": 37.4569,
+  "lng": 32.3694
+ },
+ {
+  "il": "Konya",
+  "ilce": "Akşehir",
+  "lat": 38.2,
+  "lng": 31.5167
+ },
+ {
+  "il": "Konya",
+  "ilce": "Altınekin",
+  "lat": 38.3178,
+  "lng": 32.8744
+ },
+ {
+  "il": "Konya",
+  "ilce": "Beyşehir",
+  "lat": 37.6867,
+  "lng": 31.7306
+ },
+ {
+  "il": "Konya",
+  "ilce": "Bozkır",
+  "lat": 37.1897,
+  "lng": 32.2472
+ },
+ {
+  "il": "Konya",
+  "ilce": "Cihanbeyli",
+  "lat": 38.6713,
+  "lng": 32.9252
+ },
+ {
+  "il": "Konya",
+  "ilce": "Çeltik",
+  "lat": 39.0339,
+  "lng": 31.7942
+ },
+ {
+  "il": "Konya",
+  "ilce": "Çumra",
+  "lat": 37.5817,
+  "lng": 32.7797
+ },
+ {
+  "il": "Konya",
+  "ilce": "Derbent",
+  "lat": 38.0242,
+  "lng": 32.0247
+ },
+ {
+  "il": "Konya",
+  "ilce": "Derebucak",
+  "lat": 37.3936,
+  "lng": 31.5075
+ },
+ {
+  "il": "Konya",
+  "ilce": "Doğanhisar",
+  "lat": 38.1461,
+  "lng": 31.6769
+ },
+ {
+  "il": "Konya",
+  "ilce": "Emirgazi",
+  "lat": 37.9022,
+  "lng": 33.8372
+ },
+ {
+  "il": "Konya",
+  "ilce": "Ereğli",
+  "lat": 37.5133,
+  "lng": 34.0478
+ },
+ {
+  "il": "Konya",
+  "ilce": "Güneysınır",
+  "lat": 37.2981,
+  "lng": 32.7211
+ },
+ {
+  "il": "Konya",
+  "ilce": "Hadim",
+  "lat": 36.9883,
+  "lng": 32.4569
+ },
+ {
+  "il": "Konya",
+  "ilce": "Halkapınar",
+  "lat": 37.4335,
+  "lng": 34.1866
+ },
+ {
+  "il": "Konya",
+  "ilce": "Hüyük",
+  "lat": 37.9633,
+  "lng": 31.6
+ },
+ {
+  "il": "Konya",
+  "ilce": "Ilgın",
+  "lat": 38.2792,
+  "lng": 31.9139
+ },
+ {
+  "il": "Konya",
+  "ilce": "Kadınhanı",
+  "lat": 38.2397,
+  "lng": 32.2114
+ },
+ {
+  "il": "Konya",
+  "ilce": "Karapınar",
+  "lat": 37.7158,
+  "lng": 33.5478
+ },
+ {
+  "il": "Konya",
+  "ilce": "Karatay",
+  "lat": 37.8852,
+  "lng": 32.527
+ },
+ {
+  "il": "Konya",
+  "ilce": "Kulu",
+  "lat": 39.09,
+  "lng": 33.0808
+ },
+ {
+  "il": "Konya",
+  "ilce": "Meram",
+  "lat": 37.8364,
+  "lng": 32.4383
+ },
+ {
+  "il": "Konya",
+  "ilce": "Sarayönü",
+  "lat": 38.2661,
+  "lng": 32.4064
+ },
+ {
+  "il": "Konya",
+  "ilce": "Selçuklu",
+  "lat": 37.8769,
+  "lng": 32.4874
+ },
+ {
+  "il": "Konya",
+  "ilce": "Seydişehir",
+  "lat": 37.42,
+  "lng": 31.8486
+ },
+ {
+  "il": "Konya",
+  "ilce": "Taşkent",
+  "lat": 36.9339,
+  "lng": 32.4953
+ },
+ {
+  "il": "Konya",
+  "ilce": "Tuzlukçu",
+  "lat": 38.4775,
+  "lng": 31.6264
+ },
+ {
+  "il": "Konya",
+  "ilce": "Yalıhüyük",
+  "lat": 37.3,
+  "lng": 32.0833
+ },
+ {
+  "il": "Konya",
+  "ilce": "Yunak",
+  "lat": 38.8161,
+  "lng": 31.7331
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Altıntaş",
+  "lat": 39.0694,
+  "lng": 30.1206
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Aslanapa",
+  "lat": 39.2258,
+  "lng": 29.8822
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Çavdarhisar",
+  "lat": 39.1958,
+  "lng": 29.6194
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Domaniç",
+  "lat": 39.8,
+  "lng": 29.6167
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Dumlupınar",
+  "lat": 38.8764,
+  "lng": 30.0064
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Emet",
+  "lat": 39.3333,
+  "lng": 29.2667
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Gediz",
+  "lat": 39.0528,
+  "lng": 29.4175
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Hisarcık",
+  "lat": 39.26,
+  "lng": 29.2414
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Merkez",
+  "lat": 39.4199,
+  "lng": 29.9858
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Pazarlar",
+  "lat": 38.9947,
+  "lng": 29.1231
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Simav",
+  "lat": 39.0833,
+  "lng": 28.9833
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Şaphane",
+  "lat": 39.0361,
+  "lng": 29.2275
+ },
+ {
+  "il": "Kütahya",
+  "ilce": "Tavşanlı",
+  "lat": 39.5489,
+  "lng": 29.5164
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Akçadağ",
+  "lat": 38.3442,
+  "lng": 37.9742
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Arapgir",
+  "lat": 39.043,
+  "lng": 38.489
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Arguvan",
+  "lat": 38.7817,
+  "lng": 38.2635
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Battalgazi",
+  "lat": 38.4228,
+  "lng": 38.3656
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Darende",
+  "lat": 38.5564,
+  "lng": 37.4936
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Doğanşehir",
+  "lat": 38.0914,
+  "lng": 37.8769
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Doğanyol",
+  "lat": 38.3101,
+  "lng": 39.0376
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Hekimhan",
+  "lat": 38.8164,
+  "lng": 37.9328
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Kale",
+  "lat": 38.3978,
+  "lng": 38.7442
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Kuluncak",
+  "lat": 38.8825,
+  "lng": 37.6719
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Pütürge",
+  "lat": 38.1967,
+  "lng": 38.8697
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Yazıhan",
+  "lat": 38.5956,
+  "lng": 38.1797
+ },
+ {
+  "il": "Malatya",
+  "ilce": "Yeşilyurt",
+  "lat": 38.3067,
+  "lng": 38.2536
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Ahmetli",
+  "lat": 38.5197,
+  "lng": 27.9386
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Akhisar",
+  "lat": 38.9219,
+  "lng": 27.8351
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Alaşehir",
+  "lat": 38.3453,
+  "lng": 28.5172
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Demirci",
+  "lat": 39.0453,
+  "lng": 28.6556
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Gölmarmara",
+  "lat": 38.7139,
+  "lng": 27.9142
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Gördes",
+  "lat": 38.9328,
+  "lng": 28.2894
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Kırkağaç",
+  "lat": 39.1064,
+  "lng": 27.6692
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Köprübaşı",
+  "lat": 38.7486,
+  "lng": 28.4031
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Kula",
+  "lat": 38.5677,
+  "lng": 28.6415
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Salihli",
+  "lat": 38.4869,
+  "lng": 28.1383
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Sarıgöl",
+  "lat": 38.2394,
+  "lng": 28.6967
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Saruhanlı",
+  "lat": 38.7678,
+  "lng": 27.6471
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Selendi",
+  "lat": 38.7547,
+  "lng": 28.8739
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Soma",
+  "lat": 39.1852,
+  "lng": 27.6089
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Şehzadeler",
+  "lat": 38.6166,
+  "lng": 27.4386
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Turgutlu",
+  "lat": 38.5,
+  "lng": 27.7
+ },
+ {
+  "il": "Manisa",
+  "ilce": "Yunusemre",
+  "lat": 38.6087,
+  "lng": 27.4195
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Artuklu",
+  "lat": 37.3129,
+  "lng": 40.7334
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Dargeçit",
+  "lat": 37.5458,
+  "lng": 41.7244
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Derik",
+  "lat": 37.3644,
+  "lng": 40.2689
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Kızıltepe",
+  "lat": 37.1931,
+  "lng": 40.5869
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Mazıdağı",
+  "lat": 37.4773,
+  "lng": 40.4865
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Midyat",
+  "lat": 37.3792,
+  "lng": 41.3458
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Nusaybin",
+  "lat": 37.0792,
+  "lng": 41.22
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Ömerli",
+  "lat": 37.4031,
+  "lng": 40.9547
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Savur",
+  "lat": 37.5375,
+  "lng": 40.8892
+ },
+ {
+  "il": "Mardin",
+  "ilce": "Yeşilli",
+  "lat": 37.3167,
+  "lng": 40.8611
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Akdeniz",
+  "lat": 36.8104,
+  "lng": 34.6433
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Anamur",
+  "lat": 36.0803,
+  "lng": 32.8312
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Aydıncık",
+  "lat": 36.1533,
+  "lng": 33.3475
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Bozyazı",
+  "lat": 36.1048,
+  "lng": 32.9743
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Çamlıyayla",
+  "lat": 37.1665,
+  "lng": 34.5934
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Erdemli",
+  "lat": 36.6057,
+  "lng": 34.3103
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Gülnar",
+  "lat": 36.3528,
+  "lng": 33.4031
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Mezitli",
+  "lat": 36.75,
+  "lng": 34.5333
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Mut",
+  "lat": 36.6434,
+  "lng": 33.4373
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Silifke",
+  "lat": 36.3887,
+  "lng": 33.9407
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Tarsus",
+  "lat": 36.9167,
+  "lng": 34.895
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Toroslar",
+  "lat": 37.0786,
+  "lng": 34.5572
+ },
+ {
+  "il": "Mersin",
+  "ilce": "Yenişehir",
+  "lat": 36.7818,
+  "lng": 34.5847
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Bodrum",
+  "lat": 37.065,
+  "lng": 27.4982
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Dalaman",
+  "lat": 36.77,
+  "lng": 28.8
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Datça",
+  "lat": 36.7286,
+  "lng": 27.6867
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Fethiye",
+  "lat": 36.6548,
+  "lng": 29.1268
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Kavaklıdere",
+  "lat": 37.4456,
+  "lng": 28.3649
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Köyceğiz",
+  "lat": 36.9578,
+  "lng": 28.6883
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Marmaris",
+  "lat": 36.8536,
+  "lng": 28.2661
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Menteşe",
+  "lat": 37.2179,
+  "lng": 28.3646
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Milas",
+  "lat": 37.3167,
+  "lng": 27.7833
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Ortaca",
+  "lat": 36.8397,
+  "lng": 28.7672
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Seydikemer",
+  "lat": 36.648,
+  "lng": 29.3617
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Ula",
+  "lat": 37.1153,
+  "lng": 28.4272
+ },
+ {
+  "il": "Muğla",
+  "ilce": "Yatağan",
+  "lat": 37.3425,
+  "lng": 28.1392
+ },
+ {
+  "il": "Muş",
+  "ilce": "Bulanık",
+  "lat": 39.0922,
+  "lng": 42.271
+ },
+ {
+  "il": "Muş",
+  "ilce": "Hasköy",
+  "lat": 38.6833,
+  "lng": 41.6833
+ },
+ {
+  "il": "Muş",
+  "ilce": "Korkut",
+  "lat": 38.7333,
+  "lng": 41.7833
+ },
+ {
+  "il": "Muş",
+  "ilce": "Malazgirt",
+  "lat": 39.1492,
+  "lng": 42.5444
+ },
+ {
+  "il": "Muş",
+  "ilce": "Merkez",
+  "lat": 38.7322,
+  "lng": 41.4899
+ },
+ {
+  "il": "Muş",
+  "ilce": "Varto",
+  "lat": 39.1708,
+  "lng": 41.4544
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Acıgöl",
+  "lat": 38.5611,
+  "lng": 34.5172
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Avanos",
+  "lat": 38.7167,
+  "lng": 34.85
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Derinkuyu",
+  "lat": 38.3742,
+  "lng": 34.7337
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Gülşehir",
+  "lat": 38.7427,
+  "lng": 34.6195
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Hacıbektaş",
+  "lat": 38.9436,
+  "lng": 34.5606
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Kozaklı",
+  "lat": 39.2167,
+  "lng": 34.85
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Merkez",
+  "lat": 38.625,
+  "lng": 34.7151
+ },
+ {
+  "il": "Nevşehir",
+  "ilce": "Ürgüp",
+  "lat": 38.6308,
+  "lng": 34.9114
+ },
+ {
+  "il": "Niğde",
+  "ilce": "Altunhisar",
+  "lat": 38,
+  "lng": 34.3667
+ },
+ {
+  "il": "Niğde",
+  "ilce": "Bor",
+  "lat": 37.8833,
+  "lng": 34.5667
+ },
+ {
+  "il": "Niğde",
+  "ilce": "Çamardı",
+  "lat": 37.8333,
+  "lng": 34.9833
+ },
+ {
+  "il": "Niğde",
+  "ilce": "Çiftlik",
+  "lat": 38.1761,
+  "lng": 34.4844
+ },
+ {
+  "il": "Niğde",
+  "ilce": "Merkez",
+  "lat": 37.9698,
+  "lng": 34.6764
+ },
+ {
+  "il": "Niğde",
+  "ilce": "Ulukışla",
+  "lat": 37.5459,
+  "lng": 34.5874
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Akkuş",
+  "lat": 40.81,
+  "lng": 36.96
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Altınordu",
+  "lat": 40.9787,
+  "lng": 37.8964
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Aybastı",
+  "lat": 40.6847,
+  "lng": 37.3989
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Çamaş",
+  "lat": 40.9083,
+  "lng": 37.5217
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Çatalpınar",
+  "lat": 40.879,
+  "lng": 37.4532
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Çaybaşı",
+  "lat": 41.0175,
+  "lng": 37.0986
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Fatsa",
+  "lat": 41.0308,
+  "lng": 37.4997
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Gölköy",
+  "lat": 40.6869,
+  "lng": 37.6131
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Gülyalı",
+  "lat": 40.9669,
+  "lng": 38.0567
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Gürgentepe",
+  "lat": 40.7911,
+  "lng": 37.6008
+ },
+ {
+  "il": "Ordu",
+  "ilce": "İkizce",
+  "lat": 41.0531,
+  "lng": 37.0775
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Kabadüz",
+  "lat": 40.8597,
+  "lng": 37.89
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Kabataş",
+  "lat": 40.76,
+  "lng": 37.4586
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Korgan",
+  "lat": 40.8289,
+  "lng": 37.3436
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Kumru",
+  "lat": 40.8836,
+  "lng": 37.2761
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Mesudiye",
+  "lat": 40.4642,
+  "lng": 37.7742
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Perşembe",
+  "lat": 41.0606,
+  "lng": 37.7639
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Ulubey",
+  "lat": 40.8736,
+  "lng": 37.7589
+ },
+ {
+  "il": "Ordu",
+  "ilce": "Ünye",
+  "lat": 41.1271,
+  "lng": 37.2882
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Bahçe",
+  "lat": 37.2011,
+  "lng": 36.5769
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Düziçi",
+  "lat": 37.2417,
+  "lng": 36.4547
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Hasanbeyli",
+  "lat": 37.1311,
+  "lng": 36.5561
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Kadirli",
+  "lat": 37.3667,
+  "lng": 36.1
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Merkez",
+  "lat": 37.0734,
+  "lng": 36.2508
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Sumbas",
+  "lat": 37.45,
+  "lng": 36.0333
+ },
+ {
+  "il": "Osmaniye",
+  "ilce": "Toprakkale",
+  "lat": 37.0667,
+  "lng": 36.15
+ },
+ {
+  "il": "Rize",
+  "ilce": "Ardeşen",
+  "lat": 41.1833,
+  "lng": 40.9833
+ },
+ {
+  "il": "Rize",
+  "ilce": "Çamlıhemşin",
+  "lat": 40.9333,
+  "lng": 41.0333
+ },
+ {
+  "il": "Rize",
+  "ilce": "Çayeli",
+  "lat": 40.75,
+  "lng": 41.0667
+ },
+ {
+  "il": "Rize",
+  "ilce": "Derepazarı",
+  "lat": 41.0167,
+  "lng": 40.4333
+ },
+ {
+  "il": "Rize",
+  "ilce": "Fındıklı",
+  "lat": 41.1333,
+  "lng": 41.0167
+ },
+ {
+  "il": "Rize",
+  "ilce": "Güneysu",
+  "lat": 40.9786,
+  "lng": 40.6128
+ },
+ {
+  "il": "Rize",
+  "ilce": "Hemşin",
+  "lat": 41.05,
+  "lng": 40.9
+ },
+ {
+  "il": "Rize",
+  "ilce": "İkizdere",
+  "lat": 40.7794,
+  "lng": 40.5592
+ },
+ {
+  "il": "Rize",
+  "ilce": "İyidere",
+  "lat": 41.0091,
+  "lng": 40.3778
+ },
+ {
+  "il": "Rize",
+  "ilce": "Kalkandere",
+  "lat": 40.9333,
+  "lng": 40.45
+ },
+ {
+  "il": "Rize",
+  "ilce": "Merkez",
+  "lat": 41.0248,
+  "lng": 40.5199
+ },
+ {
+  "il": "Rize",
+  "ilce": "Pazar",
+  "lat": 41.1667,
+  "lng": 40.8833
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Adapazarı",
+  "lat": 40.7763,
+  "lng": 30.4026
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Akyazı",
+  "lat": 40.6833,
+  "lng": 30.6253
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Arifiye",
+  "lat": 40.7133,
+  "lng": 30.3613
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Erenler",
+  "lat": 40.7558,
+  "lng": 30.4153
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Ferizli",
+  "lat": 40.9402,
+  "lng": 30.4846
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Geyve",
+  "lat": 40.5091,
+  "lng": 30.2903
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Hendek",
+  "lat": 40.7964,
+  "lng": 30.7461
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Karapürçek",
+  "lat": 40.6425,
+  "lng": 30.5386
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Karasu",
+  "lat": 41.0942,
+  "lng": 30.6917
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Kaynarca",
+  "lat": 41.0406,
+  "lng": 30.2961
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Kocaali",
+  "lat": 41.0542,
+  "lng": 30.8511
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Pamukova",
+  "lat": 40.5056,
+  "lng": 30.1693
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Sapanca",
+  "lat": 40.7022,
+  "lng": 30.2744
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Serdivan",
+  "lat": 40.7653,
+  "lng": 30.3608
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Söğütlü",
+  "lat": 40.9036,
+  "lng": 30.4711
+ },
+ {
+  "il": "Sakarya",
+  "ilce": "Taraklı",
+  "lat": 40.3969,
+  "lng": 30.4928
+ },
+ {
+  "il": "Samsun",
+  "ilce": "19 Mayıs",
+  "lat": 41.4937,
+  "lng": 36.081
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Alaçam",
+  "lat": 41.61,
+  "lng": 35.595
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Asarcık",
+  "lat": 41.036,
+  "lng": 36.2348
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Atakum",
+  "lat": 41.3233,
+  "lng": 36.2944
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Ayvacık",
+  "lat": 41.0025,
+  "lng": 36.6369
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Bafra",
+  "lat": 41.4608,
+  "lng": 35.8444
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Canik",
+  "lat": 41.2719,
+  "lng": 36.3508
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Çarşamba",
+  "lat": 41.2106,
+  "lng": 36.7319
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Havza",
+  "lat": 40.9797,
+  "lng": 35.6711
+ },
+ {
+  "il": "Samsun",
+  "ilce": "İlkadım",
+  "lat": 41.2833,
+  "lng": 36.3333
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Kavak",
+  "lat": 41.0878,
+  "lng": 36.0519
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Ladik",
+  "lat": 40.9119,
+  "lng": 35.8947
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Salıpazarı",
+  "lat": 41.0813,
+  "lng": 36.8258
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Tekkeköy",
+  "lat": 41.2125,
+  "lng": 36.4569
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Terme",
+  "lat": 41.2189,
+  "lng": 36.9825
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Vezirköprü",
+  "lat": 41.1519,
+  "lng": 35.4622
+ },
+ {
+  "il": "Samsun",
+  "ilce": "Yakakent",
+  "lat": 41.6325,
+  "lng": 35.5239
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Baykan",
+  "lat": 38.1631,
+  "lng": 41.7842
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Eruh",
+  "lat": 37.7506,
+  "lng": 42.1808
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Kurtalan",
+  "lat": 37.9261,
+  "lng": 41.7002
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Merkez",
+  "lat": 37.9274,
+  "lng": 41.9422
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Pervari",
+  "lat": 37.9325,
+  "lng": 42.548
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Şirvan",
+  "lat": 38.0618,
+  "lng": 42.0299
+ },
+ {
+  "il": "Siirt",
+  "ilce": "Tillo",
+  "lat": 37.9501,
+  "lng": 42.0125
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Ayancık",
+  "lat": 41.9425,
+  "lng": 34.5883
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Boyabat",
+  "lat": 41.4792,
+  "lng": 34.7717
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Dikmen",
+  "lat": 41.6511,
+  "lng": 35.265
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Durağan",
+  "lat": 41.415,
+  "lng": 35.0536
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Erfelek",
+  "lat": 41.8892,
+  "lng": 34.9264
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Gerze",
+  "lat": 41.7667,
+  "lng": 35.1667
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Merkez",
+  "lat": 42.0266,
+  "lng": 35.1512
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Saraydüzü",
+  "lat": 41.3333,
+  "lng": 34.85
+ },
+ {
+  "il": "Sinop",
+  "ilce": "Türkeli",
+  "lat": 41.9483,
+  "lng": 34.3369
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Akıncılar",
+  "lat": 40.0786,
+  "lng": 38.3461
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Altınyayla",
+  "lat": 39.2822,
+  "lng": 36.7569
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Divriği",
+  "lat": 39.3722,
+  "lng": 38.1183
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Doğanşar",
+  "lat": 40.2142,
+  "lng": 37.5361
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Gemerek",
+  "lat": 39.1939,
+  "lng": 36.0778
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Gölova",
+  "lat": 40.0667,
+  "lng": 38.6
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Gürün",
+  "lat": 38.7328,
+  "lng": 37.2753
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Hafik",
+  "lat": 39.85,
+  "lng": 37.3833
+ },
+ {
+  "il": "Sivas",
+  "ilce": "İmranlı",
+  "lat": 39.8752,
+  "lng": 38.1124
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Kangal",
+  "lat": 39.2433,
+  "lng": 37.3972
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Koyulhisar",
+  "lat": 40.3,
+  "lng": 37.8333
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Merkez",
+  "lat": 39.7504,
+  "lng": 37.0145
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Suşehri",
+  "lat": 40.1628,
+  "lng": 38.0855
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Şarkışla",
+  "lat": 39.3617,
+  "lng": 36.4183
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Ulaş",
+  "lat": 39.4444,
+  "lng": 37.0414
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Yıldızeli",
+  "lat": 39.8761,
+  "lng": 36.6064
+ },
+ {
+  "il": "Sivas",
+  "ilce": "Zara",
+  "lat": 39.9,
+  "lng": 37.75
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Akçakale",
+  "lat": 36.7133,
+  "lng": 38.9483
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Birecik",
+  "lat": 37.0339,
+  "lng": 37.9967
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Bozova",
+  "lat": 37.3708,
+  "lng": 38.5333
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Ceylanpınar",
+  "lat": 36.8461,
+  "lng": 40.0489
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Eyyübiye",
+  "lat": 37.1481,
+  "lng": 38.7825
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Halfeti",
+  "lat": 37.2539,
+  "lng": 37.8794
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Haliliye",
+  "lat": 37.1675,
+  "lng": 38.7956
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Harran",
+  "lat": 36.8639,
+  "lng": 39.0294
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Hilvan",
+  "lat": 37.5886,
+  "lng": 38.9556
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Karaköprü",
+  "lat": 37.2047,
+  "lng": 38.7959
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Siverek",
+  "lat": 37.7536,
+  "lng": 39.3194
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Suruç",
+  "lat": 36.9769,
+  "lng": 38.4261
+ },
+ {
+  "il": "Şanlıurfa",
+  "ilce": "Viranşehir",
+  "lat": 37.2361,
+  "lng": 39.7622
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "Beytüşşebap",
+  "lat": 37.6069,
+  "lng": 43.1
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "Cizre",
+  "lat": 37.3264,
+  "lng": 42.1911
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "Güçlükonak",
+  "lat": 37.5333,
+  "lng": 41.95
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "İdil",
+  "lat": 37.3417,
+  "lng": 41.8883
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "Merkez",
+  "lat": 37.522,
+  "lng": 42.457
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "Silopi",
+  "lat": 37.2667,
+  "lng": 42.5
+ },
+ {
+  "il": "Şırnak",
+  "ilce": "Uludere",
+  "lat": 37.4455,
+  "lng": 42.8531
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Çerkezköy",
+  "lat": 41.2862,
+  "lng": 27.9997
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Çorlu",
+  "lat": 41.1633,
+  "lng": 27.7997
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Ergene",
+  "lat": 41.1739,
+  "lng": 27.6397
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Hayrabolu",
+  "lat": 41.2245,
+  "lng": 27.1195
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Kapaklı",
+  "lat": 41.3386,
+  "lng": 27.9771
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Malkara",
+  "lat": 40.9006,
+  "lng": 26.9136
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Marmaraereğlisi",
+  "lat": 40.9694,
+  "lng": 27.955
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Muratlı",
+  "lat": 41.1723,
+  "lng": 27.5015
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Saray",
+  "lat": 41.4547,
+  "lng": 27.9372
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Süleymanpaşa",
+  "lat": 40.9833,
+  "lng": 27.5167
+ },
+ {
+  "il": "Tekirdağ",
+  "ilce": "Şarköy",
+  "lat": 40.6142,
+  "lng": 27.1136
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Almus",
+  "lat": 40.3667,
+  "lng": 36.9
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Artova",
+  "lat": 40.1269,
+  "lng": 36.3072
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Başçiftlik",
+  "lat": 40.5469,
+  "lng": 37.1692
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Erbaa",
+  "lat": 40.6667,
+  "lng": 36.5667
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Merkez",
+  "lat": 40.3234,
+  "lng": 36.5522
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Niksar",
+  "lat": 40.5897,
+  "lng": 36.9525
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Pazar",
+  "lat": 40.2667,
+  "lng": 36.3167
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Reşadiye",
+  "lat": 40.3833,
+  "lng": 37.3333
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Sulusaray",
+  "lat": 40,
+  "lng": 36.1
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Turhal",
+  "lat": 40.3871,
+  "lng": 36.0863
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Yeşilyurt",
+  "lat": 39.9992,
+  "lng": 36.2347
+ },
+ {
+  "il": "Tokat",
+  "ilce": "Zile",
+  "lat": 40.3019,
+  "lng": 35.8867
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Akçaabat",
+  "lat": 41.0211,
+  "lng": 39.5717
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Araklı",
+  "lat": 40.9358,
+  "lng": 40.058
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Arsin",
+  "lat": 40.9537,
+  "lng": 39.9326
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Beşikdüzü",
+  "lat": 41.0511,
+  "lng": 39.229
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Çarşıbaşı",
+  "lat": 41.0826,
+  "lng": 39.3785
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Çaykara",
+  "lat": 40.7427,
+  "lng": 40.2318
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Dernekpazarı",
+  "lat": 40.7992,
+  "lng": 40.2472
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Düzköy",
+  "lat": 40.8742,
+  "lng": 39.4256
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Hayrat",
+  "lat": 40.8914,
+  "lng": 40.3675
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Köprübaşı",
+  "lat": 40.8083,
+  "lng": 40.1228
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Maçka",
+  "lat": 40.8111,
+  "lng": 39.6136
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Of",
+  "lat": 40.9456,
+  "lng": 40.2683
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Ortahisar",
+  "lat": 40.9982,
+  "lng": 39.6995
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Sürmene",
+  "lat": 40.9128,
+  "lng": 40.1135
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Şalpazarı",
+  "lat": 40.9461,
+  "lng": 39.1781
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Tonya",
+  "lat": 40.8858,
+  "lng": 39.2908
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Vakfıkebir",
+  "lat": 40.9956,
+  "lng": 39.3263
+ },
+ {
+  "il": "Trabzon",
+  "ilce": "Yomra",
+  "lat": 40.9592,
+  "lng": 39.8471
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Çemişgezek",
+  "lat": 39.0667,
+  "lng": 38.9
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Hozat",
+  "lat": 39.1,
+  "lng": 39.2167
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Mazgirt",
+  "lat": 38.95,
+  "lng": 39.7167
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Merkez",
+  "lat": 39.1061,
+  "lng": 39.5483
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Nazımiye",
+  "lat": 39.1811,
+  "lng": 39.8289
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Ovacık",
+  "lat": 39.3578,
+  "lng": 39.2164
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Pertek",
+  "lat": 38.8667,
+  "lng": 39.3333
+ },
+ {
+  "il": "Tunceli",
+  "ilce": "Pülümür",
+  "lat": 39.4667,
+  "lng": 39.9833
+ },
+ {
+  "il": "Uşak",
+  "ilce": "Banaz",
+  "lat": 38.7333,
+  "lng": 29.75
+ },
+ {
+  "il": "Uşak",
+  "ilce": "Eşme",
+  "lat": 38.4092,
+  "lng": 28.9758
+ },
+ {
+  "il": "Uşak",
+  "ilce": "Karahallı",
+  "lat": 38.3308,
+  "lng": 29.5392
+ },
+ {
+  "il": "Uşak",
+  "ilce": "Merkez",
+  "lat": 38.674,
+  "lng": 29.4058
+ },
+ {
+  "il": "Uşak",
+  "ilce": "Sivaslı",
+  "lat": 38.4996,
+  "lng": 29.6809
+ },
+ {
+  "il": "Uşak",
+  "ilce": "Ulubey",
+  "lat": 38.4297,
+  "lng": 29.2964
+ },
+ {
+  "il": "Van",
+  "ilce": "Bahçesaray",
+  "lat": 38.1264,
+  "lng": 42.805
+ },
+ {
+  "il": "Van",
+  "ilce": "Başkale",
+  "lat": 38.0461,
+  "lng": 44.015
+ },
+ {
+  "il": "Van",
+  "ilce": "Çaldıran",
+  "lat": 39.1419,
+  "lng": 43.9124
+ },
+ {
+  "il": "Van",
+  "ilce": "Çatak",
+  "lat": 38.0078,
+  "lng": 43.0619
+ },
+ {
+  "il": "Van",
+  "ilce": "Edremit",
+  "lat": 38.4254,
+  "lng": 43.2617
+ },
+ {
+  "il": "Van",
+  "ilce": "Erciş",
+  "lat": 39.0291,
+  "lng": 43.3593
+ },
+ {
+  "il": "Van",
+  "ilce": "Gevaş",
+  "lat": 38.2939,
+  "lng": 43.1053
+ },
+ {
+  "il": "Van",
+  "ilce": "Gürpınar",
+  "lat": 38.3239,
+  "lng": 43.4103
+ },
+ {
+  "il": "Van",
+  "ilce": "İpekyolu",
+  "lat": 38.5038,
+  "lng": 43.3955
+ },
+ {
+  "il": "Van",
+  "ilce": "Muradiye",
+  "lat": 38.9947,
+  "lng": 43.7681
+ },
+ {
+  "il": "Van",
+  "ilce": "Özalp",
+  "lat": 38.6583,
+  "lng": 43.9894
+ },
+ {
+  "il": "Van",
+  "ilce": "Saray",
+  "lat": 38.655,
+  "lng": 44.1772
+ },
+ {
+  "il": "Van",
+  "ilce": "Tuşba",
+  "lat": 38.5123,
+  "lng": 43.3753
+ },
+ {
+  "il": "Yalova",
+  "ilce": "Altınova",
+  "lat": 40.6833,
+  "lng": 29.5167
+ },
+ {
+  "il": "Yalova",
+  "ilce": "Armutlu",
+  "lat": 40.5167,
+  "lng": 28.8333
+ },
+ {
+  "il": "Yalova",
+  "ilce": "Çınarcık",
+  "lat": 40.6367,
+  "lng": 29.1389
+ },
+ {
+  "il": "Yalova",
+  "ilce": "Çiftlikköy",
+  "lat": 40.6602,
+  "lng": 29.3244
+ },
+ {
+  "il": "Yalova",
+  "ilce": "Merkez",
+  "lat": 40.6583,
+  "lng": 29.27
+ },
+ {
+  "il": "Yalova",
+  "ilce": "Termal",
+  "lat": 40.6139,
+  "lng": 29.1806
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Akdağmadeni",
+  "lat": 39.6667,
+  "lng": 35.8833
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Aydıncık",
+  "lat": 40.1167,
+  "lng": 35.2667
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Boğazlıyan",
+  "lat": 39.2,
+  "lng": 35.25
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Çandır",
+  "lat": 39.25,
+  "lng": 35.5167
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Çayıralan",
+  "lat": 39.3139,
+  "lng": 35.6517
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Çekerek",
+  "lat": 40.0719,
+  "lng": 35.4953
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Kadışehri",
+  "lat": 39.9972,
+  "lng": 35.7917
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Merkez",
+  "lat": 39.8222,
+  "lng": 34.8081
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Saraykent",
+  "lat": 39.6936,
+  "lng": 35.51
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Sarıkaya",
+  "lat": 39.4947,
+  "lng": 35.3767
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Sorgun",
+  "lat": 39.8167,
+  "lng": 35.1833
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Şefaatli",
+  "lat": 39.5008,
+  "lng": 34.7639
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Yenifakılı",
+  "lat": 39.212,
+  "lng": 35.0029
+ },
+ {
+  "il": "Yozgat",
+  "ilce": "Yerköy",
+  "lat": 39.6442,
+  "lng": 34.4839
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Alaplı",
+  "lat": 41.1333,
+  "lng": 31.4667
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Çaycuma",
+  "lat": 41.4272,
+  "lng": 32.0756
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Devrek",
+  "lat": 41.2333,
+  "lng": 31.9667
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Ereğli",
+  "lat": 41.2796,
+  "lng": 31.423
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Gökçebey",
+  "lat": 41.3,
+  "lng": 32.1333
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Kilimli",
+  "lat": 41.4824,
+  "lng": 31.8339
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Kozlu",
+  "lat": 41.4324,
+  "lng": 31.7492
+ },
+ {
+  "il": "Zonguldak",
+  "ilce": "Merkez",
+  "lat": 41.4527,
+  "lng": 31.7876
+ }
+]
