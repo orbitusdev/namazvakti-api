@@ -1,4 +1,4 @@
-import { and, asc, eq, gte, lte, max, sql } from 'drizzle-orm'
+import { and, asc, desc, eq, gte, lte, max, sql } from 'drizzle-orm'
 import { normalizePlaceName, type DayTimes, type PlaceRef } from '@namazvakti/core'
 import type { SourceCity, SourceCountry, SourceState } from '@namazvakti/diyanet-client'
 import type { Db } from './client'
@@ -12,6 +12,8 @@ export type SourceCallRecord = {
   param: string
   ok: boolean
   error?: string
+  /** Defaults to the database clock. */
+  at?: Date
 }
 
 const byName = (a: PlaceRef, b: PlaceRef) => a.name.localeCompare(b.name, 'tr')
@@ -152,12 +154,20 @@ export function createRepo(db: Db) {
       return rows.sort((a, b) => a.name.localeCompare(b.name, 'tr'))
     },
 
-    async getPrayerDays(cityId: string, from: string, days: number): Promise<DayTimes[]> {
+    /** Stored days in [from, from + days); with `source`, only days that source wrote. */
+    async getPrayerDays(cityId: string, from: string, days: number, source?: 'mock' | 'diyanet'): Promise<DayTimes[]> {
       const last = addDays(from, days - 1)
       const rows = await db
         .select()
         .from(prayerTimes)
-        .where(and(eq(prayerTimes.cityId, cityId), gte(prayerTimes.date, from), lte(prayerTimes.date, last)))
+        .where(
+          and(
+            eq(prayerTimes.cityId, cityId),
+            gte(prayerTimes.date, from),
+            lte(prayerTimes.date, last),
+            source ? eq(prayerTimes.source, source) : undefined,
+          ),
+        )
         .orderBy(asc(prayerTimes.date))
       return rows.map((r) => ({
         date: r.date,
@@ -210,8 +220,11 @@ export function createRepo(db: Db) {
       })
     },
 
-    async getLatestPrayerDate(cityId: string): Promise<string | null> {
-      const [r] = await db.select({ d: max(prayerTimes.date) }).from(prayerTimes).where(eq(prayerTimes.cityId, cityId))
+    async getLatestPrayerDate(cityId: string, source?: 'mock' | 'diyanet'): Promise<string | null> {
+      const [r] = await db
+        .select({ d: max(prayerTimes.date) })
+        .from(prayerTimes)
+        .where(and(eq(prayerTimes.cityId, cityId), source ? eq(prayerTimes.source, source) : undefined))
       return r?.d ?? null
     },
 
@@ -227,8 +240,21 @@ export function createRepo(db: Db) {
       return rows.map((r) => r.id)
     },
 
+    /** The most recent logged call of source `kind` for `operation` with `param`, or null. */
+    async getLastSourceCall(kind: 'mock' | 'diyanet', operation: string, param: string): Promise<{ at: Date; ok: boolean } | null> {
+      const [r] = await db
+        .select({ at: sourceCalls.at, ok: sourceCalls.ok })
+        .from(sourceCalls)
+        .where(and(eq(sourceCalls.kind, kind), eq(sourceCalls.operation, operation), eq(sourceCalls.param, param)))
+        .orderBy(desc(sourceCalls.at), desc(sourceCalls.id))
+        .limit(1)
+      return r ?? null
+    },
+
     async logSourceCall(e: SourceCallRecord): Promise<void> {
-      await db.insert(sourceCalls).values({ kind: e.kind, operation: e.operation, param: e.param, ok: e.ok, error: e.error ?? null })
+      await db
+        .insert(sourceCalls)
+        .values({ kind: e.kind, operation: e.operation, param: e.param, ok: e.ok, error: e.error ?? null, ...(e.at ? { at: e.at } : {}) })
     },
   }
 }

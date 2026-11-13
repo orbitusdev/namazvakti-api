@@ -24,7 +24,8 @@ Copy `.env.example` to `.env` at the repository root.
 | Variable | Purpose |
 | --- | --- |
 | `DATABASE_URL` | `pglite:./.data/pglite` (default, no Docker needed) or a `postgres://…` URL |
-| `DIYANET_SOURCE` | `mock` (the only supported value for now) |
+| `DIYANET_SOURCE` | `mock` (computed test times) or `ezanvakti` (Diyanet times via the [Ezan Vakti API](https://ezanvakti.emushaf.net), rate-limited, so each district is fetched at most every 12 h) |
+| `EZANVAKTI_BASE_URL` | Optional override of the Ezan Vakti API address |
 | `CRON_SECRET` | Bearer secret for `/api/cron/refresh`; when unset or empty the route always returns 401 |
 
 ## Local development
@@ -41,7 +42,7 @@ pnpm --filter web dev
 ## Deploying (Vercel)
 
 - Project root directory: `apps/web` (framework: Next.js); install runs at the workspace root with pnpm.
-- Set `DATABASE_URL` (e.g. a Neon Postgres connected to the project), `DIYANET_SOURCE=mock` and a random `CRON_SECRET`.
+- Set `DATABASE_URL` (e.g. a Neon Postgres connected to the project), `DIYANET_SOURCE` (`mock` or `ezanvakti`) and a random `CRON_SECRET`. After changing `DIYANET_SOURCE`, run `sync:places` with the same value so each district gets its Diyanet id.
 - Apply migrations and load places against the production database before the first deploy; the Next bundle never runs migrations:
 
 ```sh

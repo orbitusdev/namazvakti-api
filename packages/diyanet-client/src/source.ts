@@ -12,8 +12,13 @@ export type SourceCity = {
   diyanetId: number | null
 }
 
+/** A service that relays Diyanet's data (credited on the About screen). */
+export type DataProvider = { name: string; url: string }
+
 export interface DiyanetSource {
   readonly kind: 'mock' | 'diyanet'
+  /** The relaying service when the data does not come from Diyanet directly; absent otherwise. */
+  readonly provider?: DataProvider
   getCountries(): Promise<SourceCountry[]>
   getStates(countryId: string): Promise<SourceState[]>
   getCities(stateId: string): Promise<SourceCity[]>

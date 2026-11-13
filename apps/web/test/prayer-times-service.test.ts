@@ -196,4 +196,58 @@ describe('PrayerTimesService', () => {
       expect(await svc.refillIfLow('nope', NOW)).toBe(false)
     })
   })
+
+  describe('refetch throttle (month-long sources)', () => {
+    const HOUR = 3_600_000
+    const later = (ms: number) => new Date(NOW.getTime() + ms)
+    // Like the Ezan Vakti API: whatever is asked, only 26 days from 2026-11-11 exist.
+    const monthOnly = () =>
+      vi.spyOn(source, 'getPrayerTimes').mockImplementation(async (city, from) => {
+        const all = await new MockDiyanetSource().getPrayerTimes(city, '2026-11-11', 26)
+        return all.filter((d) => d.date >= from)
+      })
+
+    it('does not refetch a city whose fetch was recent, even though days are missing', async () => {
+      const spy = monthOnly()
+      const svc = new PrayerTimesService(db, source, { minRefetchMs: 12 * HOUR, failureBackoffMs: HOUR / 2 })
+      const first = await svc.getRange(CITY, '2026-11-11', 30, NOW)
+      const second = await svc.getRange(CITY, '2026-11-11', 30, later(HOUR))
+      expect(spy).toHaveBeenCalledTimes(1)
+      expect(first.days).toHaveLength(26)
+      expect(second.days).toHaveLength(26)
+      await svc.getRange(CITY, '2026-11-11', 30, later(13 * HOUR))
+      expect(spy).toHaveBeenCalledTimes(2)
+    })
+
+    it('backs off after a failure', async () => {
+      const failing = new MockDiyanetSource({ failWith: new SourceUnavailableError() })
+      await syncPlaces(repo, failing).catch(() => undefined)
+      const spy = vi.spyOn(failing, 'getPrayerTimes')
+      const svc = new PrayerTimesService(db, failing, { minRefetchMs: 12 * HOUR, failureBackoffMs: HOUR / 2 })
+      await expect(svc.getRange(CITY, '2026-11-11', 30, NOW)).rejects.toBeInstanceOf(ApiError)
+      await expect(svc.getRange(CITY, '2026-11-11', 30, later(10 * 60_000))).rejects.toBeInstanceOf(ApiError)
+      expect(spy).toHaveBeenCalledTimes(1)
+      await expect(svc.getRange(CITY, '2026-11-11', 30, later(HOUR))).rejects.toBeInstanceOf(ApiError)
+      expect(spy).toHaveBeenCalledTimes(2)
+    })
+
+    it('refillIfLow respects the throttle too', async () => {
+      const spy = monthOnly()
+      const svc = new PrayerTimesService(db, source, { refillBelowDays: 30, minRefetchMs: 12 * HOUR })
+      expect(await svc.refillIfLow(CITY, NOW)).toBe(true)
+      expect(await svc.refillIfLow(CITY, later(HOUR))).toBe(false)
+      expect(spy).toHaveBeenCalledTimes(1)
+    })
+  })
+
+  it('ignores days stored by another source after a switch', async () => {
+    await new PrayerTimesService(db, source).getRange(CITY, '2026-11-11', 30, NOW)
+    const diyanet = new MockDiyanetSource()
+    Object.defineProperty(diyanet, 'kind', { value: 'diyanet' })
+    const spy = vi.spyOn(diyanet, 'getPrayerTimes')
+    const res = await new PrayerTimesService(db, diyanet, { minRefetchMs: 3_600_000 }).getRange(CITY, '2026-11-11', 30, NOW)
+    expect(spy).toHaveBeenCalledTimes(1)
+    expect(res.source).toBe('diyanet')
+    expect(res.days).toHaveLength(30)
+  })
 })

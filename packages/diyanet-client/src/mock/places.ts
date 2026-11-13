@@ -13,7 +13,10 @@ export type PlaceIndex = {
   citiesByState: Map<string, SourceCity[]>
 }
 
-export function buildTurkeyPlaces(places: readonly RawPlace[] = raw as RawPlace[]): PlaceIndex {
+/** Diyanet district id per district, keyed "il/ilce" (see data/tr-diyanet-ids.json). */
+export type DiyanetIds = Readonly<Record<string, { id: number }>>
+
+export function buildTurkeyPlaces(places: readonly RawPlace[] = raw as RawPlace[], diyanetIds: DiyanetIds = {}): PlaceIndex {
   const states: SourceState[] = []
   const citiesByState = new Map<string, SourceCity[]>()
   for (const p of places) {
@@ -31,7 +34,7 @@ export function buildTurkeyPlaces(places: readonly RawPlace[] = raw as RawPlace[
       lat: p.lat,
       lng: p.lng,
       timezone: TR_TIMEZONE,
-      diyanetId: null,
+      diyanetId: diyanetIds[`${p.il}/${p.ilce}`]?.id ?? null,
     })
   }
   return {

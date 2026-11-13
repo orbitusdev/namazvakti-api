@@ -71,6 +71,25 @@ paths:
           $ref: '#/components/responses/InternalError'
         '503':
           $ref: '#/components/responses/UpstreamUnavailable'
+  /api/v1/about:
+    get:
+      operationId: getAbout
+      summary: Where the served prayer times come from
+      description: |
+        Credits for the About screen. `provider` names the service the Diyanet data is fetched
+        through when it is not Diyanet itself, and is absent otherwise. `source` is open-ended and
+        clients must ignore unknown fields, so this response can grow without breaking them.
+      responses:
+        '200':
+          description: Data source credits
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AboutResponse'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
   /api/v1/locate:
     get:
       operationId: locate
@@ -233,6 +252,18 @@ components:
       required: [city]
       properties:
         city: { $ref: '#/components/schemas/City' }
+    AboutResponse:
+      type: object
+      required: [source]
+      properties:
+        source: { type: string, examples: [mock, diyanet] }
+        provider: { $ref: '#/components/schemas/DataProvider' }
+    DataProvider:
+      type: object
+      required: [name, url]
+      properties:
+        name: { type: string, examples: [Ezan Vakti API] }
+        url: { type: string, format: uri }
     PrayerTimesResponse:
       type: object
       additionalProperties: false

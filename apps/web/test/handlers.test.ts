@@ -2,11 +2,12 @@ import { beforeAll, describe, expect, it, vi } from 'vitest'
 import { validateResponse } from '@namazvakti/api-contract'
 import { createRepo } from '@namazvakti/db'
 import { createTestDb } from '@namazvakti/db/testing'
-import { MockDiyanetSource } from '@namazvakti/diyanet-client'
+import { EzanVaktiSource, MockDiyanetSource } from '@namazvakti/diyanet-client'
 import { createPlaceCache } from '../src/server/place-cache'
 import type { Context } from '../src/server/context'
 import { listCities, listCountries, listStates } from '../src/server/handlers/places'
 import { locate } from '../src/server/handlers/locate'
+import { getAbout } from '../src/server/handlers/about'
 import { getPrayerTimes } from '../src/server/handlers/prayer-times'
 import { syncPlaces } from '../src/server/place-sync'
 import { PrayerTimesService } from '../src/server/prayer-times-service'
@@ -197,5 +198,21 @@ describe('withContext', () => {
   it('passes the context through on success', async () => {
     const res = await withContext(() => 5, async (n) => ({ status: 200, body: { n }, headers: {} }))
     expect(await res.json()).toEqual({ n: 5 })
+  })
+})
+
+describe('about handler', () => {
+  it('reports test data without a provider for the mock source', async () => {
+    const r = await getAbout(ctx)
+    expect(r.status).toBe(200)
+    expect(r.body).toEqual({ source: 'mock' })
+    expect(r.headers['Cache-Control']).toBe(CACHE_SHORT)
+    check('getAbout', r)
+  })
+
+  it('credits the Ezan Vakti API for Diyanet data relayed through it', async () => {
+    const r = await getAbout({ ...ctx, source: new EzanVaktiSource({ fetch: vi.fn() }) })
+    expect(r.body).toEqual({ source: 'diyanet', provider: { name: 'Ezan Vakti API', url: 'https://ezanvakti.emushaf.net' } })
+    check('getAbout', r)
   })
 })

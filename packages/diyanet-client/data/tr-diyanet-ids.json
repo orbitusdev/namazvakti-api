@@ -1,0 +1,5001 @@
+{
+ "Adana/Aladağ": {
+  "id": 9147,
+  "diyanet": "ALADAĞ",
+  "how": "name"
+ },
+ "Adana/Ceyhan": {
+  "id": 9148,
+  "diyanet": "CEYHAN",
+  "how": "name"
+ },
+ "Adana/Çukurova": {
+  "id": 9146,
+  "diyanet": "ADANA",
+  "how": "nearest",
+  "km": 12
+ },
+ "Adana/Feke": {
+  "id": 9149,
+  "diyanet": "FEKE",
+  "how": "name"
+ },
+ "Adana/İmamoğlu": {
+  "id": 9150,
+  "diyanet": "İMAMOĞLU",
+  "how": "name"
+ },
+ "Adana/Karaisalı": {
+  "id": 9151,
+  "diyanet": "KARAISALI",
+  "how": "name"
+ },
+ "Adana/Karataş": {
+  "id": 9152,
+  "diyanet": "KARATAŞ",
+  "how": "name"
+ },
+ "Adana/Kozan": {
+  "id": 9153,
+  "diyanet": "KOZAN",
+  "how": "name"
+ },
+ "Adana/Pozantı": {
+  "id": 9154,
+  "diyanet": "POZANTI",
+  "how": "name"
+ },
+ "Adana/Saimbeyli": {
+  "id": 9155,
+  "diyanet": "SAİMBEYLİ",
+  "how": "name"
+ },
+ "Adana/Sarıçam": {
+  "id": 9146,
+  "diyanet": "ADANA",
+  "how": "nearest",
+  "km": 20
+ },
+ "Adana/Seyhan": {
+  "id": 9146,
+  "diyanet": "ADANA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Adana/Tufanbeyli": {
+  "id": 9156,
+  "diyanet": "TUFANBEYLİ",
+  "how": "name"
+ },
+ "Adana/Yumurtalık": {
+  "id": 9157,
+  "diyanet": "YUMURTALIK",
+  "how": "name"
+ },
+ "Adana/Yüreğir": {
+  "id": 9146,
+  "diyanet": "ADANA",
+  "how": "nearest",
+  "km": 11
+ },
+ "Adıyaman/Besni": {
+  "id": 9159,
+  "diyanet": "BESNİ",
+  "how": "name"
+ },
+ "Adıyaman/Çelikhan": {
+  "id": 9160,
+  "diyanet": "ÇELİKHAN",
+  "how": "name"
+ },
+ "Adıyaman/Gerger": {
+  "id": 9161,
+  "diyanet": "GERGER",
+  "how": "name"
+ },
+ "Adıyaman/Gölbaşı": {
+  "id": 9162,
+  "diyanet": "GÖLBAŞI",
+  "how": "name"
+ },
+ "Adıyaman/Kahta": {
+  "id": 9163,
+  "diyanet": "KAHTA",
+  "how": "name"
+ },
+ "Adıyaman/Merkez": {
+  "id": 9158,
+  "diyanet": "ADIYAMAN",
+  "how": "name"
+ },
+ "Adıyaman/Samsat": {
+  "id": 9164,
+  "diyanet": "SAMSAT",
+  "how": "name"
+ },
+ "Adıyaman/Sincik": {
+  "id": 9165,
+  "diyanet": "SİNCİK",
+  "how": "name"
+ },
+ "Adıyaman/Tut": {
+  "id": 9166,
+  "diyanet": "TUT",
+  "how": "name"
+ },
+ "Afyonkarahisar/Başmakçı": {
+  "id": 9168,
+  "diyanet": "BAŞMAKÇI",
+  "how": "name"
+ },
+ "Afyonkarahisar/Bayat": {
+  "id": 9169,
+  "diyanet": "BAYAT",
+  "how": "name"
+ },
+ "Afyonkarahisar/Bolvadin": {
+  "id": 9170,
+  "diyanet": "BOLVADİN",
+  "how": "name"
+ },
+ "Afyonkarahisar/Çay": {
+  "id": 9171,
+  "diyanet": "ÇAY",
+  "how": "name"
+ },
+ "Afyonkarahisar/Çobanlar": {
+  "id": 9172,
+  "diyanet": "ÇOBANLAR",
+  "how": "name"
+ },
+ "Afyonkarahisar/Dazkırı": {
+  "id": 9173,
+  "diyanet": "DAZKIRI",
+  "how": "name"
+ },
+ "Afyonkarahisar/Dinar": {
+  "id": 9174,
+  "diyanet": "DİNAR",
+  "how": "name"
+ },
+ "Afyonkarahisar/Emirdağ": {
+  "id": 9175,
+  "diyanet": "EMİRDAĞ",
+  "how": "name"
+ },
+ "Afyonkarahisar/Evciler": {
+  "id": 9176,
+  "diyanet": "EVCİLER",
+  "how": "name"
+ },
+ "Afyonkarahisar/Hocalar": {
+  "id": 9177,
+  "diyanet": "HOCALAR",
+  "how": "name"
+ },
+ "Afyonkarahisar/İhsaniye": {
+  "id": 9178,
+  "diyanet": "İHSANİYE",
+  "how": "name"
+ },
+ "Afyonkarahisar/İscehisar": {
+  "id": 9179,
+  "diyanet": "İSCEHİSAR",
+  "how": "name"
+ },
+ "Afyonkarahisar/Kızılören": {
+  "id": 9180,
+  "diyanet": "KIZILÖREN",
+  "how": "name"
+ },
+ "Afyonkarahisar/Merkez": {
+  "id": 9167,
+  "diyanet": "AFYONKARAHİSAR",
+  "how": "name"
+ },
+ "Afyonkarahisar/Sandıklı": {
+  "id": 9181,
+  "diyanet": "SANDIKLI",
+  "how": "name"
+ },
+ "Afyonkarahisar/Sinanpaşa": {
+  "id": 9182,
+  "diyanet": "SİNANPAŞA",
+  "how": "name"
+ },
+ "Afyonkarahisar/Sultandağı": {
+  "id": 9184,
+  "diyanet": "SULTANDAĞI",
+  "how": "name"
+ },
+ "Afyonkarahisar/Şuhut": {
+  "id": 9183,
+  "diyanet": "SUHUT",
+  "how": "name"
+ },
+ "Ağrı/Diyadin": {
+  "id": 9186,
+  "diyanet": "DİYADİN",
+  "how": "name"
+ },
+ "Ağrı/Doğubayazıt": {
+  "id": 9187,
+  "diyanet": "DOĞUBEYAZIT",
+  "how": "alias"
+ },
+ "Ağrı/Eleşkirt": {
+  "id": 9188,
+  "diyanet": "ELEŞKİRT",
+  "how": "name"
+ },
+ "Ağrı/Hamur": {
+  "id": 9185,
+  "diyanet": "AĞRI",
+  "how": "nearest",
+  "km": 12
+ },
+ "Ağrı/Merkez": {
+  "id": 9185,
+  "diyanet": "AĞRI",
+  "how": "name"
+ },
+ "Ağrı/Patnos": {
+  "id": 9189,
+  "diyanet": "PATNOS",
+  "how": "name"
+ },
+ "Ağrı/Taşlıçay": {
+  "id": 9190,
+  "diyanet": "TAŞLIÇAY",
+  "how": "name"
+ },
+ "Ağrı/Tutak": {
+  "id": 9191,
+  "diyanet": "TUTAK",
+  "how": "name"
+ },
+ "Aksaray/Ağaçören": {
+  "id": 9192,
+  "diyanet": "AĞAÇÖREN",
+  "how": "name"
+ },
+ "Aksaray/Eskil": {
+  "id": 9194,
+  "diyanet": "ESKİL",
+  "how": "name"
+ },
+ "Aksaray/Gülağaç": {
+  "id": 9195,
+  "diyanet": "GÜLAĞAÇ",
+  "how": "name"
+ },
+ "Aksaray/Güzelyurt": {
+  "id": 9196,
+  "diyanet": "GÜZELYURT",
+  "how": "name"
+ },
+ "Aksaray/Merkez": {
+  "id": 9193,
+  "diyanet": "AKSARAY",
+  "how": "name"
+ },
+ "Aksaray/Ortaköy": {
+  "id": 17877,
+  "diyanet": "ORTAKÖY",
+  "how": "name"
+ },
+ "Aksaray/Sarıyahşi": {
+  "id": 9197,
+  "diyanet": "SARIYAHŞİ",
+  "how": "name"
+ },
+ "Aksaray/Sultanhanı": {
+  "id": 20069,
+  "diyanet": "SULTANHANI",
+  "how": "name"
+ },
+ "Amasya/Göynücek": {
+  "id": 9199,
+  "diyanet": "GÖYNÜCEK",
+  "how": "name"
+ },
+ "Amasya/Gümüşhacıköy": {
+  "id": 9200,
+  "diyanet": "GÜMÜŞHACIKÖY",
+  "how": "name"
+ },
+ "Amasya/Hamamözü": {
+  "id": 9201,
+  "diyanet": "HAMAMÖZÜ",
+  "how": "name"
+ },
+ "Amasya/Merkez": {
+  "id": 9198,
+  "diyanet": "AMASYA",
+  "how": "name"
+ },
+ "Amasya/Merzifon": {
+  "id": 9202,
+  "diyanet": "MERZİFON",
+  "how": "name"
+ },
+ "Amasya/Suluova": {
+  "id": 9203,
+  "diyanet": "SULUOVA",
+  "how": "name"
+ },
+ "Amasya/Taşova": {
+  "id": 9204,
+  "diyanet": "TAŞOVA",
+  "how": "name"
+ },
+ "Ankara/Akyurt": {
+  "id": 9205,
+  "diyanet": "AKYURT",
+  "how": "name"
+ },
+ "Ankara/Altındağ": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 3
+ },
+ "Ankara/Ayaş": {
+  "id": 9207,
+  "diyanet": "AYAŞ",
+  "how": "name"
+ },
+ "Ankara/Bala": {
+  "id": 9208,
+  "diyanet": "BALA",
+  "how": "name"
+ },
+ "Ankara/Beypazarı": {
+  "id": 9209,
+  "diyanet": "BEYPAZARI",
+  "how": "name"
+ },
+ "Ankara/Çamlıdere": {
+  "id": 9210,
+  "diyanet": "ÇAMLIDERE",
+  "how": "name"
+ },
+ "Ankara/Çankaya": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Ankara/Çubuk": {
+  "id": 9211,
+  "diyanet": "CUBUK",
+  "how": "name"
+ },
+ "Ankara/Elmadağ": {
+  "id": 9212,
+  "diyanet": "ELMADAĞ",
+  "how": "name"
+ },
+ "Ankara/Etimesgut": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 17
+ },
+ "Ankara/Evren": {
+  "id": 9213,
+  "diyanet": "EVREN",
+  "how": "name"
+ },
+ "Ankara/Gölbaşı": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 15
+ },
+ "Ankara/Güdül": {
+  "id": 9214,
+  "diyanet": "GÜDÜL",
+  "how": "name"
+ },
+ "Ankara/Haymana": {
+  "id": 9215,
+  "diyanet": "HAYMANA",
+  "how": "name"
+ },
+ "Ankara/Kahramankazan": {
+  "id": 9217,
+  "diyanet": "KAHRAMANKAZAN",
+  "how": "name"
+ },
+ "Ankara/Kalecik": {
+  "id": 9216,
+  "diyanet": "KALECİK",
+  "how": "name"
+ },
+ "Ankara/Keçiören": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 6
+ },
+ "Ankara/Kızılcahamam": {
+  "id": 9218,
+  "diyanet": "KIZILCAHAMAM",
+  "how": "name"
+ },
+ "Ankara/Mamak": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 4
+ },
+ "Ankara/Nallıhan": {
+  "id": 9219,
+  "diyanet": "NALLIHAN",
+  "how": "name"
+ },
+ "Ankara/Polatlı": {
+  "id": 9220,
+  "diyanet": "POLATLI",
+  "how": "name"
+ },
+ "Ankara/Pursaklar": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 14
+ },
+ "Ankara/Sincan": {
+  "id": 9207,
+  "diyanet": "AYAŞ",
+  "how": "nearest",
+  "km": 21
+ },
+ "Ankara/Şereflikoçhisar": {
+  "id": 9221,
+  "diyanet": "ŞEREFLİKOÇHİSAR",
+  "how": "name"
+ },
+ "Ankara/Yenimahalle": {
+  "id": 9206,
+  "diyanet": "ANKARA",
+  "how": "nearest",
+  "km": 6
+ },
+ "Antalya/Akseki": {
+  "id": 9222,
+  "diyanet": "AKSEKİ",
+  "how": "name"
+ },
+ "Antalya/Aksu": {
+  "id": 9223,
+  "diyanet": "AKSU",
+  "how": "name"
+ },
+ "Antalya/Alanya": {
+  "id": 9224,
+  "diyanet": "ALANYA",
+  "how": "name"
+ },
+ "Antalya/Demre": {
+  "id": 9226,
+  "diyanet": "DEMRE",
+  "how": "name"
+ },
+ "Antalya/Döşemealtı": {
+  "id": 9225,
+  "diyanet": "ANTALYA",
+  "how": "nearest",
+  "km": 18
+ },
+ "Antalya/Elmalı": {
+  "id": 9227,
+  "diyanet": "ELMALI",
+  "how": "name"
+ },
+ "Antalya/Finike": {
+  "id": 9228,
+  "diyanet": "FİNİKE",
+  "how": "name"
+ },
+ "Antalya/Gazipaşa": {
+  "id": 9229,
+  "diyanet": "GAZİPAŞA",
+  "how": "name"
+ },
+ "Antalya/Gündoğmuş": {
+  "id": 9230,
+  "diyanet": "GÜNDOĞMUŞ",
+  "how": "name"
+ },
+ "Antalya/İbradı": {
+  "id": 9231,
+  "diyanet": "İBRADI",
+  "how": "name"
+ },
+ "Antalya/Kaş": {
+  "id": 9232,
+  "diyanet": "KAŞ",
+  "how": "name"
+ },
+ "Antalya/Kemer": {
+  "id": 9233,
+  "diyanet": "KEMER",
+  "how": "name"
+ },
+ "Antalya/Kepez": {
+  "id": 9225,
+  "diyanet": "ANTALYA",
+  "how": "nearest",
+  "km": 5
+ },
+ "Antalya/Konyaaltı": {
+  "id": 9225,
+  "diyanet": "ANTALYA",
+  "how": "nearest",
+  "km": 7
+ },
+ "Antalya/Korkuteli": {
+  "id": 9234,
+  "diyanet": "KORKUTELİ",
+  "how": "name"
+ },
+ "Antalya/Kumluca": {
+  "id": 9235,
+  "diyanet": "KUMLUCA",
+  "how": "name"
+ },
+ "Antalya/Manavgat": {
+  "id": 9236,
+  "diyanet": "MANAVGAT",
+  "how": "name"
+ },
+ "Antalya/Muratpaşa": {
+  "id": 9225,
+  "diyanet": "ANTALYA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Antalya/Serik": {
+  "id": 9237,
+  "diyanet": "SERİK",
+  "how": "name"
+ },
+ "Ardahan/Çıldır": {
+  "id": 9239,
+  "diyanet": "ÇILDIR",
+  "how": "name"
+ },
+ "Ardahan/Damal": {
+  "id": 9240,
+  "diyanet": "DAMAL",
+  "how": "name"
+ },
+ "Ardahan/Göle": {
+  "id": 9241,
+  "diyanet": "GÖLE",
+  "how": "name"
+ },
+ "Ardahan/Hanak": {
+  "id": 9242,
+  "diyanet": "HANAK",
+  "how": "name"
+ },
+ "Ardahan/Merkez": {
+  "id": 9238,
+  "diyanet": "ARDAHAN",
+  "how": "name"
+ },
+ "Ardahan/Posof": {
+  "id": 9243,
+  "diyanet": "POSOF",
+  "how": "name"
+ },
+ "Artvin/Ardanuç": {
+  "id": 9244,
+  "diyanet": "ARDANUÇ",
+  "how": "name"
+ },
+ "Artvin/Arhavi": {
+  "id": 9245,
+  "diyanet": "ARHAVİ",
+  "how": "name"
+ },
+ "Artvin/Borçka": {
+  "id": 9247,
+  "diyanet": "BORÇKA",
+  "how": "name"
+ },
+ "Artvin/Hopa": {
+  "id": 9248,
+  "diyanet": "HOPA",
+  "how": "name"
+ },
+ "Artvin/Kemalpaşa": {
+  "id": 20070,
+  "diyanet": "KEMALPAŞA",
+  "how": "name"
+ },
+ "Artvin/Merkez": {
+  "id": 9246,
+  "diyanet": "ARTVİN",
+  "how": "name"
+ },
+ "Artvin/Murgul": {
+  "id": 9249,
+  "diyanet": "MURGUL",
+  "how": "name"
+ },
+ "Artvin/Şavşat": {
+  "id": 9250,
+  "diyanet": "ŞAVŞAT",
+  "how": "name"
+ },
+ "Artvin/Yusufeli": {
+  "id": 9251,
+  "diyanet": "YUSUFELİ",
+  "how": "name"
+ },
+ "Aydın/Bozdoğan": {
+  "id": 9253,
+  "diyanet": "BOZDOĞAN",
+  "how": "name"
+ },
+ "Aydın/Buharkent": {
+  "id": 9254,
+  "diyanet": "BUHARKENT",
+  "how": "name"
+ },
+ "Aydın/Çine": {
+  "id": 9255,
+  "diyanet": "ÇİNE",
+  "how": "name"
+ },
+ "Aydın/Didim": {
+  "id": 9256,
+  "diyanet": "DİDİM",
+  "how": "name"
+ },
+ "Aydın/Efeler": {
+  "id": 9252,
+  "diyanet": "AYDIN",
+  "how": "nearest",
+  "km": 0
+ },
+ "Aydın/Germencik": {
+  "id": 9257,
+  "diyanet": "GERMENCİK",
+  "how": "name"
+ },
+ "Aydın/İncirliova": {
+  "id": 9258,
+  "diyanet": "İNCİRLİOVA",
+  "how": "name"
+ },
+ "Aydın/Karacasu": {
+  "id": 9259,
+  "diyanet": "KARACASU",
+  "how": "name"
+ },
+ "Aydın/Karpuzlu": {
+  "id": 9260,
+  "diyanet": "KARPUZLU",
+  "how": "name"
+ },
+ "Aydın/Koçarlı": {
+  "id": 9261,
+  "diyanet": "KOÇARLI",
+  "how": "name"
+ },
+ "Aydın/Köşk": {
+  "id": 9262,
+  "diyanet": "KÖŞK",
+  "how": "name"
+ },
+ "Aydın/Kuşadası": {
+  "id": 9263,
+  "diyanet": "KUŞADASI",
+  "how": "name"
+ },
+ "Aydın/Kuyucak": {
+  "id": 9264,
+  "diyanet": "KUYUCAK",
+  "how": "name"
+ },
+ "Aydın/Nazilli": {
+  "id": 9265,
+  "diyanet": "NAZİLLİ",
+  "how": "name"
+ },
+ "Aydın/Söke": {
+  "id": 9266,
+  "diyanet": "SÖKE",
+  "how": "name"
+ },
+ "Aydın/Sultanhisar": {
+  "id": 9267,
+  "diyanet": "SULTANHİSAR",
+  "how": "name"
+ },
+ "Aydın/Yenipazar": {
+  "id": 9268,
+  "diyanet": "YENİPAZAR (A)",
+  "how": "name"
+ },
+ "Balıkesir/Altıeylül": {
+  "id": 9270,
+  "diyanet": "BALIKESİR",
+  "how": "nearest",
+  "km": 14
+ },
+ "Balıkesir/Ayvalık": {
+  "id": 9269,
+  "diyanet": "AYVALIK",
+  "how": "name"
+ },
+ "Balıkesir/Balya": {
+  "id": 9271,
+  "diyanet": "BALYA",
+  "how": "name"
+ },
+ "Balıkesir/Bandırma": {
+  "id": 17917,
+  "diyanet": "BANDIRMA",
+  "how": "name"
+ },
+ "Balıkesir/Bigadiç": {
+  "id": 9272,
+  "diyanet": "BİGADİÇ",
+  "how": "name"
+ },
+ "Balıkesir/Burhaniye": {
+  "id": 9273,
+  "diyanet": "BURHANİYE",
+  "how": "name"
+ },
+ "Balıkesir/Dursunbey": {
+  "id": 9274,
+  "diyanet": "DURSUNBEY",
+  "how": "name"
+ },
+ "Balıkesir/Edremit": {
+  "id": 9275,
+  "diyanet": "EDREMİT",
+  "how": "name"
+ },
+ "Balıkesir/Erdek": {
+  "id": 17881,
+  "diyanet": "ERDEK",
+  "how": "name"
+ },
+ "Balıkesir/Gömeç": {
+  "id": 9276,
+  "diyanet": "GÖMEÇ",
+  "how": "name"
+ },
+ "Balıkesir/Gönen": {
+  "id": 9277,
+  "diyanet": "GÖNEN",
+  "how": "name"
+ },
+ "Balıkesir/Havran": {
+  "id": 9278,
+  "diyanet": "HAVRAN",
+  "how": "name"
+ },
+ "Balıkesir/İvrindi": {
+  "id": 9279,
+  "diyanet": "İVRİNDİ",
+  "how": "name"
+ },
+ "Balıkesir/Karesi": {
+  "id": 9270,
+  "diyanet": "BALIKESİR",
+  "how": "nearest",
+  "km": 0
+ },
+ "Balıkesir/Kepsut": {
+  "id": 9280,
+  "diyanet": "KEPSUT",
+  "how": "name"
+ },
+ "Balıkesir/Manyas": {
+  "id": 17918,
+  "diyanet": "MANYAS",
+  "how": "name"
+ },
+ "Balıkesir/Marmara": {
+  "id": 9281,
+  "diyanet": "MARMARA",
+  "how": "name"
+ },
+ "Balıkesir/Savaştepe": {
+  "id": 9282,
+  "diyanet": "SAVAŞTEPE",
+  "how": "name"
+ },
+ "Balıkesir/Sındırgı": {
+  "id": 9283,
+  "diyanet": "SINDIRGI",
+  "how": "name"
+ },
+ "Balıkesir/Susurluk": {
+  "id": 9284,
+  "diyanet": "SUSURLUK",
+  "how": "name"
+ },
+ "Bartın/Amasra": {
+  "id": 9285,
+  "diyanet": "BARTIN",
+  "how": "nearest",
+  "km": 12
+ },
+ "Bartın/Kurucaşile": {
+  "id": 9286,
+  "diyanet": "KURUCAŞİLE",
+  "how": "name"
+ },
+ "Bartın/Merkez": {
+  "id": 9285,
+  "diyanet": "BARTIN",
+  "how": "name"
+ },
+ "Bartın/Ulus": {
+  "id": 9287,
+  "diyanet": "ULUS",
+  "how": "name"
+ },
+ "Batman/Beşiri": {
+  "id": 9289,
+  "diyanet": "BEŞİRİ",
+  "how": "name"
+ },
+ "Batman/Gercüş": {
+  "id": 9290,
+  "diyanet": "GERCÜŞ",
+  "how": "name"
+ },
+ "Batman/Hasankeyf": {
+  "id": 9291,
+  "diyanet": "HASANKEYF",
+  "how": "name"
+ },
+ "Batman/Kozluk": {
+  "id": 9292,
+  "diyanet": "KOZLUK",
+  "how": "name"
+ },
+ "Batman/Merkez": {
+  "id": 9288,
+  "diyanet": "BATMAN",
+  "how": "name"
+ },
+ "Batman/Sason": {
+  "id": 9293,
+  "diyanet": "SASON",
+  "how": "name"
+ },
+ "Bayburt/Aydıntepe": {
+  "id": 9294,
+  "diyanet": "AYDINTEPE",
+  "how": "name"
+ },
+ "Bayburt/Demirözü": {
+  "id": 9296,
+  "diyanet": "DEMİRÖZÜ",
+  "how": "name"
+ },
+ "Bayburt/Merkez": {
+  "id": 9295,
+  "diyanet": "BAYBURT",
+  "how": "name"
+ },
+ "Bilecik/Bozüyük": {
+  "id": 9298,
+  "diyanet": "BOZÜYÜK",
+  "how": "name"
+ },
+ "Bilecik/Gölpazarı": {
+  "id": 9299,
+  "diyanet": "GÖLPAZARI",
+  "how": "name"
+ },
+ "Bilecik/İnhisar": {
+  "id": 9300,
+  "diyanet": "İNHİSAR",
+  "how": "name"
+ },
+ "Bilecik/Merkez": {
+  "id": 9297,
+  "diyanet": "BİLECİK",
+  "how": "name"
+ },
+ "Bilecik/Osmaneli": {
+  "id": 17895,
+  "diyanet": "OSMANELİ",
+  "how": "name"
+ },
+ "Bilecik/Pazaryeri": {
+  "id": 17896,
+  "diyanet": "PAZARYERİ",
+  "how": "name"
+ },
+ "Bilecik/Söğüt": {
+  "id": 9301,
+  "diyanet": "SÖĞÜT",
+  "how": "name"
+ },
+ "Bilecik/Yenipazar": {
+  "id": 9302,
+  "diyanet": "YENİPAZAR",
+  "how": "name"
+ },
+ "Bingöl/Adaklı": {
+  "id": 17889,
+  "diyanet": "ADAKLI",
+  "how": "name"
+ },
+ "Bingöl/Genç": {
+  "id": 9303,
+  "diyanet": "BİNGÖL",
+  "how": "nearest",
+  "km": 15
+ },
+ "Bingöl/Karlıova": {
+  "id": 9304,
+  "diyanet": "KARLIOVA",
+  "how": "name"
+ },
+ "Bingöl/Kiğı": {
+  "id": 9305,
+  "diyanet": "KİGI",
+  "how": "name"
+ },
+ "Bingöl/Merkez": {
+  "id": 9303,
+  "diyanet": "BİNGÖL",
+  "how": "name"
+ },
+ "Bingöl/Solhan": {
+  "id": 9306,
+  "diyanet": "SOLHAN",
+  "how": "name"
+ },
+ "Bingöl/Yayladere": {
+  "id": 9307,
+  "diyanet": "YAYLADERE",
+  "how": "name"
+ },
+ "Bingöl/Yedisu": {
+  "id": 9308,
+  "diyanet": "YEDİSU",
+  "how": "name"
+ },
+ "Bitlis/Adilcevaz": {
+  "id": 9309,
+  "diyanet": "ADİLCEVAZ",
+  "how": "name"
+ },
+ "Bitlis/Ahlat": {
+  "id": 9310,
+  "diyanet": "AHLAT",
+  "how": "name"
+ },
+ "Bitlis/Güroymak": {
+  "id": 17887,
+  "diyanet": "GÜROYMAK",
+  "how": "name"
+ },
+ "Bitlis/Hizan": {
+  "id": 9312,
+  "diyanet": "HİZAN",
+  "how": "name"
+ },
+ "Bitlis/Merkez": {
+  "id": 9311,
+  "diyanet": "BİTLİS",
+  "how": "name"
+ },
+ "Bitlis/Mutki": {
+  "id": 9313,
+  "diyanet": "MUTKİ",
+  "how": "name"
+ },
+ "Bitlis/Tatvan": {
+  "id": 9314,
+  "diyanet": "TATVAN",
+  "how": "name"
+ },
+ "Bolu/Dörtdivan": {
+  "id": 9316,
+  "diyanet": "DÖRTDİVAN",
+  "how": "name"
+ },
+ "Bolu/Gerede": {
+  "id": 9317,
+  "diyanet": "GEREDE",
+  "how": "name"
+ },
+ "Bolu/Göynük": {
+  "id": 9318,
+  "diyanet": "GÖYNÜK",
+  "how": "name"
+ },
+ "Bolu/Kıbrıscık": {
+  "id": 9319,
+  "diyanet": "KIBRISCIK",
+  "how": "name"
+ },
+ "Bolu/Mengen": {
+  "id": 9320,
+  "diyanet": "MENGEN",
+  "how": "name"
+ },
+ "Bolu/Merkez": {
+  "id": 9315,
+  "diyanet": "BOLU",
+  "how": "name"
+ },
+ "Bolu/Mudurnu": {
+  "id": 9321,
+  "diyanet": "MUDURNU",
+  "how": "name"
+ },
+ "Bolu/Seben": {
+  "id": 9322,
+  "diyanet": "SEBEN",
+  "how": "name"
+ },
+ "Bolu/Yeniçağa": {
+  "id": 9323,
+  "diyanet": "YENİÇAĞA",
+  "how": "name"
+ },
+ "Burdur/Ağlasun": {
+  "id": 9324,
+  "diyanet": "AĞLASUN",
+  "how": "name"
+ },
+ "Burdur/Altınyayla": {
+  "id": 9325,
+  "diyanet": "ALTINYAYLA",
+  "how": "name"
+ },
+ "Burdur/Bucak": {
+  "id": 9326,
+  "diyanet": "BUCAK",
+  "how": "name"
+ },
+ "Burdur/Çavdır": {
+  "id": 9328,
+  "diyanet": "ÇAVDIR",
+  "how": "name"
+ },
+ "Burdur/Çeltikçi": {
+  "id": 9329,
+  "diyanet": "ÇELTİKCİ",
+  "how": "name"
+ },
+ "Burdur/Gölhisar": {
+  "id": 9330,
+  "diyanet": "GÖLHİSAR",
+  "how": "name"
+ },
+ "Burdur/Karamanlı": {
+  "id": 9331,
+  "diyanet": "KARAMANLI",
+  "how": "name"
+ },
+ "Burdur/Kemer": {
+  "id": 9332,
+  "diyanet": "KEMER (B)",
+  "how": "name"
+ },
+ "Burdur/Merkez": {
+  "id": 9327,
+  "diyanet": "BURDUR",
+  "how": "name"
+ },
+ "Burdur/Tefenni": {
+  "id": 9333,
+  "diyanet": "TEFENNİ",
+  "how": "name"
+ },
+ "Burdur/Yeşilova": {
+  "id": 9334,
+  "diyanet": "YEŞİLOVA",
+  "how": "name"
+ },
+ "Bursa/Büyükorhan": {
+  "id": 9336,
+  "diyanet": "BÜYÜK ORHAN",
+  "how": "name"
+ },
+ "Bursa/Gemlik": {
+  "id": 9337,
+  "diyanet": "GEMLİK",
+  "how": "name"
+ },
+ "Bursa/Gürsu": {
+  "id": 17893,
+  "diyanet": "KESTEL",
+  "how": "nearest",
+  "km": 2
+ },
+ "Bursa/Harmancık": {
+  "id": 9338,
+  "diyanet": "HARMANCIK",
+  "how": "name"
+ },
+ "Bursa/İnegöl": {
+  "id": 9339,
+  "diyanet": "İNEGÖL",
+  "how": "name"
+ },
+ "Bursa/İznik": {
+  "id": 9340,
+  "diyanet": "İZNİK",
+  "how": "name"
+ },
+ "Bursa/Karacabey": {
+  "id": 9341,
+  "diyanet": "KARACABEY",
+  "how": "name"
+ },
+ "Bursa/Keles": {
+  "id": 9342,
+  "diyanet": "KELES",
+  "how": "name"
+ },
+ "Bursa/Kestel": {
+  "id": 17893,
+  "diyanet": "KESTEL",
+  "how": "name"
+ },
+ "Bursa/Mudanya": {
+  "id": 9343,
+  "diyanet": "MUDANYA",
+  "how": "name"
+ },
+ "Bursa/Mustafakemalpaşa": {
+  "id": 9344,
+  "diyanet": "MUSTAFA KEMALPAŞA",
+  "how": "name"
+ },
+ "Bursa/Nilüfer": {
+  "id": 9335,
+  "diyanet": "BURSA",
+  "how": "nearest",
+  "km": 6
+ },
+ "Bursa/Orhaneli": {
+  "id": 17894,
+  "diyanet": "ORHANELİ",
+  "how": "name"
+ },
+ "Bursa/Orhangazi": {
+  "id": 9345,
+  "diyanet": "ORHANGAZİ",
+  "how": "name"
+ },
+ "Bursa/Osmangazi": {
+  "id": 9335,
+  "diyanet": "BURSA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Bursa/Yenişehir": {
+  "id": 9346,
+  "diyanet": "YENİŞEHİR",
+  "how": "name"
+ },
+ "Bursa/Yıldırım": {
+  "id": 17893,
+  "diyanet": "KESTEL",
+  "how": "nearest",
+  "km": 10
+ },
+ "Çanakkale/Ayvacık": {
+  "id": 9347,
+  "diyanet": "AYVACIK",
+  "how": "name"
+ },
+ "Çanakkale/Bayramiç": {
+  "id": 9348,
+  "diyanet": "BAYRAMİÇ",
+  "how": "name"
+ },
+ "Çanakkale/Biga": {
+  "id": 9349,
+  "diyanet": "BİGA",
+  "how": "name"
+ },
+ "Çanakkale/Bozcaada": {
+  "id": 9350,
+  "diyanet": "BOZCAADA",
+  "how": "name"
+ },
+ "Çanakkale/Çan": {
+  "id": 9351,
+  "diyanet": "ÇAN",
+  "how": "name"
+ },
+ "Çanakkale/Eceabat": {
+  "id": 9352,
+  "diyanet": "ÇANAKKALE",
+  "how": "nearest",
+  "km": 6
+ },
+ "Çanakkale/Ezine": {
+  "id": 17882,
+  "diyanet": "EZİNE",
+  "how": "name"
+ },
+ "Çanakkale/Gelibolu": {
+  "id": 9353,
+  "diyanet": "GELİBOLU",
+  "how": "name"
+ },
+ "Çanakkale/Gökçeada": {
+  "id": 9354,
+  "diyanet": "GÖKÇEADA",
+  "how": "name"
+ },
+ "Çanakkale/Lapseki": {
+  "id": 9355,
+  "diyanet": "LAPSEKİ",
+  "how": "name"
+ },
+ "Çanakkale/Merkez": {
+  "id": 9352,
+  "diyanet": "ÇANAKKALE",
+  "how": "name"
+ },
+ "Çanakkale/Yenice": {
+  "id": 9356,
+  "diyanet": "YENİCE",
+  "how": "name"
+ },
+ "Çankırı/Atkaracalar": {
+  "id": 9357,
+  "diyanet": "ATKARACALAR",
+  "how": "name"
+ },
+ "Çankırı/Bayramören": {
+  "id": 9358,
+  "diyanet": "BAYRAMÖREN",
+  "how": "name"
+ },
+ "Çankırı/Çerkeş": {
+  "id": 9360,
+  "diyanet": "CERKEŞ",
+  "how": "name"
+ },
+ "Çankırı/Eldivan": {
+  "id": 9359,
+  "diyanet": "ÇANKIRI",
+  "how": "nearest",
+  "km": 12
+ },
+ "Çankırı/Ilgaz": {
+  "id": 9361,
+  "diyanet": "ILGAZ",
+  "how": "name"
+ },
+ "Çankırı/Kızılırmak": {
+  "id": 9362,
+  "diyanet": "KIZILIRMAK",
+  "how": "name"
+ },
+ "Çankırı/Korgun": {
+  "id": 9359,
+  "diyanet": "ÇANKIRI",
+  "how": "nearest",
+  "km": 18
+ },
+ "Çankırı/Kurşunlu": {
+  "id": 9363,
+  "diyanet": "KURŞUNLU",
+  "how": "name"
+ },
+ "Çankırı/Merkez": {
+  "id": 9359,
+  "diyanet": "ÇANKIRI",
+  "how": "name"
+ },
+ "Çankırı/Orta": {
+  "id": 9364,
+  "diyanet": "ORTA",
+  "how": "name"
+ },
+ "Çankırı/Şabanözü": {
+  "id": 9365,
+  "diyanet": "ŞABANÖZÜ",
+  "how": "name"
+ },
+ "Çankırı/Yapraklı": {
+  "id": 9366,
+  "diyanet": "YAPRAKLI",
+  "how": "name"
+ },
+ "Çorum/Alaca": {
+  "id": 9367,
+  "diyanet": "ALACA",
+  "how": "name"
+ },
+ "Çorum/Bayat": {
+  "id": 9368,
+  "diyanet": "BAYAT",
+  "how": "name"
+ },
+ "Çorum/Boğazkale": {
+  "id": 9369,
+  "diyanet": "BOĞAZKALE",
+  "how": "name"
+ },
+ "Çorum/Dodurga": {
+  "id": 9371,
+  "diyanet": "DODURGA",
+  "how": "name"
+ },
+ "Çorum/İskilip": {
+  "id": 9372,
+  "diyanet": "İSKİLİP",
+  "how": "name"
+ },
+ "Çorum/Kargı": {
+  "id": 9373,
+  "diyanet": "KARGI",
+  "how": "name"
+ },
+ "Çorum/Laçin": {
+  "id": 9374,
+  "diyanet": "LAÇİN",
+  "how": "name"
+ },
+ "Çorum/Mecitözü": {
+  "id": 9375,
+  "diyanet": "MECİTÖZÜ",
+  "how": "name"
+ },
+ "Çorum/Merkez": {
+  "id": 9370,
+  "diyanet": "ÇORUM",
+  "how": "name"
+ },
+ "Çorum/Oğuzlar": {
+  "id": 9376,
+  "diyanet": "OĞUZLAR",
+  "how": "name"
+ },
+ "Çorum/Ortaköy": {
+  "id": 9377,
+  "diyanet": "ORTAKÖY",
+  "how": "name"
+ },
+ "Çorum/Osmancık": {
+  "id": 9378,
+  "diyanet": "OSMANCIK",
+  "how": "name"
+ },
+ "Çorum/Sungurlu": {
+  "id": 9379,
+  "diyanet": "SUNGURLU",
+  "how": "name"
+ },
+ "Çorum/Uğurludağ": {
+  "id": 9380,
+  "diyanet": "UĞURLUDAĞ",
+  "how": "name"
+ },
+ "Denizli/Acıpayam": {
+  "id": 19020,
+  "diyanet": "ACIPAYAM",
+  "how": "name"
+ },
+ "Denizli/Babadağ": {
+  "id": 9382,
+  "diyanet": "BABADAĞ",
+  "how": "name"
+ },
+ "Denizli/Baklan": {
+  "id": 9383,
+  "diyanet": "BAKLAN",
+  "how": "name"
+ },
+ "Denizli/Bekilli": {
+  "id": 9384,
+  "diyanet": "BEKİLLİ",
+  "how": "name"
+ },
+ "Denizli/Beyağaç": {
+  "id": 9385,
+  "diyanet": "BEYAĞAÇ",
+  "how": "name"
+ },
+ "Denizli/Bozkurt": {
+  "id": 9386,
+  "diyanet": "BOZKURT",
+  "how": "name"
+ },
+ "Denizli/Buldan": {
+  "id": 9387,
+  "diyanet": "BULDAN",
+  "how": "name"
+ },
+ "Denizli/Çal": {
+  "id": 9388,
+  "diyanet": "ÇAL",
+  "how": "name"
+ },
+ "Denizli/Çameli": {
+  "id": 9389,
+  "diyanet": "ÇAMELİ",
+  "how": "name"
+ },
+ "Denizli/Çardak": {
+  "id": 9390,
+  "diyanet": "ÇARDAK",
+  "how": "name"
+ },
+ "Denizli/Çivril": {
+  "id": 9391,
+  "diyanet": "ÇİVRİL",
+  "how": "name"
+ },
+ "Denizli/Güney": {
+  "id": 9381,
+  "diyanet": "GÜNEY",
+  "how": "name"
+ },
+ "Denizli/Honaz": {
+  "id": 9393,
+  "diyanet": "HONAZ",
+  "how": "name"
+ },
+ "Denizli/Kale": {
+  "id": 17899,
+  "diyanet": "KALE",
+  "how": "name"
+ },
+ "Denizli/Merkezefendi": {
+  "id": 9392,
+  "diyanet": "DENİZLİ",
+  "how": "nearest",
+  "km": 2
+ },
+ "Denizli/Pamukkale": {
+  "id": 9392,
+  "diyanet": "DENİZLİ",
+  "how": "nearest",
+  "km": 0
+ },
+ "Denizli/Sarayköy": {
+  "id": 9395,
+  "diyanet": "SARAYKÖY",
+  "how": "name"
+ },
+ "Denizli/Serinhisar": {
+  "id": 9396,
+  "diyanet": "SERİNHİSAR",
+  "how": "name"
+ },
+ "Denizli/Tavas": {
+  "id": 17900,
+  "diyanet": "TAVAS",
+  "how": "name"
+ },
+ "Diyarbakır/Bağlar": {
+  "id": 9402,
+  "diyanet": "DİYARBAKIR",
+  "how": "nearest",
+  "km": 1
+ },
+ "Diyarbakır/Bismil": {
+  "id": 9397,
+  "diyanet": "BİSMİL",
+  "how": "name"
+ },
+ "Diyarbakır/Çermik": {
+  "id": 9398,
+  "diyanet": "ÇERMİK",
+  "how": "name"
+ },
+ "Diyarbakır/Çınar": {
+  "id": 9399,
+  "diyanet": "ÇINAR",
+  "how": "name"
+ },
+ "Diyarbakır/Çüngüş": {
+  "id": 9400,
+  "diyanet": "ÇÜNGÜŞ",
+  "how": "name"
+ },
+ "Diyarbakır/Dicle": {
+  "id": 9401,
+  "diyanet": "DİCLE",
+  "how": "name"
+ },
+ "Diyarbakır/Eğil": {
+  "id": 9403,
+  "diyanet": "EĞİL",
+  "how": "name"
+ },
+ "Diyarbakır/Ergani": {
+  "id": 9404,
+  "diyanet": "ERGANİ",
+  "how": "name"
+ },
+ "Diyarbakır/Hani": {
+  "id": 9405,
+  "diyanet": "HANİ",
+  "how": "name"
+ },
+ "Diyarbakır/Hazro": {
+  "id": 9406,
+  "diyanet": "HAZRO",
+  "how": "name"
+ },
+ "Diyarbakır/Kayapınar": {
+  "id": 9402,
+  "diyanet": "DİYARBAKIR",
+  "how": "nearest",
+  "km": 5
+ },
+ "Diyarbakır/Kocaköy": {
+  "id": 9407,
+  "diyanet": "KOCAKÖY",
+  "how": "name"
+ },
+ "Diyarbakır/Kulp": {
+  "id": 9408,
+  "diyanet": "KULP",
+  "how": "name"
+ },
+ "Diyarbakır/Lice": {
+  "id": 9409,
+  "diyanet": "LİCE",
+  "how": "name"
+ },
+ "Diyarbakır/Silvan": {
+  "id": 9410,
+  "diyanet": "SİLVAN",
+  "how": "name"
+ },
+ "Diyarbakır/Sur": {
+  "id": 9402,
+  "diyanet": "DİYARBAKIR",
+  "how": "nearest",
+  "km": 0
+ },
+ "Diyarbakır/Yenişehir": {
+  "id": 9402,
+  "diyanet": "DİYARBAKIR",
+  "how": "nearest",
+  "km": 1
+ },
+ "Düzce/Akçakoca": {
+  "id": 9411,
+  "diyanet": "AKÇAKOCA",
+  "how": "name"
+ },
+ "Düzce/Cumayeri": {
+  "id": 9413,
+  "diyanet": "CUMAYERİ",
+  "how": "name"
+ },
+ "Düzce/Çilimli": {
+  "id": 9412,
+  "diyanet": "ÇİLİMLİ",
+  "how": "name"
+ },
+ "Düzce/Gölyaka": {
+  "id": 9415,
+  "diyanet": "GÖLYAKA",
+  "how": "name"
+ },
+ "Düzce/Gümüşova": {
+  "id": 9416,
+  "diyanet": "GÜMÜŞOVA",
+  "how": "name"
+ },
+ "Düzce/Kaynaşlı": {
+  "id": 9417,
+  "diyanet": "KAYNAŞLI",
+  "how": "name"
+ },
+ "Düzce/Merkez": {
+  "id": 9414,
+  "diyanet": "DÜZCE",
+  "how": "name"
+ },
+ "Düzce/Yığılca": {
+  "id": 9418,
+  "diyanet": "YIĞILCA",
+  "how": "name"
+ },
+ "Edirne/Enez": {
+  "id": 9420,
+  "diyanet": "ENEZ",
+  "how": "name"
+ },
+ "Edirne/Havsa": {
+  "id": 9421,
+  "diyanet": "HAVSA",
+  "how": "name"
+ },
+ "Edirne/İpsala": {
+  "id": 9422,
+  "diyanet": "İPSALA",
+  "how": "name"
+ },
+ "Edirne/Keşan": {
+  "id": 9423,
+  "diyanet": "KEŞAN",
+  "how": "name"
+ },
+ "Edirne/Lalapaşa": {
+  "id": 9424,
+  "diyanet": "LALAPAŞA",
+  "how": "name"
+ },
+ "Edirne/Meriç": {
+  "id": 9425,
+  "diyanet": "MERİÇ",
+  "how": "name"
+ },
+ "Edirne/Merkez": {
+  "id": 9419,
+  "diyanet": "EDİRNE",
+  "how": "name"
+ },
+ "Edirne/Süloğlu": {
+  "id": 9426,
+  "diyanet": "SÜLOĞLU",
+  "how": "name"
+ },
+ "Edirne/Uzunköprü": {
+  "id": 9427,
+  "diyanet": "UZUNKÖPRÜ",
+  "how": "name"
+ },
+ "Elazığ/Ağın": {
+  "id": 9428,
+  "diyanet": "AĞIN",
+  "how": "name"
+ },
+ "Elazığ/Alacakaya": {
+  "id": 9429,
+  "diyanet": "ALACAKAYA",
+  "how": "name"
+ },
+ "Elazığ/Arıcak": {
+  "id": 9430,
+  "diyanet": "ARICAK",
+  "how": "name"
+ },
+ "Elazığ/Baskil": {
+  "id": 9431,
+  "diyanet": "BASKİL",
+  "how": "name"
+ },
+ "Elazığ/Karakoçan": {
+  "id": 9433,
+  "diyanet": "KARAKOÇAN",
+  "how": "name"
+ },
+ "Elazığ/Keban": {
+  "id": 9434,
+  "diyanet": "KEBAN",
+  "how": "name"
+ },
+ "Elazığ/Kovancılar": {
+  "id": 9435,
+  "diyanet": "KOVANCILAR",
+  "how": "name"
+ },
+ "Elazığ/Maden": {
+  "id": 9436,
+  "diyanet": "MADEN",
+  "how": "name"
+ },
+ "Elazığ/Merkez": {
+  "id": 9432,
+  "diyanet": "ELAZIĞ",
+  "how": "name"
+ },
+ "Elazığ/Palu": {
+  "id": 9437,
+  "diyanet": "PALU",
+  "how": "name"
+ },
+ "Elazığ/Sivrice": {
+  "id": 9438,
+  "diyanet": "SİVRİCE",
+  "how": "name"
+ },
+ "Erzincan/Çayırlı": {
+  "id": 9439,
+  "diyanet": "ÇAYIRLI",
+  "how": "name"
+ },
+ "Erzincan/İliç": {
+  "id": 9441,
+  "diyanet": "İLİÇ",
+  "how": "name"
+ },
+ "Erzincan/Kemah": {
+  "id": 9442,
+  "diyanet": "KEMAH",
+  "how": "name"
+ },
+ "Erzincan/Kemaliye": {
+  "id": 9443,
+  "diyanet": "KEMALİYE",
+  "how": "name"
+ },
+ "Erzincan/Merkez": {
+  "id": 9440,
+  "diyanet": "ERZİNCAN",
+  "how": "name"
+ },
+ "Erzincan/Otlukbeli": {
+  "id": 9444,
+  "diyanet": "OTLUKBELİ",
+  "how": "name"
+ },
+ "Erzincan/Refahiye": {
+  "id": 9445,
+  "diyanet": "REFAHİYE",
+  "how": "name"
+ },
+ "Erzincan/Tercan": {
+  "id": 9446,
+  "diyanet": "TERCAN",
+  "how": "name"
+ },
+ "Erzincan/Üzümlü": {
+  "id": 9447,
+  "diyanet": "ÜZÜMLÜ",
+  "how": "name"
+ },
+ "Erzurum/Aşkale": {
+  "id": 9448,
+  "diyanet": "AŞKALE",
+  "how": "name"
+ },
+ "Erzurum/Aziziye": {
+  "id": 9449,
+  "diyanet": "AZİZİYE",
+  "how": "name"
+ },
+ "Erzurum/Çat": {
+  "id": 9450,
+  "diyanet": "ÇAT",
+  "how": "name"
+ },
+ "Erzurum/Hınıs": {
+  "id": 9452,
+  "diyanet": "HINIS",
+  "how": "name"
+ },
+ "Erzurum/Horasan": {
+  "id": 9453,
+  "diyanet": "HORASAN",
+  "how": "name"
+ },
+ "Erzurum/İspir": {
+  "id": 9454,
+  "diyanet": "İSPİR",
+  "how": "name"
+ },
+ "Erzurum/Karaçoban": {
+  "id": 9455,
+  "diyanet": "KARAÇOBAN",
+  "how": "name"
+ },
+ "Erzurum/Karayazı": {
+  "id": 9456,
+  "diyanet": "KARAYAZI",
+  "how": "name"
+ },
+ "Erzurum/Köprüköy": {
+  "id": 9457,
+  "diyanet": "KÖPRÜKÖY",
+  "how": "name"
+ },
+ "Erzurum/Narman": {
+  "id": 9458,
+  "diyanet": "NARMAN",
+  "how": "name"
+ },
+ "Erzurum/Oltu": {
+  "id": 9459,
+  "diyanet": "OLTU",
+  "how": "name"
+ },
+ "Erzurum/Olur": {
+  "id": 9460,
+  "diyanet": "OLUR",
+  "how": "name"
+ },
+ "Erzurum/Palandöken": {
+  "id": 9451,
+  "diyanet": "ERZURUM",
+  "how": "nearest",
+  "km": 2
+ },
+ "Erzurum/Pasinler": {
+  "id": 9461,
+  "diyanet": "PASİNLER",
+  "how": "name"
+ },
+ "Erzurum/Pazaryolu": {
+  "id": 9462,
+  "diyanet": "PAZARYOLU",
+  "how": "name"
+ },
+ "Erzurum/Şenkaya": {
+  "id": 9463,
+  "diyanet": "ŞENKAYA",
+  "how": "name"
+ },
+ "Erzurum/Tekman": {
+  "id": 9464,
+  "diyanet": "TEKMAN",
+  "how": "name"
+ },
+ "Erzurum/Tortum": {
+  "id": 9465,
+  "diyanet": "TORTUM",
+  "how": "name"
+ },
+ "Erzurum/Uzundere": {
+  "id": 9466,
+  "diyanet": "UZUNDERE",
+  "how": "name"
+ },
+ "Erzurum/Yakutiye": {
+  "id": 9451,
+  "diyanet": "ERZURUM",
+  "how": "nearest",
+  "km": 0
+ },
+ "Eskişehir/Alpu": {
+  "id": 9467,
+  "diyanet": "ALPU",
+  "how": "name"
+ },
+ "Eskişehir/Beylikova": {
+  "id": 9468,
+  "diyanet": "BEYLİKOVA",
+  "how": "name"
+ },
+ "Eskişehir/Çifteler": {
+  "id": 9469,
+  "diyanet": "ÇİFTELER",
+  "how": "name"
+ },
+ "Eskişehir/Günyüzü": {
+  "id": 9471,
+  "diyanet": "GÜNYÜZÜ",
+  "how": "name"
+ },
+ "Eskişehir/Han": {
+  "id": 9472,
+  "diyanet": "HAN",
+  "how": "name"
+ },
+ "Eskişehir/İnönü": {
+  "id": 9473,
+  "diyanet": "İNÖNÜ",
+  "how": "name"
+ },
+ "Eskişehir/Mahmudiye": {
+  "id": 9474,
+  "diyanet": "MAHMUDİYE",
+  "how": "name"
+ },
+ "Eskişehir/Mihalgazi": {
+  "id": 33292,
+  "diyanet": "MİHALGAZİ",
+  "how": "name"
+ },
+ "Eskişehir/Mihalıççık": {
+  "id": 9475,
+  "diyanet": "MİHALIÇÇIK",
+  "how": "name"
+ },
+ "Eskişehir/Odunpazarı": {
+  "id": 9470,
+  "diyanet": "ESKİŞEHİR",
+  "how": "nearest",
+  "km": 0
+ },
+ "Eskişehir/Sarıcakaya": {
+  "id": 17919,
+  "diyanet": "SARICAKAYA",
+  "how": "name"
+ },
+ "Eskişehir/Seyitgazi": {
+  "id": 9476,
+  "diyanet": "SEYİTGAZİ",
+  "how": "name"
+ },
+ "Eskişehir/Sivrihisar": {
+  "id": 9477,
+  "diyanet": "SİVRİHİSAR",
+  "how": "name"
+ },
+ "Eskişehir/Tepebaşı": {
+  "id": 9470,
+  "diyanet": "ESKİŞEHİR",
+  "how": "nearest",
+  "km": 4
+ },
+ "Gaziantep/Araban": {
+  "id": 9478,
+  "diyanet": "ARABAN",
+  "how": "name"
+ },
+ "Gaziantep/İslahiye": {
+  "id": 9480,
+  "diyanet": "İSLAHİYE",
+  "how": "name"
+ },
+ "Gaziantep/Karkamış": {
+  "id": 9481,
+  "diyanet": "KARKAMIŞ",
+  "how": "name"
+ },
+ "Gaziantep/Nizip": {
+  "id": 9482,
+  "diyanet": "NİZİP",
+  "how": "name"
+ },
+ "Gaziantep/Nurdağı": {
+  "id": 9483,
+  "diyanet": "NURDAĞI",
+  "how": "name"
+ },
+ "Gaziantep/Oğuzeli": {
+  "id": 9484,
+  "diyanet": "OĞUZELİ",
+  "how": "name"
+ },
+ "Gaziantep/Şahinbey": {
+  "id": 9479,
+  "diyanet": "GAZİANTEP",
+  "how": "nearest",
+  "km": 0
+ },
+ "Gaziantep/Şehitkamil": {
+  "id": 9479,
+  "diyanet": "GAZİANTEP",
+  "how": "nearest",
+  "km": 2
+ },
+ "Gaziantep/Yavuzeli": {
+  "id": 9485,
+  "diyanet": "YAVUZELİ",
+  "how": "name"
+ },
+ "Giresun/Alucra": {
+  "id": 9486,
+  "diyanet": "ALUCRA",
+  "how": "name"
+ },
+ "Giresun/Bulancak": {
+  "id": 9487,
+  "diyanet": "BULANCAK",
+  "how": "name"
+ },
+ "Giresun/Çamoluk": {
+  "id": 9488,
+  "diyanet": "ÇAMOLUK",
+  "how": "name"
+ },
+ "Giresun/Çanakçı": {
+  "id": 9489,
+  "diyanet": "ÇANAKÇI",
+  "how": "name"
+ },
+ "Giresun/Dereli": {
+  "id": 9490,
+  "diyanet": "DERELİ",
+  "how": "name"
+ },
+ "Giresun/Doğankent": {
+  "id": 9491,
+  "diyanet": "DOĞANKENT",
+  "how": "name"
+ },
+ "Giresun/Espiye": {
+  "id": 9492,
+  "diyanet": "ESPİYE",
+  "how": "name"
+ },
+ "Giresun/Eynesil": {
+  "id": 9493,
+  "diyanet": "EYNESİL",
+  "how": "name"
+ },
+ "Giresun/Görele": {
+  "id": 9495,
+  "diyanet": "GÖRELE",
+  "how": "name"
+ },
+ "Giresun/Güce": {
+  "id": 9496,
+  "diyanet": "GÜCE",
+  "how": "name"
+ },
+ "Giresun/Keşap": {
+  "id": 9497,
+  "diyanet": "KEŞAP",
+  "how": "name"
+ },
+ "Giresun/Merkez": {
+  "id": 9494,
+  "diyanet": "GİRESUN",
+  "how": "name"
+ },
+ "Giresun/Piraziz": {
+  "id": 9498,
+  "diyanet": "PİRAZİZ",
+  "how": "name"
+ },
+ "Giresun/Şebinkarahisar": {
+  "id": 16706,
+  "diyanet": "ŞEBİNKARAHİSAR",
+  "how": "name"
+ },
+ "Giresun/Tirebolu": {
+  "id": 9499,
+  "diyanet": "TİREBOLU",
+  "how": "name"
+ },
+ "Giresun/Yağlıdere": {
+  "id": 9500,
+  "diyanet": "YAĞLIDERE",
+  "how": "name"
+ },
+ "Gümüşhane/Kelkit": {
+  "id": 16746,
+  "diyanet": "KELKİT",
+  "how": "name"
+ },
+ "Gümüşhane/Köse": {
+  "id": 9502,
+  "diyanet": "KÖSE",
+  "how": "name"
+ },
+ "Gümüşhane/Kürtün": {
+  "id": 9503,
+  "diyanet": "KÜRTÜN",
+  "how": "name"
+ },
+ "Gümüşhane/Merkez": {
+  "id": 9501,
+  "diyanet": "GÜMÜŞHANE",
+  "how": "name"
+ },
+ "Gümüşhane/Şiran": {
+  "id": 9504,
+  "diyanet": "ŞİRAN",
+  "how": "name"
+ },
+ "Gümüşhane/Torul": {
+  "id": 9505,
+  "diyanet": "TORUL",
+  "how": "name"
+ },
+ "Hakkari/Çukurca": {
+  "id": 9506,
+  "diyanet": "ÇUKURCA",
+  "how": "name"
+ },
+ "Hakkari/Derecik": {
+  "id": 20067,
+  "diyanet": "DERECİK",
+  "how": "name"
+ },
+ "Hakkari/Merkez": {
+  "id": 9507,
+  "diyanet": "HAKKARİ",
+  "how": "name"
+ },
+ "Hakkari/Şemdinli": {
+  "id": 9508,
+  "diyanet": "ŞEMDİNLİ",
+  "how": "name"
+ },
+ "Hakkari/Yüksekova": {
+  "id": 9509,
+  "diyanet": "YÜKSEKOVA",
+  "how": "name"
+ },
+ "Hatay/Altınözü": {
+  "id": 9510,
+  "diyanet": "ALTINÖZÜ",
+  "how": "name"
+ },
+ "Hatay/Antakya": {
+  "id": 20089,
+  "diyanet": "HATAY",
+  "how": "nearest",
+  "km": 0
+ },
+ "Hatay/Arsuz": {
+  "id": 9515,
+  "diyanet": "ARSUZ",
+  "how": "name"
+ },
+ "Hatay/Belen": {
+  "id": 9511,
+  "diyanet": "BELEN",
+  "how": "name"
+ },
+ "Hatay/Defne": {
+  "id": 20089,
+  "diyanet": "HATAY",
+  "how": "nearest",
+  "km": 3
+ },
+ "Hatay/Dörtyol": {
+  "id": 9512,
+  "diyanet": "DÖRTYOL",
+  "how": "name"
+ },
+ "Hatay/Erzin": {
+  "id": 9513,
+  "diyanet": "ERZİN",
+  "how": "name"
+ },
+ "Hatay/Hassa": {
+  "id": 9514,
+  "diyanet": "HASSA",
+  "how": "name"
+ },
+ "Hatay/İskenderun": {
+  "id": 9516,
+  "diyanet": "İSKENDERUN",
+  "how": "name"
+ },
+ "Hatay/Kırıkhan": {
+  "id": 9517,
+  "diyanet": "KIRIKHAN",
+  "how": "name"
+ },
+ "Hatay/Kumlu": {
+  "id": 9518,
+  "diyanet": "KUMLU",
+  "how": "name"
+ },
+ "Hatay/Payas": {
+  "id": 17810,
+  "diyanet": "PAYAS",
+  "how": "name"
+ },
+ "Hatay/Reyhanlı": {
+  "id": 9519,
+  "diyanet": "REYHANLI",
+  "how": "name"
+ },
+ "Hatay/Samandağ": {
+  "id": 9520,
+  "diyanet": "SAMANDAĞ",
+  "how": "name"
+ },
+ "Hatay/Yayladağı": {
+  "id": 16730,
+  "diyanet": "YAYLADAĞI",
+  "how": "name"
+ },
+ "Iğdır/Aralık": {
+  "id": 9521,
+  "diyanet": "ARALIK",
+  "how": "name"
+ },
+ "Iğdır/Karakoyunlu": {
+  "id": 9523,
+  "diyanet": "KARAKOYUNLU",
+  "how": "name"
+ },
+ "Iğdır/Merkez": {
+  "id": 9522,
+  "diyanet": "IĞDIR",
+  "how": "name"
+ },
+ "Iğdır/Tuzluca": {
+  "id": 9524,
+  "diyanet": "TUZLUCA",
+  "how": "name"
+ },
+ "Isparta/Aksu": {
+  "id": 9525,
+  "diyanet": "AKSU (I)",
+  "how": "name"
+ },
+ "Isparta/Atabey": {
+  "id": 17891,
+  "diyanet": "ATABEY",
+  "how": "name"
+ },
+ "Isparta/Eğirdir": {
+  "id": 9526,
+  "diyanet": "EĞİRDİR",
+  "how": "name"
+ },
+ "Isparta/Gelendost": {
+  "id": 9527,
+  "diyanet": "GELENDOST",
+  "how": "name"
+ },
+ "Isparta/Gönen": {
+  "id": 17892,
+  "diyanet": "GÖNEN",
+  "how": "name"
+ },
+ "Isparta/Keçiborlu": {
+  "id": 9529,
+  "diyanet": "KEÇİBORLU",
+  "how": "name"
+ },
+ "Isparta/Merkez": {
+  "id": 9528,
+  "diyanet": "ISPARTA",
+  "how": "name"
+ },
+ "Isparta/Senirkent": {
+  "id": 17816,
+  "diyanet": "SENİRKENT",
+  "how": "name"
+ },
+ "Isparta/Sütçüler": {
+  "id": 9531,
+  "diyanet": "SÜTCÜLER",
+  "how": "name"
+ },
+ "Isparta/Şarkikaraağaç": {
+  "id": 9530,
+  "diyanet": "ŞARKİ KARAAĞAÇ",
+  "how": "name"
+ },
+ "Isparta/Uluborlu": {
+  "id": 9532,
+  "diyanet": "ULUBORLU",
+  "how": "name"
+ },
+ "Isparta/Yalvaç": {
+  "id": 9533,
+  "diyanet": "YALVAÇ",
+  "how": "name"
+ },
+ "Isparta/Yenişarbademli": {
+  "id": 9534,
+  "diyanet": "YENİSAR BADEMLİ",
+  "how": "name"
+ },
+ "İstanbul/Adalar": {
+  "id": 9544,
+  "diyanet": "MALTEPE",
+  "how": "nearest",
+  "km": 6
+ },
+ "İstanbul/Arnavutköy": {
+  "id": 9535,
+  "diyanet": "ARNAVUTKOY",
+  "how": "name"
+ },
+ "İstanbul/Ataşehir": {
+  "id": 9544,
+  "diyanet": "MALTEPE",
+  "how": "nearest",
+  "km": 7
+ },
+ "İstanbul/Avcılar": {
+  "id": 17865,
+  "diyanet": "AVCILAR",
+  "how": "name"
+ },
+ "İstanbul/Bağcılar": {
+  "id": 17866,
+  "diyanet": "BAŞAKŞEHİR",
+  "how": "nearest",
+  "km": 5
+ },
+ "İstanbul/Bahçelievler": {
+  "id": 9543,
+  "diyanet": "KÜÇÜKÇEKMECE",
+  "how": "nearest",
+  "km": 7
+ },
+ "İstanbul/Bakırköy": {
+  "id": 9543,
+  "diyanet": "KÜÇÜKÇEKMECE",
+  "how": "nearest",
+  "km": 8
+ },
+ "İstanbul/Başakşehir": {
+  "id": 17866,
+  "diyanet": "BAŞAKŞEHİR",
+  "how": "name"
+ },
+ "İstanbul/Bayrampaşa": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 6
+ },
+ "İstanbul/Beşiktaş": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 10
+ },
+ "İstanbul/Beykoz": {
+  "id": 9539,
+  "diyanet": "ÇEKMEKÖY",
+  "how": "nearest",
+  "km": 12
+ },
+ "İstanbul/Beylikdüzü": {
+  "id": 9536,
+  "diyanet": "BEYLİKDÜZÜ",
+  "how": "name"
+ },
+ "İstanbul/Beyoğlu": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 3
+ },
+ "İstanbul/Büyükçekmece": {
+  "id": 9537,
+  "diyanet": "BÜYÜKÇEKMECE",
+  "how": "name"
+ },
+ "İstanbul/Çatalca": {
+  "id": 9538,
+  "diyanet": "ÇATALCA",
+  "how": "name"
+ },
+ "İstanbul/Çekmeköy": {
+  "id": 9539,
+  "diyanet": "ÇEKMEKÖY",
+  "how": "name"
+ },
+ "İstanbul/Esenler": {
+  "id": 9550,
+  "diyanet": "SULTANGAZİ",
+  "how": "nearest",
+  "km": 6
+ },
+ "İstanbul/Esenyurt": {
+  "id": 9540,
+  "diyanet": "ESENYURT",
+  "how": "name"
+ },
+ "İstanbul/Eyüpsultan": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 4
+ },
+ "İstanbul/Fatih": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 0
+ },
+ "İstanbul/Gaziosmanpaşa": {
+  "id": 9550,
+  "diyanet": "SULTANGAZİ",
+  "how": "nearest",
+  "km": 3
+ },
+ "İstanbul/Güngören": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 6
+ },
+ "İstanbul/Kadıköy": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 8
+ },
+ "İstanbul/Kağıthane": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 9
+ },
+ "İstanbul/Kartal": {
+  "id": 9542,
+  "diyanet": "KARTAL",
+  "how": "name"
+ },
+ "İstanbul/Küçükçekmece": {
+  "id": 9543,
+  "diyanet": "KÜÇÜKÇEKMECE",
+  "how": "name"
+ },
+ "İstanbul/Maltepe": {
+  "id": 9544,
+  "diyanet": "MALTEPE",
+  "how": "name"
+ },
+ "İstanbul/Pendik": {
+  "id": 9545,
+  "diyanet": "PENDİK",
+  "how": "name"
+ },
+ "İstanbul/Sancaktepe": {
+  "id": 9546,
+  "diyanet": "SANCAKTEPE",
+  "how": "name"
+ },
+ "İstanbul/Sarıyer": {
+  "id": 9550,
+  "diyanet": "SULTANGAZİ",
+  "how": "nearest",
+  "km": 17
+ },
+ "İstanbul/Silivri": {
+  "id": 9548,
+  "diyanet": "SİLİVRİ",
+  "how": "name"
+ },
+ "İstanbul/Sultanbeyli": {
+  "id": 9549,
+  "diyanet": "SULTANBEYLİ",
+  "how": "name"
+ },
+ "İstanbul/Sultangazi": {
+  "id": 9550,
+  "diyanet": "SULTANGAZİ",
+  "how": "name"
+ },
+ "İstanbul/Şile": {
+  "id": 9547,
+  "diyanet": "ŞİLE",
+  "how": "name"
+ },
+ "İstanbul/Şişli": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 6
+ },
+ "İstanbul/Tuzla": {
+  "id": 9551,
+  "diyanet": "TUZLA",
+  "how": "name"
+ },
+ "İstanbul/Ümraniye": {
+  "id": 9539,
+  "diyanet": "ÇEKMEKÖY",
+  "how": "nearest",
+  "km": 5
+ },
+ "İstanbul/Üsküdar": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 9
+ },
+ "İstanbul/Zeytinburnu": {
+  "id": 9541,
+  "diyanet": "İSTANBUL",
+  "how": "nearest",
+  "km": 3
+ },
+ "İzmir/Aliağa": {
+  "id": 9552,
+  "diyanet": "ALİAĞA",
+  "how": "name"
+ },
+ "İzmir/Balçova": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 9
+ },
+ "İzmir/Bayındır": {
+  "id": 9553,
+  "diyanet": "BAYINDIR",
+  "how": "name"
+ },
+ "İzmir/Bayraklı": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 6
+ },
+ "İzmir/Bergama": {
+  "id": 9554,
+  "diyanet": "BERGAMA",
+  "how": "name"
+ },
+ "İzmir/Beydağ": {
+  "id": 9555,
+  "diyanet": "BEYDAĞ",
+  "how": "name"
+ },
+ "İzmir/Bornova": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 9
+ },
+ "İzmir/Buca": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 4
+ },
+ "İzmir/Çeşme": {
+  "id": 9556,
+  "diyanet": "CEŞME",
+  "how": "name"
+ },
+ "İzmir/Çiğli": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 12
+ },
+ "İzmir/Dikili": {
+  "id": 9557,
+  "diyanet": "DİKİLİ",
+  "how": "name"
+ },
+ "İzmir/Foça": {
+  "id": 9558,
+  "diyanet": "FOÇA",
+  "how": "name"
+ },
+ "İzmir/Gaziemir": {
+  "id": 17868,
+  "diyanet": "MENDERES",
+  "how": "nearest",
+  "km": 8
+ },
+ "İzmir/Güzelbahçe": {
+  "id": 9559,
+  "diyanet": "GÜZELBAHÇE",
+  "how": "name"
+ },
+ "İzmir/Karabağlar": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 4
+ },
+ "İzmir/Karaburun": {
+  "id": 9561,
+  "diyanet": "KARABURUN",
+  "how": "name"
+ },
+ "İzmir/Karşıyaka": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 8
+ },
+ "İzmir/Kemalpaşa": {
+  "id": 9562,
+  "diyanet": "KEMALPAŞA",
+  "how": "name"
+ },
+ "İzmir/Kınık": {
+  "id": 9563,
+  "diyanet": "KINIK",
+  "how": "name"
+ },
+ "İzmir/Kiraz": {
+  "id": 9564,
+  "diyanet": "KİRAZ",
+  "how": "name"
+ },
+ "İzmir/Konak": {
+  "id": 9560,
+  "diyanet": "İZMİR",
+  "how": "nearest",
+  "km": 0
+ },
+ "İzmir/Menderes": {
+  "id": 17868,
+  "diyanet": "MENDERES",
+  "how": "name"
+ },
+ "İzmir/Menemen": {
+  "id": 17869,
+  "diyanet": "MENEMEN",
+  "how": "name"
+ },
+ "İzmir/Narlıdere": {
+  "id": 9559,
+  "diyanet": "GÜZELBAHÇE",
+  "how": "nearest",
+  "km": 11
+ },
+ "İzmir/Ödemiş": {
+  "id": 9565,
+  "diyanet": "ÖDEMİŞ",
+  "how": "name"
+ },
+ "İzmir/Seferihisar": {
+  "id": 9566,
+  "diyanet": "SEFERIHİSAR",
+  "how": "name"
+ },
+ "İzmir/Selçuk": {
+  "id": 9567,
+  "diyanet": "SELÇUK",
+  "how": "name"
+ },
+ "İzmir/Tire": {
+  "id": 9568,
+  "diyanet": "TİRE",
+  "how": "name"
+ },
+ "İzmir/Torbalı": {
+  "id": 9569,
+  "diyanet": "TORBALI",
+  "how": "name"
+ },
+ "İzmir/Urla": {
+  "id": 9570,
+  "diyanet": "URLA",
+  "how": "name"
+ },
+ "Kahramanmaraş/Afşin": {
+  "id": 9571,
+  "diyanet": "AFŞİN",
+  "how": "name"
+ },
+ "Kahramanmaraş/Andırın": {
+  "id": 9572,
+  "diyanet": "ANDIRIN",
+  "how": "name"
+ },
+ "Kahramanmaraş/Çağlayancerit": {
+  "id": 9573,
+  "diyanet": "ÇAĞLAYANCERİT",
+  "how": "name"
+ },
+ "Kahramanmaraş/Dulkadiroğlu": {
+  "id": 9577,
+  "diyanet": "KAHRAMANMARAŞ",
+  "how": "nearest",
+  "km": 4
+ },
+ "Kahramanmaraş/Ekinözü": {
+  "id": 9574,
+  "diyanet": "EKİNÖZÜ",
+  "how": "name"
+ },
+ "Kahramanmaraş/Elbistan": {
+  "id": 9575,
+  "diyanet": "ELBİSTAN",
+  "how": "name"
+ },
+ "Kahramanmaraş/Göksun": {
+  "id": 9576,
+  "diyanet": "GÖKSUN",
+  "how": "name"
+ },
+ "Kahramanmaraş/Nurhak": {
+  "id": 9578,
+  "diyanet": "NURHAK",
+  "how": "name"
+ },
+ "Kahramanmaraş/Onikişubat": {
+  "id": 9577,
+  "diyanet": "KAHRAMANMARAŞ",
+  "how": "nearest",
+  "km": 0
+ },
+ "Kahramanmaraş/Pazarcık": {
+  "id": 9579,
+  "diyanet": "PAZARCIK",
+  "how": "name"
+ },
+ "Kahramanmaraş/Türkoğlu": {
+  "id": 17908,
+  "diyanet": "TÜRKOĞLU",
+  "how": "name"
+ },
+ "Karabük/Eflani": {
+  "id": 9580,
+  "diyanet": "EFLANİ",
+  "how": "name"
+ },
+ "Karabük/Eskipazar": {
+  "id": 17890,
+  "diyanet": "ESKİPAZAR",
+  "how": "name"
+ },
+ "Karabük/Merkez": {
+  "id": 9581,
+  "diyanet": "KARABÜK",
+  "how": "name"
+ },
+ "Karabük/Ovacık": {
+  "id": 9582,
+  "diyanet": "OVACIK (K)",
+  "how": "name"
+ },
+ "Karabük/Safranbolu": {
+  "id": 9581,
+  "diyanet": "KARABÜK",
+  "how": "nearest",
+  "km": 8
+ },
+ "Karabük/Yenice": {
+  "id": 9583,
+  "diyanet": "YENİCE (K)",
+  "how": "name"
+ },
+ "Karaman/Ayrancı": {
+  "id": 9584,
+  "diyanet": "AYRANCI",
+  "how": "name"
+ },
+ "Karaman/Başyayla": {
+  "id": 9585,
+  "diyanet": "BAŞYAYLA",
+  "how": "name"
+ },
+ "Karaman/Ermenek": {
+  "id": 9586,
+  "diyanet": "ERMENEK",
+  "how": "name"
+ },
+ "Karaman/Kazımkarabekir": {
+  "id": 9588,
+  "diyanet": "KAZIMKARABEKİR",
+  "how": "name"
+ },
+ "Karaman/Merkez": {
+  "id": 9587,
+  "diyanet": "KARAMAN",
+  "how": "name"
+ },
+ "Karaman/Sarıveliler": {
+  "id": 9589,
+  "diyanet": "SARIVELİLER",
+  "how": "name"
+ },
+ "Kars/Akyaka": {
+  "id": 9590,
+  "diyanet": "AKYAKA",
+  "how": "name"
+ },
+ "Kars/Arpaçay": {
+  "id": 9591,
+  "diyanet": "ARPAÇAY",
+  "how": "name"
+ },
+ "Kars/Digor": {
+  "id": 9592,
+  "diyanet": "DİGOR",
+  "how": "name"
+ },
+ "Kars/Kağızman": {
+  "id": 9593,
+  "diyanet": "KAĞIZMAN",
+  "how": "name"
+ },
+ "Kars/Merkez": {
+  "id": 9594,
+  "diyanet": "KARS",
+  "how": "name"
+ },
+ "Kars/Sarıkamış": {
+  "id": 9595,
+  "diyanet": "SARIKAMIŞ",
+  "how": "name"
+ },
+ "Kars/Selim": {
+  "id": 9596,
+  "diyanet": "SELİM",
+  "how": "name"
+ },
+ "Kars/Susuz": {
+  "id": 17880,
+  "diyanet": "SUSUZ",
+  "how": "name"
+ },
+ "Kastamonu/Abana": {
+  "id": 9597,
+  "diyanet": "ABANA",
+  "how": "name"
+ },
+ "Kastamonu/Ağlı": {
+  "id": 9598,
+  "diyanet": "AĞLI",
+  "how": "name"
+ },
+ "Kastamonu/Araç": {
+  "id": 9599,
+  "diyanet": "ARAÇ",
+  "how": "name"
+ },
+ "Kastamonu/Azdavay": {
+  "id": 9600,
+  "diyanet": "AZDAVAY",
+  "how": "name"
+ },
+ "Kastamonu/Bozkurt": {
+  "id": 9601,
+  "diyanet": "BOZKURT (K)",
+  "how": "name"
+ },
+ "Kastamonu/Cide": {
+  "id": 9603,
+  "diyanet": "CİDE",
+  "how": "name"
+ },
+ "Kastamonu/Çatalzeytin": {
+  "id": 9602,
+  "diyanet": "ÇATALZEYTİN",
+  "how": "name"
+ },
+ "Kastamonu/Daday": {
+  "id": 9604,
+  "diyanet": "DADAY",
+  "how": "name"
+ },
+ "Kastamonu/Devrekani": {
+  "id": 17885,
+  "diyanet": "DEVREKANİ",
+  "how": "name"
+ },
+ "Kastamonu/Doğanyurt": {
+  "id": 9605,
+  "diyanet": "DOĞANYURT",
+  "how": "name"
+ },
+ "Kastamonu/Hanönü": {
+  "id": 9606,
+  "diyanet": "HANÖNÜ",
+  "how": "name"
+ },
+ "Kastamonu/İhsangazi": {
+  "id": 9607,
+  "diyanet": "İHSANGAZİ",
+  "how": "name"
+ },
+ "Kastamonu/İnebolu": {
+  "id": 9608,
+  "diyanet": "İNEBOLU",
+  "how": "name"
+ },
+ "Kastamonu/Küre": {
+  "id": 9610,
+  "diyanet": "KÜRE",
+  "how": "name"
+ },
+ "Kastamonu/Merkez": {
+  "id": 9609,
+  "diyanet": "KASTAMONU",
+  "how": "name"
+ },
+ "Kastamonu/Pınarbaşı": {
+  "id": 9611,
+  "diyanet": "PINARBAŞI (K)",
+  "how": "name"
+ },
+ "Kastamonu/Seydiler": {
+  "id": 17886,
+  "diyanet": "SEYDİLER",
+  "how": "name"
+ },
+ "Kastamonu/Şenpazar": {
+  "id": 9612,
+  "diyanet": "ŞENPAZAR",
+  "how": "name"
+ },
+ "Kastamonu/Taşköprü": {
+  "id": 9613,
+  "diyanet": "TAŞKÖPRÜ",
+  "how": "name"
+ },
+ "Kastamonu/Tosya": {
+  "id": 9614,
+  "diyanet": "TOSYA",
+  "how": "name"
+ },
+ "Kayseri/Akkışla": {
+  "id": 9615,
+  "diyanet": "AKKIŞLA",
+  "how": "name"
+ },
+ "Kayseri/Bünyan": {
+  "id": 9616,
+  "diyanet": "BÜNYAN",
+  "how": "name"
+ },
+ "Kayseri/Develi": {
+  "id": 9617,
+  "diyanet": "DEVELİ",
+  "how": "name"
+ },
+ "Kayseri/Felahiye": {
+  "id": 9618,
+  "diyanet": "FELAHİYE",
+  "how": "name"
+ },
+ "Kayseri/Hacılar": {
+  "id": 9620,
+  "diyanet": "KAYSERİ",
+  "how": "nearest",
+  "km": 9
+ },
+ "Kayseri/İncesu": {
+  "id": 9619,
+  "diyanet": "İNCESU",
+  "how": "name"
+ },
+ "Kayseri/Kocasinan": {
+  "id": 9620,
+  "diyanet": "KAYSERİ",
+  "how": "nearest",
+  "km": 2
+ },
+ "Kayseri/Melikgazi": {
+  "id": 9620,
+  "diyanet": "KAYSERİ",
+  "how": "nearest",
+  "km": 0
+ },
+ "Kayseri/Özvatan": {
+  "id": 9621,
+  "diyanet": "ÖZVATAN",
+  "how": "name"
+ },
+ "Kayseri/Pınarbaşı": {
+  "id": 9622,
+  "diyanet": "PINARBAŞI",
+  "how": "name"
+ },
+ "Kayseri/Sarıoğlan": {
+  "id": 9623,
+  "diyanet": "SARIOĞLAN",
+  "how": "name"
+ },
+ "Kayseri/Sarız": {
+  "id": 9624,
+  "diyanet": "SARIZ",
+  "how": "name"
+ },
+ "Kayseri/Talas": {
+  "id": 9620,
+  "diyanet": "KAYSERİ",
+  "how": "nearest",
+  "km": 6
+ },
+ "Kayseri/Tomarza": {
+  "id": 9625,
+  "diyanet": "TOMARZA",
+  "how": "name"
+ },
+ "Kayseri/Yahyalı": {
+  "id": 9626,
+  "diyanet": "YAHYALI",
+  "how": "name"
+ },
+ "Kayseri/Yeşilhisar": {
+  "id": 9627,
+  "diyanet": "YEŞİLHİSAR",
+  "how": "name"
+ },
+ "Kırıkkale/Bahşılı": {
+  "id": 9635,
+  "diyanet": "KIRIKKALE",
+  "how": "nearest",
+  "km": 7
+ },
+ "Kırıkkale/Balışeyh": {
+  "id": 9631,
+  "diyanet": "BALISEYH",
+  "how": "name"
+ },
+ "Kırıkkale/Çelebi": {
+  "id": 9632,
+  "diyanet": "CELEBI",
+  "how": "name"
+ },
+ "Kırıkkale/Delice": {
+  "id": 9633,
+  "diyanet": "DELICE",
+  "how": "name"
+ },
+ "Kırıkkale/Karakeçili": {
+  "id": 9634,
+  "diyanet": "KARAKECILI",
+  "how": "name"
+ },
+ "Kırıkkale/Keskin": {
+  "id": 17897,
+  "diyanet": "KESKİN",
+  "how": "name"
+ },
+ "Kırıkkale/Merkez": {
+  "id": 9635,
+  "diyanet": "KIRIKKALE",
+  "how": "name"
+ },
+ "Kırıkkale/Sulakyurt": {
+  "id": 9636,
+  "diyanet": "SULAKYURT",
+  "how": "name"
+ },
+ "Kırıkkale/Yahşihan": {
+  "id": 9635,
+  "diyanet": "KIRIKKALE",
+  "how": "nearest",
+  "km": 5
+ },
+ "Kırklareli/Babaeski": {
+  "id": 17903,
+  "diyanet": "BABAESKİ",
+  "how": "name"
+ },
+ "Kırklareli/Demirköy": {
+  "id": 9637,
+  "diyanet": "DEMIRKOY",
+  "how": "name"
+ },
+ "Kırklareli/Kofçaz": {
+  "id": 9638,
+  "diyanet": "KIRKLARELİ",
+  "how": "nearest",
+  "km": 22
+ },
+ "Kırklareli/Lüleburgaz": {
+  "id": 9639,
+  "diyanet": "LULEBURGAZ",
+  "how": "name"
+ },
+ "Kırklareli/Merkez": {
+  "id": 9638,
+  "diyanet": "KIRKLARELİ",
+  "how": "name"
+ },
+ "Kırklareli/Pehlivanköy": {
+  "id": 9640,
+  "diyanet": "PEHLIVANKOY",
+  "how": "name"
+ },
+ "Kırklareli/Pınarhisar": {
+  "id": 9641,
+  "diyanet": "PINARHISAR",
+  "how": "name"
+ },
+ "Kırklareli/Vize": {
+  "id": 9642,
+  "diyanet": "VIZE",
+  "how": "name"
+ },
+ "Kırşehir/Akçakent": {
+  "id": 20039,
+  "diyanet": "AKÇAKENT",
+  "how": "name"
+ },
+ "Kırşehir/Akpınar": {
+  "id": 9643,
+  "diyanet": "AKPINAR",
+  "how": "name"
+ },
+ "Kırşehir/Boztepe": {
+  "id": 9646,
+  "diyanet": "KIRŞEHİR",
+  "how": "nearest",
+  "km": 16
+ },
+ "Kırşehir/Çiçekdağı": {
+  "id": 9644,
+  "diyanet": "CICEKDAGI",
+  "how": "name"
+ },
+ "Kırşehir/Kaman": {
+  "id": 9645,
+  "diyanet": "KAMAN",
+  "how": "name"
+ },
+ "Kırşehir/Merkez": {
+  "id": 9646,
+  "diyanet": "KIRŞEHİR",
+  "how": "name"
+ },
+ "Kırşehir/Mucur": {
+  "id": 9647,
+  "diyanet": "MUCUR",
+  "how": "name"
+ },
+ "Kilis/Elbeyli": {
+  "id": 9628,
+  "diyanet": "ELBEYLİ",
+  "how": "name"
+ },
+ "Kilis/Merkez": {
+  "id": 9629,
+  "diyanet": "KİLİS",
+  "how": "name"
+ },
+ "Kilis/Musabeyli": {
+  "id": 9630,
+  "diyanet": "MUSABEYLİ",
+  "how": "name"
+ },
+ "Kilis/Polateli": {
+  "id": 17907,
+  "diyanet": "POLATELİ",
+  "how": "name"
+ },
+ "Kocaeli/Başiskele": {
+  "id": 9654,
+  "diyanet": "KOCAELİ",
+  "how": "nearest",
+  "km": 6
+ },
+ "Kocaeli/Çayırova": {
+  "id": 9648,
+  "diyanet": "ÇAYIROVA",
+  "how": "name"
+ },
+ "Kocaeli/Darıca": {
+  "id": 9649,
+  "diyanet": "DARICA",
+  "how": "name"
+ },
+ "Kocaeli/Derince": {
+  "id": 9655,
+  "diyanet": "KÖRFEZ",
+  "how": "nearest",
+  "km": 2
+ },
+ "Kocaeli/Dilovası": {
+  "id": 9650,
+  "diyanet": "DİLOVASI",
+  "how": "name"
+ },
+ "Kocaeli/Gebze": {
+  "id": 9651,
+  "diyanet": "GEBZE",
+  "how": "name"
+ },
+ "Kocaeli/Gölcük": {
+  "id": 9655,
+  "diyanet": "KÖRFEZ",
+  "how": "nearest",
+  "km": 7
+ },
+ "Kocaeli/İzmit": {
+  "id": 9654,
+  "diyanet": "KOCAELİ",
+  "how": "nearest",
+  "km": 0
+ },
+ "Kocaeli/Kandıra": {
+  "id": 9652,
+  "diyanet": "KANDIRA",
+  "how": "name"
+ },
+ "Kocaeli/Karamürsel": {
+  "id": 9653,
+  "diyanet": "KARAMÜRSEL",
+  "how": "name"
+ },
+ "Kocaeli/Kartepe": {
+  "id": 17902,
+  "diyanet": "KARTEPE",
+  "how": "name"
+ },
+ "Kocaeli/Körfez": {
+  "id": 9655,
+  "diyanet": "KÖRFEZ",
+  "how": "name"
+ },
+ "Konya/Ahırlı": {
+  "id": 9656,
+  "diyanet": "AHIRLI",
+  "how": "name"
+ },
+ "Konya/Akören": {
+  "id": 9657,
+  "diyanet": "AKÖREN",
+  "how": "name"
+ },
+ "Konya/Akşehir": {
+  "id": 9658,
+  "diyanet": "AKŞEHİR",
+  "how": "name"
+ },
+ "Konya/Altınekin": {
+  "id": 9659,
+  "diyanet": "ALTINEKİN",
+  "how": "name"
+ },
+ "Konya/Beyşehir": {
+  "id": 9660,
+  "diyanet": "BEYŞEHİR",
+  "how": "name"
+ },
+ "Konya/Bozkır": {
+  "id": 9661,
+  "diyanet": "BOZKIR",
+  "how": "name"
+ },
+ "Konya/Cihanbeyli": {
+  "id": 9663,
+  "diyanet": "CİHANBEYLİ",
+  "how": "name"
+ },
+ "Konya/Çeltik": {
+  "id": 9662,
+  "diyanet": "ÇELTİK",
+  "how": "name"
+ },
+ "Konya/Çumra": {
+  "id": 9664,
+  "diyanet": "ÇUMRA",
+  "how": "name"
+ },
+ "Konya/Derbent": {
+  "id": 9665,
+  "diyanet": "DERBENT",
+  "how": "name"
+ },
+ "Konya/Derebucak": {
+  "id": 9666,
+  "diyanet": "DEREBUCAK",
+  "how": "name"
+ },
+ "Konya/Doğanhisar": {
+  "id": 9667,
+  "diyanet": "DOĞANHİSAR",
+  "how": "name"
+ },
+ "Konya/Emirgazi": {
+  "id": 9668,
+  "diyanet": "EMİRGAZİ",
+  "how": "name"
+ },
+ "Konya/Ereğli": {
+  "id": 9669,
+  "diyanet": "EREĞLİ",
+  "how": "name"
+ },
+ "Konya/Güneysınır": {
+  "id": 9670,
+  "diyanet": "GÜNEYSINIR",
+  "how": "name"
+ },
+ "Konya/Hadim": {
+  "id": 16704,
+  "diyanet": "HADİM",
+  "how": "name"
+ },
+ "Konya/Halkapınar": {
+  "id": 9671,
+  "diyanet": "HALKAPINAR",
+  "how": "name"
+ },
+ "Konya/Hüyük": {
+  "id": 9672,
+  "diyanet": "HÜYÜK",
+  "how": "name"
+ },
+ "Konya/Ilgın": {
+  "id": 9673,
+  "diyanet": "ILGIN",
+  "how": "name"
+ },
+ "Konya/Kadınhanı": {
+  "id": 9674,
+  "diyanet": "KADINHANI",
+  "how": "name"
+ },
+ "Konya/Karapınar": {
+  "id": 9675,
+  "diyanet": "KARAPINAR",
+  "how": "name"
+ },
+ "Konya/Karatay": {
+  "id": 17872,
+  "diyanet": "KARATAY",
+  "how": "name"
+ },
+ "Konya/Kulu": {
+  "id": 9677,
+  "diyanet": "KULU",
+  "how": "name"
+ },
+ "Konya/Meram": {
+  "id": 17870,
+  "diyanet": "MERAM",
+  "how": "name"
+ },
+ "Konya/Sarayönü": {
+  "id": 17874,
+  "diyanet": "SARAYÖNÜ",
+  "how": "name"
+ },
+ "Konya/Selçuklu": {
+  "id": 17871,
+  "diyanet": "SELÇUKLU",
+  "how": "name"
+ },
+ "Konya/Seydişehir": {
+  "id": 9678,
+  "diyanet": "SEYDİŞEHİR",
+  "how": "name"
+ },
+ "Konya/Taşkent": {
+  "id": 17873,
+  "diyanet": "TAŞKENT",
+  "how": "name"
+ },
+ "Konya/Tuzlukçu": {
+  "id": 9679,
+  "diyanet": "TUZLUKÇU",
+  "how": "name"
+ },
+ "Konya/Yalıhüyük": {
+  "id": 9680,
+  "diyanet": "YALIHÜYÜK",
+  "how": "name"
+ },
+ "Konya/Yunak": {
+  "id": 9681,
+  "diyanet": "YUNAK",
+  "how": "name"
+ },
+ "Kütahya/Altıntaş": {
+  "id": 9682,
+  "diyanet": "ALTINTAŞ",
+  "how": "name"
+ },
+ "Kütahya/Aslanapa": {
+  "id": 9683,
+  "diyanet": "ASLANAPA",
+  "how": "name"
+ },
+ "Kütahya/Çavdarhisar": {
+  "id": 9684,
+  "diyanet": "ÇAVDARHİSAR",
+  "how": "name"
+ },
+ "Kütahya/Domaniç": {
+  "id": 9685,
+  "diyanet": "DOMANİÇ",
+  "how": "name"
+ },
+ "Kütahya/Dumlupınar": {
+  "id": 17906,
+  "diyanet": "DUMLUPINAR",
+  "how": "name"
+ },
+ "Kütahya/Emet": {
+  "id": 9686,
+  "diyanet": "EMET",
+  "how": "name"
+ },
+ "Kütahya/Gediz": {
+  "id": 9687,
+  "diyanet": "GEDİZ",
+  "how": "name"
+ },
+ "Kütahya/Hisarcık": {
+  "id": 9688,
+  "diyanet": "HİSARCIK",
+  "how": "name"
+ },
+ "Kütahya/Merkez": {
+  "id": 9689,
+  "diyanet": "KÜTAHYA",
+  "how": "name"
+ },
+ "Kütahya/Pazarlar": {
+  "id": 9690,
+  "diyanet": "PAZARLAR",
+  "how": "name"
+ },
+ "Kütahya/Simav": {
+  "id": 9692,
+  "diyanet": "SİMAV",
+  "how": "name"
+ },
+ "Kütahya/Şaphane": {
+  "id": 9691,
+  "diyanet": "ŞAPHANE",
+  "how": "name"
+ },
+ "Kütahya/Tavşanlı": {
+  "id": 9693,
+  "diyanet": "TAVŞANLI",
+  "how": "name"
+ },
+ "Malatya/Akçadağ": {
+  "id": 9694,
+  "diyanet": "AKÇADAĞ",
+  "how": "name"
+ },
+ "Malatya/Arapgir": {
+  "id": 9695,
+  "diyanet": "ARAPGİR",
+  "how": "name"
+ },
+ "Malatya/Arguvan": {
+  "id": 9696,
+  "diyanet": "ARGUVAN",
+  "how": "name"
+ },
+ "Malatya/Battalgazi": {
+  "id": 9703,
+  "diyanet": "MALATYA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Malatya/Darende": {
+  "id": 9697,
+  "diyanet": "DARENDE",
+  "how": "name"
+ },
+ "Malatya/Doğanşehir": {
+  "id": 9698,
+  "diyanet": "DOĞANŞEHİR",
+  "how": "name"
+ },
+ "Malatya/Doğanyol": {
+  "id": 9699,
+  "diyanet": "DOĞANYOL",
+  "how": "name"
+ },
+ "Malatya/Hekimhan": {
+  "id": 9700,
+  "diyanet": "HEKİMHAN",
+  "how": "name"
+ },
+ "Malatya/Kale": {
+  "id": 9701,
+  "diyanet": "KALE (M)",
+  "how": "name"
+ },
+ "Malatya/Kuluncak": {
+  "id": 9702,
+  "diyanet": "KULUNCAK",
+  "how": "name"
+ },
+ "Malatya/Pütürge": {
+  "id": 9704,
+  "diyanet": "PÜTÜRGE",
+  "how": "name"
+ },
+ "Malatya/Yazıhan": {
+  "id": 9705,
+  "diyanet": "YAZIHAN",
+  "how": "name"
+ },
+ "Malatya/Yeşilyurt": {
+  "id": 9706,
+  "diyanet": "YEŞİLYURT",
+  "how": "name"
+ },
+ "Manisa/Ahmetli": {
+  "id": 9707,
+  "diyanet": "AHMETLİ",
+  "how": "name"
+ },
+ "Manisa/Akhisar": {
+  "id": 9708,
+  "diyanet": "AKHİSAR",
+  "how": "name"
+ },
+ "Manisa/Alaşehir": {
+  "id": 9709,
+  "diyanet": "ALAŞEHİR",
+  "how": "name"
+ },
+ "Manisa/Demirci": {
+  "id": 9710,
+  "diyanet": "DEMİRCİ",
+  "how": "name"
+ },
+ "Manisa/Gölmarmara": {
+  "id": 9711,
+  "diyanet": "GÖLMARMARA",
+  "how": "name"
+ },
+ "Manisa/Gördes": {
+  "id": 9712,
+  "diyanet": "GÖRDES",
+  "how": "name"
+ },
+ "Manisa/Kırkağaç": {
+  "id": 9713,
+  "diyanet": "KIRKAĞAÇ",
+  "how": "name"
+ },
+ "Manisa/Köprübaşı": {
+  "id": 9714,
+  "diyanet": "KÖPRÜBAŞI",
+  "how": "name"
+ },
+ "Manisa/Kula": {
+  "id": 9715,
+  "diyanet": "KULA",
+  "how": "name"
+ },
+ "Manisa/Salihli": {
+  "id": 9717,
+  "diyanet": "SALİHLİ",
+  "how": "name"
+ },
+ "Manisa/Sarıgöl": {
+  "id": 9718,
+  "diyanet": "SARIGÖL",
+  "how": "name"
+ },
+ "Manisa/Saruhanlı": {
+  "id": 9719,
+  "diyanet": "SARUHANLI",
+  "how": "name"
+ },
+ "Manisa/Selendi": {
+  "id": 9720,
+  "diyanet": "SELENDİ",
+  "how": "name"
+ },
+ "Manisa/Soma": {
+  "id": 9721,
+  "diyanet": "SOMA",
+  "how": "name"
+ },
+ "Manisa/Şehzadeler": {
+  "id": 9716,
+  "diyanet": "MANİSA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Manisa/Turgutlu": {
+  "id": 9722,
+  "diyanet": "TURGUTLU",
+  "how": "name"
+ },
+ "Manisa/Yunusemre": {
+  "id": 9716,
+  "diyanet": "MANİSA",
+  "how": "nearest",
+  "km": 2
+ },
+ "Mardin/Artuklu": {
+  "id": 9726,
+  "diyanet": "MARDİN",
+  "how": "nearest",
+  "km": 0
+ },
+ "Mardin/Dargeçit": {
+  "id": 9723,
+  "diyanet": "DARGECİT",
+  "how": "name"
+ },
+ "Mardin/Derik": {
+  "id": 9724,
+  "diyanet": "DERİK",
+  "how": "name"
+ },
+ "Mardin/Kızıltepe": {
+  "id": 9725,
+  "diyanet": "KIZILTEPE",
+  "how": "name"
+ },
+ "Mardin/Mazıdağı": {
+  "id": 9727,
+  "diyanet": "MAZIDAĞI",
+  "how": "name"
+ },
+ "Mardin/Midyat": {
+  "id": 9728,
+  "diyanet": "MİDYAT",
+  "how": "name"
+ },
+ "Mardin/Nusaybin": {
+  "id": 9729,
+  "diyanet": "NUSAYBİN",
+  "how": "name"
+ },
+ "Mardin/Ömerli": {
+  "id": 9730,
+  "diyanet": "ÖMERLİ",
+  "how": "name"
+ },
+ "Mardin/Savur": {
+  "id": 17901,
+  "diyanet": "SAVUR",
+  "how": "name"
+ },
+ "Mardin/Yeşilli": {
+  "id": 9726,
+  "diyanet": "MARDİN",
+  "how": "nearest",
+  "km": 11
+ },
+ "Mersin/Akdeniz": {
+  "id": 9737,
+  "diyanet": "MERSİN",
+  "how": "nearest",
+  "km": 0
+ },
+ "Mersin/Anamur": {
+  "id": 9731,
+  "diyanet": "ANAMUR",
+  "how": "name"
+ },
+ "Mersin/Aydıncık": {
+  "id": 9732,
+  "diyanet": "AYDINCIK",
+  "how": "name"
+ },
+ "Mersin/Bozyazı": {
+  "id": 9733,
+  "diyanet": "BOZYAZI",
+  "how": "name"
+ },
+ "Mersin/Çamlıyayla": {
+  "id": 9734,
+  "diyanet": "ÇAMLIYAYLA",
+  "how": "name"
+ },
+ "Mersin/Erdemli": {
+  "id": 9735,
+  "diyanet": "ERDEMLİ",
+  "how": "name"
+ },
+ "Mersin/Gülnar": {
+  "id": 9736,
+  "diyanet": "GÜLNAR",
+  "how": "name"
+ },
+ "Mersin/Mezitli": {
+  "id": 9737,
+  "diyanet": "MERSİN",
+  "how": "nearest",
+  "km": 12
+ },
+ "Mersin/Mut": {
+  "id": 9738,
+  "diyanet": "MUT",
+  "how": "name"
+ },
+ "Mersin/Silifke": {
+  "id": 9739,
+  "diyanet": "SİLİFKE",
+  "how": "name"
+ },
+ "Mersin/Tarsus": {
+  "id": 9740,
+  "diyanet": "TARSUS",
+  "how": "name"
+ },
+ "Mersin/Toroslar": {
+  "id": 9734,
+  "diyanet": "ÇAMLIYAYLA",
+  "how": "nearest",
+  "km": 10
+ },
+ "Mersin/Yenişehir": {
+  "id": 9737,
+  "diyanet": "MERSİN",
+  "how": "nearest",
+  "km": 6
+ },
+ "Muğla/Bodrum": {
+  "id": 9741,
+  "diyanet": "BODRUM",
+  "how": "name"
+ },
+ "Muğla/Dalaman": {
+  "id": 9742,
+  "diyanet": "DALAMAN",
+  "how": "name"
+ },
+ "Muğla/Datça": {
+  "id": 9743,
+  "diyanet": "DATÇA",
+  "how": "name"
+ },
+ "Muğla/Fethiye": {
+  "id": 9744,
+  "diyanet": "FETHİYE",
+  "how": "name"
+ },
+ "Muğla/Kavaklıdere": {
+  "id": 9750,
+  "diyanet": "YATAĞAN",
+  "how": "nearest",
+  "km": 23
+ },
+ "Muğla/Köyceğiz": {
+  "id": 9745,
+  "diyanet": "KÖYCEĞİZ",
+  "how": "name"
+ },
+ "Muğla/Marmaris": {
+  "id": 17883,
+  "diyanet": "MARMARİS",
+  "how": "name"
+ },
+ "Muğla/Menteşe": {
+  "id": 9747,
+  "diyanet": "MUĞLA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Muğla/Milas": {
+  "id": 9746,
+  "diyanet": "MİLAS",
+  "how": "name"
+ },
+ "Muğla/Ortaca": {
+  "id": 9748,
+  "diyanet": "ORTACA",
+  "how": "name"
+ },
+ "Muğla/Seydikemer": {
+  "id": 17884,
+  "diyanet": "SEYDİKEMER",
+  "how": "name"
+ },
+ "Muğla/Ula": {
+  "id": 9749,
+  "diyanet": "ULA",
+  "how": "name"
+ },
+ "Muğla/Yatağan": {
+  "id": 9750,
+  "diyanet": "YATAĞAN",
+  "how": "name"
+ },
+ "Muş/Bulanık": {
+  "id": 9751,
+  "diyanet": "BULANIK",
+  "how": "name"
+ },
+ "Muş/Hasköy": {
+  "id": 9752,
+  "diyanet": "HASKÖY",
+  "how": "name"
+ },
+ "Muş/Korkut": {
+  "id": 9753,
+  "diyanet": "KORKUT",
+  "how": "name"
+ },
+ "Muş/Malazgirt": {
+  "id": 9754,
+  "diyanet": "MALAZGİRT",
+  "how": "name"
+ },
+ "Muş/Merkez": {
+  "id": 9755,
+  "diyanet": "MUŞ",
+  "how": "name"
+ },
+ "Muş/Varto": {
+  "id": 9756,
+  "diyanet": "VARTO",
+  "how": "name"
+ },
+ "Nevşehir/Acıgöl": {
+  "id": 9757,
+  "diyanet": "ACIGÖL",
+  "how": "name"
+ },
+ "Nevşehir/Avanos": {
+  "id": 17878,
+  "diyanet": "AVANOS",
+  "how": "name"
+ },
+ "Nevşehir/Derinkuyu": {
+  "id": 9760,
+  "diyanet": "NEVŞEHİR",
+  "how": "nearest",
+  "km": 28
+ },
+ "Nevşehir/Gülşehir": {
+  "id": 9760,
+  "diyanet": "NEVŞEHİR",
+  "how": "nearest",
+  "km": 15
+ },
+ "Nevşehir/Hacıbektaş": {
+  "id": 9758,
+  "diyanet": "HACIBEKTAŞ",
+  "how": "name"
+ },
+ "Nevşehir/Kozaklı": {
+  "id": 9759,
+  "diyanet": "KOZAKLI",
+  "how": "name"
+ },
+ "Nevşehir/Merkez": {
+  "id": 9760,
+  "diyanet": "NEVŞEHİR",
+  "how": "name"
+ },
+ "Nevşehir/Ürgüp": {
+  "id": 9761,
+  "diyanet": "ÜRGÜP",
+  "how": "name"
+ },
+ "Niğde/Altunhisar": {
+  "id": 9762,
+  "diyanet": "ALTUNHİSAR",
+  "how": "name"
+ },
+ "Niğde/Bor": {
+  "id": 9763,
+  "diyanet": "BOR",
+  "how": "name"
+ },
+ "Niğde/Çamardı": {
+  "id": 9764,
+  "diyanet": "ÇAMARDI",
+  "how": "name"
+ },
+ "Niğde/Çiftlik": {
+  "id": 9765,
+  "diyanet": "ÇİFTLİK",
+  "how": "name"
+ },
+ "Niğde/Merkez": {
+  "id": 9766,
+  "diyanet": "NİĞDE",
+  "how": "name"
+ },
+ "Niğde/Ulukışla": {
+  "id": 9767,
+  "diyanet": "ULUKIŞLA",
+  "how": "name"
+ },
+ "Ordu/Akkuş": {
+  "id": 9768,
+  "diyanet": "AKKUŞ",
+  "how": "name"
+ },
+ "Ordu/Altınordu": {
+  "id": 9782,
+  "diyanet": "ORDU",
+  "how": "nearest",
+  "km": 0
+ },
+ "Ordu/Aybastı": {
+  "id": 9769,
+  "diyanet": "AYBASTI",
+  "how": "name"
+ },
+ "Ordu/Çamaş": {
+  "id": 9770,
+  "diyanet": "ÇAMAŞ",
+  "how": "name"
+ },
+ "Ordu/Çatalpınar": {
+  "id": 9771,
+  "diyanet": "ÇATALPINAR",
+  "how": "name"
+ },
+ "Ordu/Çaybaşı": {
+  "id": 9772,
+  "diyanet": "ÇAYBAŞI",
+  "how": "name"
+ },
+ "Ordu/Fatsa": {
+  "id": 9773,
+  "diyanet": "FATSA",
+  "how": "name"
+ },
+ "Ordu/Gölköy": {
+  "id": 9774,
+  "diyanet": "GÖLKÖY",
+  "how": "name"
+ },
+ "Ordu/Gülyalı": {
+  "id": 9775,
+  "diyanet": "GÜLYALI",
+  "how": "name"
+ },
+ "Ordu/Gürgentepe": {
+  "id": 9776,
+  "diyanet": "GÜRGENTEPE",
+  "how": "name"
+ },
+ "Ordu/İkizce": {
+  "id": 9777,
+  "diyanet": "İKİZCE",
+  "how": "name"
+ },
+ "Ordu/Kabadüz": {
+  "id": 9782,
+  "diyanet": "ORDU",
+  "how": "nearest",
+  "km": 13
+ },
+ "Ordu/Kabataş": {
+  "id": 9778,
+  "diyanet": "KABATAŞ",
+  "how": "name"
+ },
+ "Ordu/Korgan": {
+  "id": 9779,
+  "diyanet": "KORGAN",
+  "how": "name"
+ },
+ "Ordu/Kumru": {
+  "id": 9780,
+  "diyanet": "KUMRU",
+  "how": "name"
+ },
+ "Ordu/Mesudiye": {
+  "id": 9781,
+  "diyanet": "MESUDİYE",
+  "how": "name"
+ },
+ "Ordu/Perşembe": {
+  "id": 9782,
+  "diyanet": "ORDU",
+  "how": "nearest",
+  "km": 14
+ },
+ "Ordu/Ulubey": {
+  "id": 9776,
+  "diyanet": "GÜRGENTEPE",
+  "how": "nearest",
+  "km": 16
+ },
+ "Ordu/Ünye": {
+  "id": 9783,
+  "diyanet": "ÜNYE",
+  "how": "name"
+ },
+ "Osmaniye/Bahçe": {
+  "id": 9784,
+  "diyanet": "BAHÇE",
+  "how": "name"
+ },
+ "Osmaniye/Düziçi": {
+  "id": 9785,
+  "diyanet": "DÜZİÇİ",
+  "how": "name"
+ },
+ "Osmaniye/Hasanbeyli": {
+  "id": 9786,
+  "diyanet": "HASANBEYLİ",
+  "how": "name"
+ },
+ "Osmaniye/Kadirli": {
+  "id": 9787,
+  "diyanet": "KADİRLİ",
+  "how": "name"
+ },
+ "Osmaniye/Merkez": {
+  "id": 9788,
+  "diyanet": "OSMANİYE",
+  "how": "name"
+ },
+ "Osmaniye/Sumbas": {
+  "id": 9789,
+  "diyanet": "SUMBAS",
+  "how": "name"
+ },
+ "Osmaniye/Toprakkale": {
+  "id": 9790,
+  "diyanet": "TOPRAKKALE",
+  "how": "name"
+ },
+ "Rize/Ardeşen": {
+  "id": 9791,
+  "diyanet": "ARDEŞEN",
+  "how": "name"
+ },
+ "Rize/Çamlıhemşin": {
+  "id": 9792,
+  "diyanet": "ÇAMLIHEMŞİN",
+  "how": "name"
+ },
+ "Rize/Çayeli": {
+  "id": 9793,
+  "diyanet": "ÇAYELİ",
+  "how": "name"
+ },
+ "Rize/Derepazarı": {
+  "id": 9797,
+  "diyanet": "İYİDERE",
+  "how": "nearest",
+  "km": 5
+ },
+ "Rize/Fındıklı": {
+  "id": 9794,
+  "diyanet": "FINDIKLI",
+  "how": "name"
+ },
+ "Rize/Güneysu": {
+  "id": 9799,
+  "diyanet": "RİZE",
+  "how": "nearest",
+  "km": 9
+ },
+ "Rize/Hemşin": {
+  "id": 9795,
+  "diyanet": "HEMŞİN",
+  "how": "name"
+ },
+ "Rize/İkizdere": {
+  "id": 9796,
+  "diyanet": "İKİZDERE",
+  "how": "name"
+ },
+ "Rize/İyidere": {
+  "id": 9797,
+  "diyanet": "İYİDERE",
+  "how": "name"
+ },
+ "Rize/Kalkandere": {
+  "id": 9797,
+  "diyanet": "İYİDERE",
+  "how": "nearest",
+  "km": 10
+ },
+ "Rize/Merkez": {
+  "id": 9799,
+  "diyanet": "RİZE",
+  "how": "name"
+ },
+ "Rize/Pazar": {
+  "id": 9798,
+  "diyanet": "PAZAR",
+  "how": "name"
+ },
+ "Sakarya/Adapazarı": {
+  "id": 9807,
+  "diyanet": "SAKARYA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Sakarya/Akyazı": {
+  "id": 9800,
+  "diyanet": "AKYAZI",
+  "how": "name"
+ },
+ "Sakarya/Arifiye": {
+  "id": 9807,
+  "diyanet": "SAKARYA",
+  "how": "nearest",
+  "km": 8
+ },
+ "Sakarya/Erenler": {
+  "id": 9807,
+  "diyanet": "SAKARYA",
+  "how": "nearest",
+  "km": 3
+ },
+ "Sakarya/Ferizli": {
+  "id": 9804,
+  "diyanet": "KAYNARCA",
+  "how": "nearest",
+  "km": 19
+ },
+ "Sakarya/Geyve": {
+  "id": 9801,
+  "diyanet": "GEYVE",
+  "how": "name"
+ },
+ "Sakarya/Hendek": {
+  "id": 9802,
+  "diyanet": "HENDEK",
+  "how": "name"
+ },
+ "Sakarya/Karapürçek": {
+  "id": 9800,
+  "diyanet": "AKYAZI",
+  "how": "nearest",
+  "km": 9
+ },
+ "Sakarya/Karasu": {
+  "id": 9803,
+  "diyanet": "KARASU",
+  "how": "name"
+ },
+ "Sakarya/Kaynarca": {
+  "id": 9804,
+  "diyanet": "KAYNARCA",
+  "how": "name"
+ },
+ "Sakarya/Kocaali": {
+  "id": 9805,
+  "diyanet": "KOCAALİ",
+  "how": "name"
+ },
+ "Sakarya/Pamukova": {
+  "id": 9806,
+  "diyanet": "PAMUKOVA",
+  "how": "name"
+ },
+ "Sakarya/Sapanca": {
+  "id": 9807,
+  "diyanet": "SAKARYA",
+  "how": "nearest",
+  "km": 14
+ },
+ "Sakarya/Serdivan": {
+  "id": 9807,
+  "diyanet": "SAKARYA",
+  "how": "nearest",
+  "km": 4
+ },
+ "Sakarya/Söğütlü": {
+  "id": 9807,
+  "diyanet": "SAKARYA",
+  "how": "nearest",
+  "km": 15
+ },
+ "Sakarya/Taraklı": {
+  "id": 9808,
+  "diyanet": "TARAKLI",
+  "how": "name"
+ },
+ "Samsun/19 Mayıs": {
+  "id": 9809,
+  "diyanet": "19 MAYIS",
+  "how": "name"
+ },
+ "Samsun/Alaçam": {
+  "id": 9810,
+  "diyanet": "ALAÇAM",
+  "how": "name"
+ },
+ "Samsun/Asarcık": {
+  "id": 9811,
+  "diyanet": "ASARCIK",
+  "how": "name"
+ },
+ "Samsun/Atakum": {
+  "id": 17911,
+  "diyanet": "ATAKUM",
+  "how": "name"
+ },
+ "Samsun/Ayvacık": {
+  "id": 9812,
+  "diyanet": "AYVACIK (S)",
+  "how": "name"
+ },
+ "Samsun/Bafra": {
+  "id": 9813,
+  "diyanet": "BAFRA",
+  "how": "name"
+ },
+ "Samsun/Canik": {
+  "id": 9819,
+  "diyanet": "SAMSUN",
+  "how": "nearest",
+  "km": 2
+ },
+ "Samsun/Çarşamba": {
+  "id": 9814,
+  "diyanet": "ÇARŞAMBA",
+  "how": "name"
+ },
+ "Samsun/Havza": {
+  "id": 9815,
+  "diyanet": "HAVZA",
+  "how": "name"
+ },
+ "Samsun/İlkadım": {
+  "id": 9819,
+  "diyanet": "SAMSUN",
+  "how": "nearest",
+  "km": 0
+ },
+ "Samsun/Kavak": {
+  "id": 9816,
+  "diyanet": "KAVAK",
+  "how": "name"
+ },
+ "Samsun/Ladik": {
+  "id": 9817,
+  "diyanet": "LADİK",
+  "how": "name"
+ },
+ "Samsun/Salıpazarı": {
+  "id": 9818,
+  "diyanet": "SALIPAZARI",
+  "how": "name"
+ },
+ "Samsun/Tekkeköy": {
+  "id": 9820,
+  "diyanet": "TEKKEKÖY",
+  "how": "name"
+ },
+ "Samsun/Terme": {
+  "id": 9821,
+  "diyanet": "TERME",
+  "how": "name"
+ },
+ "Samsun/Vezirköprü": {
+  "id": 9822,
+  "diyanet": "VEZİRKÖPRÜ",
+  "how": "name"
+ },
+ "Samsun/Yakakent": {
+  "id": 9823,
+  "diyanet": "YAKAKENT",
+  "how": "name"
+ },
+ "Siirt/Baykan": {
+  "id": 9835,
+  "diyanet": "BAYKAN",
+  "how": "name"
+ },
+ "Siirt/Eruh": {
+  "id": 9836,
+  "diyanet": "ERUH",
+  "how": "name"
+ },
+ "Siirt/Kurtalan": {
+  "id": 9837,
+  "diyanet": "KURTALAN",
+  "how": "name"
+ },
+ "Siirt/Merkez": {
+  "id": 9839,
+  "diyanet": "SİİRT",
+  "how": "name"
+ },
+ "Siirt/Pervari": {
+  "id": 9838,
+  "diyanet": "PERVARİ",
+  "how": "name"
+ },
+ "Siirt/Şirvan": {
+  "id": 17888,
+  "diyanet": "ŞIRVAN",
+  "how": "name"
+ },
+ "Siirt/Tillo": {
+  "id": 9839,
+  "diyanet": "SİİRT",
+  "how": "nearest",
+  "km": 7
+ },
+ "Sinop/Ayancık": {
+  "id": 9840,
+  "diyanet": "AYANCIK",
+  "how": "name"
+ },
+ "Sinop/Boyabat": {
+  "id": 9841,
+  "diyanet": "BOYABAT",
+  "how": "name"
+ },
+ "Sinop/Dikmen": {
+  "id": 9842,
+  "diyanet": "DİKMEN",
+  "how": "name"
+ },
+ "Sinop/Durağan": {
+  "id": 9843,
+  "diyanet": "DURAĞAN",
+  "how": "name"
+ },
+ "Sinop/Erfelek": {
+  "id": 9844,
+  "diyanet": "ERFELEK",
+  "how": "name"
+ },
+ "Sinop/Gerze": {
+  "id": 9845,
+  "diyanet": "GERZE",
+  "how": "name"
+ },
+ "Sinop/Merkez": {
+  "id": 9847,
+  "diyanet": "SİNOP",
+  "how": "name"
+ },
+ "Sinop/Saraydüzü": {
+  "id": 9846,
+  "diyanet": "SARAYDÜZÜ",
+  "how": "name"
+ },
+ "Sinop/Türkeli": {
+  "id": 9848,
+  "diyanet": "TÜRKELİ",
+  "how": "name"
+ },
+ "Sivas/Akıncılar": {
+  "id": 9856,
+  "diyanet": "AKINCILAR",
+  "how": "name"
+ },
+ "Sivas/Altınyayla": {
+  "id": 9857,
+  "diyanet": "ALTINYAYLA(S)",
+  "how": "name"
+ },
+ "Sivas/Divriği": {
+  "id": 9858,
+  "diyanet": "DİVRİĞİ",
+  "how": "name"
+ },
+ "Sivas/Doğanşar": {
+  "id": 9859,
+  "diyanet": "DOĞANŞAR",
+  "how": "name"
+ },
+ "Sivas/Gemerek": {
+  "id": 9860,
+  "diyanet": "GEMEREK",
+  "how": "name"
+ },
+ "Sivas/Gölova": {
+  "id": 9861,
+  "diyanet": "GÖLOVA",
+  "how": "name"
+ },
+ "Sivas/Gürün": {
+  "id": 9862,
+  "diyanet": "GÜRÜN",
+  "how": "name"
+ },
+ "Sivas/Hafik": {
+  "id": 9863,
+  "diyanet": "HAFİK",
+  "how": "name"
+ },
+ "Sivas/İmranlı": {
+  "id": 9864,
+  "diyanet": "İMRANLI",
+  "how": "name"
+ },
+ "Sivas/Kangal": {
+  "id": 9865,
+  "diyanet": "KANGAL",
+  "how": "name"
+ },
+ "Sivas/Koyulhisar": {
+  "id": 9866,
+  "diyanet": "KOYULHİSAR",
+  "how": "name"
+ },
+ "Sivas/Merkez": {
+  "id": 9868,
+  "diyanet": "SİVAS",
+  "how": "name"
+ },
+ "Sivas/Suşehri": {
+  "id": 9869,
+  "diyanet": "SUŞEHRİ",
+  "how": "name"
+ },
+ "Sivas/Şarkışla": {
+  "id": 9867,
+  "diyanet": "ŞARKIŞLA",
+  "how": "name"
+ },
+ "Sivas/Ulaş": {
+  "id": 17920,
+  "diyanet": "ULAŞ",
+  "how": "name"
+ },
+ "Sivas/Yıldızeli": {
+  "id": 9870,
+  "diyanet": "YILDIZELİ",
+  "how": "name"
+ },
+ "Sivas/Zara": {
+  "id": 9871,
+  "diyanet": "ZARA",
+  "how": "name"
+ },
+ "Şanlıurfa/Akçakale": {
+  "id": 9824,
+  "diyanet": "AKÇAKALE",
+  "how": "name"
+ },
+ "Şanlıurfa/Birecik": {
+  "id": 9825,
+  "diyanet": "BİRECİK",
+  "how": "name"
+ },
+ "Şanlıurfa/Bozova": {
+  "id": 9826,
+  "diyanet": "BOZOVA",
+  "how": "name"
+ },
+ "Şanlıurfa/Ceylanpınar": {
+  "id": 9827,
+  "diyanet": "CEYLANPINAR",
+  "how": "name"
+ },
+ "Şanlıurfa/Eyyübiye": {
+  "id": 9831,
+  "diyanet": "ŞANLIURFA",
+  "how": "nearest",
+  "km": 2
+ },
+ "Şanlıurfa/Halfeti": {
+  "id": 9828,
+  "diyanet": "HALFETİ",
+  "how": "name"
+ },
+ "Şanlıurfa/Haliliye": {
+  "id": 9831,
+  "diyanet": "ŞANLIURFA",
+  "how": "nearest",
+  "km": 0
+ },
+ "Şanlıurfa/Harran": {
+  "id": 9829,
+  "diyanet": "HARRAN",
+  "how": "name"
+ },
+ "Şanlıurfa/Hilvan": {
+  "id": 9830,
+  "diyanet": "HİLVAN",
+  "how": "name"
+ },
+ "Şanlıurfa/Karaköprü": {
+  "id": 9831,
+  "diyanet": "ŞANLIURFA",
+  "how": "nearest",
+  "km": 4
+ },
+ "Şanlıurfa/Siverek": {
+  "id": 9832,
+  "diyanet": "SİVEREK",
+  "how": "name"
+ },
+ "Şanlıurfa/Suruç": {
+  "id": 9833,
+  "diyanet": "SURUÇ",
+  "how": "name"
+ },
+ "Şanlıurfa/Viranşehir": {
+  "id": 9834,
+  "diyanet": "VİRANŞEHİR",
+  "how": "name"
+ },
+ "Şırnak/Beytüşşebap": {
+  "id": 9849,
+  "diyanet": "BEYTÜŞŞEBAP",
+  "how": "name"
+ },
+ "Şırnak/Cizre": {
+  "id": 9850,
+  "diyanet": "CİZRE",
+  "how": "name"
+ },
+ "Şırnak/Güçlükonak": {
+  "id": 9851,
+  "diyanet": "GÜÇLÜKONAK",
+  "how": "name"
+ },
+ "Şırnak/İdil": {
+  "id": 9852,
+  "diyanet": "İDİL",
+  "how": "name"
+ },
+ "Şırnak/Merkez": {
+  "id": 9854,
+  "diyanet": "ŞIRNAK",
+  "how": "name"
+ },
+ "Şırnak/Silopi": {
+  "id": 9853,
+  "diyanet": "SİLOPİ",
+  "how": "name"
+ },
+ "Şırnak/Uludere": {
+  "id": 9855,
+  "diyanet": "ULUDERE",
+  "how": "name"
+ },
+ "Tekirdağ/Çerkezköy": {
+  "id": 9872,
+  "diyanet": "ÇERKEZKÖY",
+  "how": "name"
+ },
+ "Tekirdağ/Çorlu": {
+  "id": 9873,
+  "diyanet": "ÇORLU",
+  "how": "name"
+ },
+ "Tekirdağ/Ergene": {
+  "id": 17904,
+  "diyanet": "ERGENE",
+  "how": "name"
+ },
+ "Tekirdağ/Hayrabolu": {
+  "id": 9874,
+  "diyanet": "HAYRABOLU",
+  "how": "name"
+ },
+ "Tekirdağ/Kapaklı": {
+  "id": 17905,
+  "diyanet": "KAPAKLI",
+  "how": "name"
+ },
+ "Tekirdağ/Malkara": {
+  "id": 9876,
+  "diyanet": "MALKARA",
+  "how": "name"
+ },
+ "Tekirdağ/Marmaraereğlisi": {
+  "id": 9875,
+  "diyanet": "M.EREĞLİSİ",
+  "how": "alias"
+ },
+ "Tekirdağ/Muratlı": {
+  "id": 17904,
+  "diyanet": "ERGENE",
+  "how": "nearest",
+  "km": 12
+ },
+ "Tekirdağ/Saray": {
+  "id": 9877,
+  "diyanet": "SARAY",
+  "how": "name"
+ },
+ "Tekirdağ/Süleymanpaşa": {
+  "id": 9879,
+  "diyanet": "TEKİRDAĞ",
+  "how": "nearest",
+  "km": 0
+ },
+ "Tekirdağ/Şarköy": {
+  "id": 9878,
+  "diyanet": "ŞARKÖY",
+  "how": "name"
+ },
+ "Tokat/Almus": {
+  "id": 9880,
+  "diyanet": "ALMUS",
+  "how": "name"
+ },
+ "Tokat/Artova": {
+  "id": 9881,
+  "diyanet": "ARTOVA",
+  "how": "name"
+ },
+ "Tokat/Başçiftlik": {
+  "id": 9882,
+  "diyanet": "BAŞÇİFTLİK",
+  "how": "name"
+ },
+ "Tokat/Erbaa": {
+  "id": 17910,
+  "diyanet": "ERBAA",
+  "how": "name"
+ },
+ "Tokat/Merkez": {
+  "id": 9887,
+  "diyanet": "TOKAT",
+  "how": "name"
+ },
+ "Tokat/Niksar": {
+  "id": 9883,
+  "diyanet": "NİKSAR",
+  "how": "name"
+ },
+ "Tokat/Pazar": {
+  "id": 9884,
+  "diyanet": "PAZAR (T)",
+  "how": "name"
+ },
+ "Tokat/Reşadiye": {
+  "id": 9885,
+  "diyanet": "REŞADİYE",
+  "how": "name"
+ },
+ "Tokat/Sulusaray": {
+  "id": 9886,
+  "diyanet": "SULUSARAY",
+  "how": "name"
+ },
+ "Tokat/Turhal": {
+  "id": 9888,
+  "diyanet": "TURHAL",
+  "how": "name"
+ },
+ "Tokat/Yeşilyurt": {
+  "id": 9889,
+  "diyanet": "YEŞİLYURT",
+  "how": "name"
+ },
+ "Tokat/Zile": {
+  "id": 9890,
+  "diyanet": "ZİLE",
+  "how": "name"
+ },
+ "Trabzon/Akçaabat": {
+  "id": 9891,
+  "diyanet": "AKÇAABAT",
+  "how": "name"
+ },
+ "Trabzon/Araklı": {
+  "id": 9892,
+  "diyanet": "ARAKLI",
+  "how": "name"
+ },
+ "Trabzon/Arsin": {
+  "id": 9893,
+  "diyanet": "ARSİN",
+  "how": "name"
+ },
+ "Trabzon/Beşikdüzü": {
+  "id": 9894,
+  "diyanet": "BEŞİKDÜZÜ",
+  "how": "name"
+ },
+ "Trabzon/Çarşıbaşı": {
+  "id": 9895,
+  "diyanet": "ÇARŞIBAŞI",
+  "how": "name"
+ },
+ "Trabzon/Çaykara": {
+  "id": 9896,
+  "diyanet": "ÇAYKARA",
+  "how": "name"
+ },
+ "Trabzon/Dernekpazarı": {
+  "id": 9897,
+  "diyanet": "DERNEKPAZARI",
+  "how": "name"
+ },
+ "Trabzon/Düzköy": {
+  "id": 9898,
+  "diyanet": "DÜZKÖY",
+  "how": "name"
+ },
+ "Trabzon/Hayrat": {
+  "id": 9899,
+  "diyanet": "HAYRAT",
+  "how": "name"
+ },
+ "Trabzon/Köprübaşı": {
+  "id": 9900,
+  "diyanet": "KÖPRÜBAŞI (T)",
+  "how": "name"
+ },
+ "Trabzon/Maçka": {
+  "id": 9898,
+  "diyanet": "DÜZKÖY",
+  "how": "nearest",
+  "km": 17
+ },
+ "Trabzon/Of": {
+  "id": 9901,
+  "diyanet": "OF",
+  "how": "name"
+ },
+ "Trabzon/Ortahisar": {
+  "id": 9905,
+  "diyanet": "TRABZON",
+  "how": "nearest",
+  "km": 0
+ },
+ "Trabzon/Sürmene": {
+  "id": 9903,
+  "diyanet": "SÜRMENE",
+  "how": "name"
+ },
+ "Trabzon/Şalpazarı": {
+  "id": 9902,
+  "diyanet": "ŞALPAZARI",
+  "how": "name"
+ },
+ "Trabzon/Tonya": {
+  "id": 9904,
+  "diyanet": "TONYA",
+  "how": "name"
+ },
+ "Trabzon/Vakfıkebir": {
+  "id": 9906,
+  "diyanet": "VAKFIKEBİR",
+  "how": "name"
+ },
+ "Trabzon/Yomra": {
+  "id": 9907,
+  "diyanet": "YOMRA",
+  "how": "name"
+ },
+ "Tunceli/Çemişgezek": {
+  "id": 9908,
+  "diyanet": "ÇEMİŞGEZEK",
+  "how": "name"
+ },
+ "Tunceli/Hozat": {
+  "id": 9909,
+  "diyanet": "HOZAT",
+  "how": "name"
+ },
+ "Tunceli/Mazgirt": {
+  "id": 9914,
+  "diyanet": "TUNCELİ",
+  "how": "nearest",
+  "km": 23
+ },
+ "Tunceli/Merkez": {
+  "id": 9914,
+  "diyanet": "TUNCELİ",
+  "how": "name"
+ },
+ "Tunceli/Nazımiye": {
+  "id": 9910,
+  "diyanet": "NAZİMİYE",
+  "how": "name"
+ },
+ "Tunceli/Ovacık": {
+  "id": 9911,
+  "diyanet": "OVACIK",
+  "how": "name"
+ },
+ "Tunceli/Pertek": {
+  "id": 9912,
+  "diyanet": "PERTEK",
+  "how": "name"
+ },
+ "Tunceli/Pülümür": {
+  "id": 9913,
+  "diyanet": "PÜLÜMÜR",
+  "how": "name"
+ },
+ "Uşak/Banaz": {
+  "id": 9915,
+  "diyanet": "BANAZ",
+  "how": "name"
+ },
+ "Uşak/Eşme": {
+  "id": 9916,
+  "diyanet": "ESME",
+  "how": "name"
+ },
+ "Uşak/Karahallı": {
+  "id": 9917,
+  "diyanet": "KARAHALLI",
+  "how": "name"
+ },
+ "Uşak/Merkez": {
+  "id": 9919,
+  "diyanet": "UŞAK",
+  "how": "name"
+ },
+ "Uşak/Sivaslı": {
+  "id": 9918,
+  "diyanet": "SİVASLI",
+  "how": "name"
+ },
+ "Uşak/Ulubey": {
+  "id": 17909,
+  "diyanet": "ULUBEY",
+  "how": "name"
+ },
+ "Van/Bahçesaray": {
+  "id": 9920,
+  "diyanet": "BAHÇESARAY",
+  "how": "name"
+ },
+ "Van/Başkale": {
+  "id": 9921,
+  "diyanet": "BAŞKALE",
+  "how": "name"
+ },
+ "Van/Çaldıran": {
+  "id": 9922,
+  "diyanet": "ÇALDIRAN",
+  "how": "name"
+ },
+ "Van/Çatak": {
+  "id": 9923,
+  "diyanet": "ÇATAK",
+  "how": "name"
+ },
+ "Van/Edremit": {
+  "id": 9924,
+  "diyanet": "EDREMİT (V)",
+  "how": "name"
+ },
+ "Van/Erciş": {
+  "id": 9925,
+  "diyanet": "ERCİŞ",
+  "how": "name"
+ },
+ "Van/Gevaş": {
+  "id": 9926,
+  "diyanet": "GEVAŞ",
+  "how": "name"
+ },
+ "Van/Gürpınar": {
+  "id": 17912,
+  "diyanet": "GÜRPINAR",
+  "how": "name"
+ },
+ "Van/İpekyolu": {
+  "id": 9930,
+  "diyanet": "VAN",
+  "how": "nearest",
+  "km": 0
+ },
+ "Van/Muradiye": {
+  "id": 9927,
+  "diyanet": "MURADİYE",
+  "how": "name"
+ },
+ "Van/Özalp": {
+  "id": 9928,
+  "diyanet": "ÖZALP",
+  "how": "name"
+ },
+ "Van/Saray": {
+  "id": 9929,
+  "diyanet": "SARAY (V)",
+  "how": "name"
+ },
+ "Van/Tuşba": {
+  "id": 9930,
+  "diyanet": "VAN",
+  "how": "nearest",
+  "km": 2
+ },
+ "Yalova/Altınova": {
+  "id": 9931,
+  "diyanet": "ALTINOVA",
+  "how": "name"
+ },
+ "Yalova/Armutlu": {
+  "id": 9932,
+  "diyanet": "ARMUTLU",
+  "how": "name"
+ },
+ "Yalova/Çınarcık": {
+  "id": 9933,
+  "diyanet": "ÇINARCIK",
+  "how": "name"
+ },
+ "Yalova/Çiftlikköy": {
+  "id": 9935,
+  "diyanet": "YALOVA",
+  "how": "nearest",
+  "km": 5
+ },
+ "Yalova/Merkez": {
+  "id": 9935,
+  "diyanet": "YALOVA",
+  "how": "name"
+ },
+ "Yalova/Termal": {
+  "id": 9934,
+  "diyanet": "TERMAL",
+  "how": "name"
+ },
+ "Yozgat/Akdağmadeni": {
+  "id": 9936,
+  "diyanet": "AKDAĞMADENİ",
+  "how": "name"
+ },
+ "Yozgat/Aydıncık": {
+  "id": 9937,
+  "diyanet": "AYDINCIK (Y)",
+  "how": "name"
+ },
+ "Yozgat/Boğazlıyan": {
+  "id": 9938,
+  "diyanet": "BOĞAZLIYAN",
+  "how": "name"
+ },
+ "Yozgat/Çandır": {
+  "id": 9939,
+  "diyanet": "ÇANDIR",
+  "how": "name"
+ },
+ "Yozgat/Çayıralan": {
+  "id": 9940,
+  "diyanet": "ÇAYIRALAN",
+  "how": "name"
+ },
+ "Yozgat/Çekerek": {
+  "id": 9941,
+  "diyanet": "ÇEKEREK",
+  "how": "name"
+ },
+ "Yozgat/Kadışehri": {
+  "id": 9942,
+  "diyanet": "KADIŞEHRİ",
+  "how": "name"
+ },
+ "Yozgat/Merkez": {
+  "id": 9949,
+  "diyanet": "YOZGAT",
+  "how": "name"
+ },
+ "Yozgat/Saraykent": {
+  "id": 9943,
+  "diyanet": "SARAYKENT",
+  "how": "name"
+ },
+ "Yozgat/Sarıkaya": {
+  "id": 9944,
+  "diyanet": "SARIKAYA",
+  "how": "name"
+ },
+ "Yozgat/Sorgun": {
+  "id": 9946,
+  "diyanet": "SORGUN",
+  "how": "name"
+ },
+ "Yozgat/Şefaatli": {
+  "id": 17879,
+  "diyanet": "ŞEFAATLİ",
+  "how": "name"
+ },
+ "Yozgat/Yenifakılı": {
+  "id": 9947,
+  "diyanet": "YENİFAKILI",
+  "how": "name"
+ },
+ "Yozgat/Yerköy": {
+  "id": 9948,
+  "diyanet": "YERKÖY",
+  "how": "name"
+ },
+ "Zonguldak/Alaplı": {
+  "id": 9950,
+  "diyanet": "ALAPLI",
+  "how": "name"
+ },
+ "Zonguldak/Çaycuma": {
+  "id": 9951,
+  "diyanet": "ÇAYCUMA",
+  "how": "name"
+ },
+ "Zonguldak/Devrek": {
+  "id": 9952,
+  "diyanet": "DEVREK",
+  "how": "name"
+ },
+ "Zonguldak/Ereğli": {
+  "id": 9954,
+  "diyanet": "KARADENİZ EREĞLİ",
+  "how": "alias"
+ },
+ "Zonguldak/Gökçebey": {
+  "id": 9953,
+  "diyanet": "GÖKÇEBEY",
+  "how": "name"
+ },
+ "Zonguldak/Kilimli": {
+  "id": 9955,
+  "diyanet": "ZONGULDAK",
+  "how": "nearest",
+  "km": 5
+ },
+ "Zonguldak/Kozlu": {
+  "id": 9955,
+  "diyanet": "ZONGULDAK",
+  "how": "nearest",
+  "km": 4
+ },
+ "Zonguldak/Merkez": {
+  "id": 9955,
+  "diyanet": "ZONGULDAK",
+  "how": "name"
+ }
+}
