@@ -8,6 +8,13 @@
       "when": 1794412519894,
       "tag": "0000_silent_wendell_rand",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794684012682,
+      "tag": "0001_light_xorn",
+      "breakpoints": true
     }
   ]
 }

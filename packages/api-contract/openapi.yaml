@@ -90,6 +90,30 @@ paths:
           $ref: '#/components/responses/RateLimited'
         '500':
           $ref: '#/components/responses/InternalError'
+  /api/v1/announcements:
+    get:
+      operationId: listAnnouncements
+      summary: Messages for the apps' home card and Announcements page
+      description: |
+        Up to 20 announcements that have started, for the given platform (and build, when given),
+        newest first. Ended ones are included with `active: false` for the Announcements page.
+        Clients must ignore unknown fields, so this response can grow without breaking them.
+      parameters:
+        - { name: platform, in: query, required: true, schema: { type: string, enum: [ios, macos] } }
+        - { name: build, in: query, required: false, schema: { type: integer, minimum: 0 } }
+      responses:
+        '200':
+          description: Announcements, newest first
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnnouncementsResponse'
+        '400':
+          $ref: '#/components/responses/InvalidRequest'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+        '500':
+          $ref: '#/components/responses/InternalError'
   /api/v1/locate:
     get:
       operationId: locate
@@ -258,6 +282,38 @@ components:
       properties:
         source: { type: string, examples: [mock, diyanet] }
         provider: { $ref: '#/components/schemas/DataProvider' }
+    AnnouncementsResponse:
+      type: object
+      required: [announcements]
+      properties:
+        announcements:
+          type: array
+          items: { $ref: '#/components/schemas/Announcement' }
+    Announcement:
+      type: object
+      required: [id, title, body, startsAt, active]
+      properties:
+        id: { type: string, description: Stable id; clients remember dismissals by it }
+        title: { $ref: '#/components/schemas/LocalizedText' }
+        body: { $ref: '#/components/schemas/LocalizedText' }
+        link: { $ref: '#/components/schemas/AnnouncementLink' }
+        startsAt: { type: string, format: date-time }
+        endsAt: { type: string, format: date-time }
+        active: { type: boolean, description: False once `endsAt` has passed }
+    AnnouncementLink:
+      type: object
+      required: [url]
+      properties:
+        url: { type: string, format: uri }
+        title: { $ref: '#/components/schemas/LocalizedText' }
+    LocalizedText:
+      type: object
+      description: Text per app language; `tr` is always present, the others fall back.
+      required: [tr]
+      properties:
+        tr: { type: string }
+        en: { type: string }
+        de: { type: string }
     DataProvider:
       type: object
       required: [name, url]

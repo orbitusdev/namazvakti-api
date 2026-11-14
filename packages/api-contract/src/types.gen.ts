@@ -77,6 +77,28 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/api/v1/announcements": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Messages for the apps' home card and Announcements page
+         * @description Up to 20 announcements that have started, for the given platform (and build, when given),
+         *     newest first. Ended ones are included with `active: false` for the Announcements page.
+         *     Clients must ignore unknown fields, so this response can grow without breaking them.
+         */
+        get: operations["listAnnouncements"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/api/v1/locate": {
         parameters: {
             query?: never;
@@ -168,6 +190,33 @@ export interface components {
              */
             source: string;
             provider?: components["schemas"]["DataProvider"];
+        };
+        AnnouncementsResponse: {
+            announcements: components["schemas"]["Announcement"][];
+        };
+        Announcement: {
+            /** @description Stable id; clients remember dismissals by it */
+            id: string;
+            title: components["schemas"]["LocalizedText"];
+            body: components["schemas"]["LocalizedText"];
+            link?: components["schemas"]["AnnouncementLink"];
+            /** Format: date-time */
+            startsAt: string;
+            /** Format: date-time */
+            endsAt?: string;
+            /** @description False once `endsAt` has passed */
+            active: boolean;
+        };
+        AnnouncementLink: {
+            /** Format: uri */
+            url: string;
+            title?: components["schemas"]["LocalizedText"];
+        };
+        /** @description Text per app language; `tr` is always present, the others fall back. */
+        LocalizedText: {
+            tr: string;
+            en?: string;
+            de?: string;
         };
         DataProvider: {
             /** @example Ezan Vakti API */
@@ -347,6 +396,32 @@ export interface operations {
                     "application/json": components["schemas"]["AboutResponse"];
                 };
             };
+            429: components["responses"]["RateLimited"];
+            500: components["responses"]["InternalError"];
+        };
+    };
+    listAnnouncements: {
+        parameters: {
+            query: {
+                platform: "ios" | "macos";
+                build?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Announcements, newest first */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AnnouncementsResponse"];
+                };
+            };
+            400: components["responses"]["InvalidRequest"];
             429: components["responses"]["RateLimited"];
             500: components["responses"]["InternalError"];
         };

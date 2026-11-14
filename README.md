@@ -52,6 +52,20 @@ DATABASE_URL=postgres://… pnpm --filter web sync:places
 
 `apps/web/vercel.json` schedules the nightly refresh cron.
 
+## Announcements
+
+The apps show the newest active announcement as a dismissible card and list them all under Settings → Announcements (`GET /api/v1/announcements?platform=ios|macos&build=N`). There is no admin panel; write them with the CLI:
+
+```sh
+DATABASE_URL=postgres://… pnpm --filter web announce add --slug bayram-2027 \
+  --title-tr "Bayramınız mübarek olsun" --body-tr "…" [--title-en … --body-en …] [--title-de … --body-de …] \
+  [--link https://… --link-title-tr …] [--platforms ios,macos] [--starts ISO] [--ends ISO] [--min-build N] [--max-build N]
+DATABASE_URL=postgres://… pnpm --filter web announce list
+DATABASE_URL=postgres://… pnpm --filter web announce end bayram-2027
+```
+
+Links must be https. Responses are cached for 10 minutes at the CDN, so changes take up to that long to reach the apps.
+
 ## License
 
 Apache License 2.0 — see `LICENSE`.

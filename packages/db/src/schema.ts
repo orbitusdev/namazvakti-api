@@ -1,4 +1,4 @@
-import { boolean, date, doublePrecision, index, integer, pgTable, primaryKey, serial, text, timestamp } from 'drizzle-orm/pg-core'
+import { boolean, date, doublePrecision, index, integer, jsonb, pgTable, primaryKey, serial, text, timestamp } from 'drizzle-orm/pg-core'
 
 export const countries = pgTable('countries', {
   id: text('id').primaryKey(),
@@ -61,3 +61,27 @@ export const sourceCalls = pgTable('source_calls', {
   ok: boolean('ok').notNull(),
   error: text('error'),
 })
+
+/** Text in the apps' languages; `tr` is always present, the others fall back to it. */
+export type LocalizedText = { tr: string; en?: string; de?: string }
+
+/** Messages shown in the apps (home card and the Announcements page). Written by the CLI for now. */
+export const announcements = pgTable(
+  'announcements',
+  {
+    id: serial('id').primaryKey(),
+    /** Stable id the apps remember a dismissal by. */
+    slug: text('slug').notNull().unique(),
+    title: jsonb('title').$type<LocalizedText>().notNull(),
+    body: jsonb('body').$type<LocalizedText>().notNull(),
+    linkUrl: text('link_url'),
+    linkTitle: jsonb('link_title').$type<LocalizedText>(),
+    platforms: text('platforms').array().notNull().default(['ios', 'macos']),
+    minBuild: integer('min_build'),
+    maxBuild: integer('max_build'),
+    startsAt: timestamp('starts_at', { withTimezone: true }).notNull().defaultNow(),
+    endsAt: timestamp('ends_at', { withTimezone: true }),
+    createdAt: timestamp('created_at', { withTimezone: true }).notNull().defaultNow(),
+  },
+  (t) => [index('announcements_starts_at_idx').on(t.startsAt)],
+)

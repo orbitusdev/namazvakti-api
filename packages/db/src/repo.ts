@@ -1,8 +1,38 @@
-import { and, asc, desc, eq, gte, lte, max, sql } from 'drizzle-orm'
+import { and, arrayContains, asc, desc, eq, gte, isNull, lte, max, or, sql } from 'drizzle-orm'
 import { normalizePlaceName, type DayTimes, type PlaceRef } from '@namazvakti/core'
 import type { SourceCity, SourceCountry, SourceState } from '@namazvakti/diyanet-client'
 import type { Db } from './client'
-import { cities, cityDemand, countries, prayerTimes, sourceCalls, states } from './schema'
+import { announcements, cities, cityDemand, countries, prayerTimes, sourceCalls, states, type LocalizedText } from './schema'
+
+export type AnnouncementPlatform = 'ios' | 'macos'
+
+export type AnnouncementInput = {
+  slug: string
+  title: LocalizedText
+  body: LocalizedText
+  linkUrl?: string | null
+  linkTitle?: LocalizedText | null
+  platforms?: AnnouncementPlatform[]
+  minBuild?: number | null
+  maxBuild?: number | null
+  startsAt?: Date
+  endsAt?: Date | null
+}
+
+export type AnnouncementRow = {
+  slug: string
+  title: LocalizedText
+  body: LocalizedText
+  linkUrl: string | null
+  linkTitle: LocalizedText | null
+  platforms: string[]
+  minBuild: number | null
+  maxBuild: number | null
+  startsAt: Date
+  endsAt: Date | null
+  /** Not ended at the time asked: `endsAt` is null or later. */
+  active: boolean
+}
 
 export type CityRow = SourceCity & { state: PlaceRef; country: PlaceRef }
 
@@ -251,6 +281,58 @@ export function createRepo(db: Db) {
       return r ?? null
     },
 
+    /**
+     * Announcements that have started by `now` for `platform` (and `build` within its range, when
+     * given), newest first. Ended ones are included with `active: false`.
+     */
+    async listAnnouncements(q: { platform: AnnouncementPlatform; build?: number; now: Date; limit: number }): Promise<AnnouncementRow[]> {
+      const rows = await db
+        .select()
+        .from(announcements)
+        .where(
+          and(
+            lte(announcements.startsAt, q.now),
+            arrayContains(announcements.platforms, [q.platform]),
+            q.build === undefined ? undefined : or(isNull(announcements.minBuild), lte(announcements.minBuild, q.build)),
+            q.build === undefined ? undefined : or(isNull(announcements.maxBuild), gte(announcements.maxBuild, q.build)),
+          ),
+        )
+        .orderBy(desc(announcements.startsAt), desc(announcements.id))
+        .limit(q.limit)
+      return rows.map((r) => toAnnouncementRow(r, q.now))
+    },
+
+    /** Every announcement, newest start first (for the CLI). */
+    async listAllAnnouncements(now = new Date()): Promise<AnnouncementRow[]> {
+      const rows = await db.select().from(announcements).orderBy(desc(announcements.startsAt), desc(announcements.id))
+      return rows.map((r) => toAnnouncementRow(r, now))
+    },
+
+    async insertAnnouncement(a: AnnouncementInput): Promise<void> {
+      await db.insert(announcements).values({
+        slug: a.slug,
+        title: a.title,
+        body: a.body,
+        linkUrl: a.linkUrl ?? null,
+        linkTitle: a.linkTitle ?? null,
+        ...(a.platforms ? { platforms: a.platforms } : {}),
+        minBuild: a.minBuild ?? null,
+        maxBuild: a.maxBuild ?? null,
+        ...(a.startsAt ? { startsAt: a.startsAt } : {}),
+        endsAt: a.endsAt ?? null,
+      })
+    },
+
+    /** Ends an announcement at `at`; false when no such slug or it has already ended. */
+    async endAnnouncement(slug: string, at: Date): Promise<boolean> {
+      const r = await db
+        .update(announcements)
+        .set({ endsAt: at })
+        .where(and(eq(announcements.slug, slug), or(isNull(announcements.endsAt), gte(announcements.endsAt, at))))
+        .returning({ id: announcements.id })
+      return r.length > 0
+    },
+
     async logSourceCall(e: SourceCallRecord): Promise<void> {
       await db
         .insert(sourceCalls)
@@ -260,3 +342,11 @@ export function createRepo(db: Db) {
 }
 
 export type Repo = ReturnType<typeof createRepo>
+
+function toAnnouncementRow(r: typeof announcements.$inferSelect, now: Date): AnnouncementRow {
+  return {
+    slug: r.slug, title: r.title, body: r.body, linkUrl: r.linkUrl, linkTitle: r.linkTitle ?? null,
+    platforms: r.platforms, minBuild: r.minBuild, maxBuild: r.maxBuild, startsAt: r.startsAt, endsAt: r.endsAt,
+    active: r.endsAt === null || r.endsAt > now,
+  }
+}

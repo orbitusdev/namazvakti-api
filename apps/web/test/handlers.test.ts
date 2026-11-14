@@ -8,6 +8,7 @@ import type { Context } from '../src/server/context'
 import { listCities, listCountries, listStates } from '../src/server/handlers/places'
 import { locate } from '../src/server/handlers/locate'
 import { getAbout } from '../src/server/handlers/about'
+import { listAnnouncements } from '../src/server/handlers/announcements'
 import { getPrayerTimes } from '../src/server/handlers/prayer-times'
 import { syncPlaces } from '../src/server/place-sync'
 import { PrayerTimesService } from '../src/server/prayer-times-service'
@@ -214,5 +215,50 @@ describe('about handler', () => {
     const r = await getAbout({ ...ctx, source: new EzanVaktiSource({ fetch: vi.fn() }) })
     expect(r.body).toEqual({ source: 'diyanet', provider: { name: 'Ezan Vakti API', url: 'https://ezanvakti.emushaf.net' } })
     check('getAbout', r)
+  })
+})
+
+describe('announcements handler', () => {
+  const tr = (s: string) => ({ tr: s, en: `${s} (en)` })
+  beforeAll(async () => {
+    await ctx.repo.insertAnnouncement({
+      slug: 'welcome', title: tr('Hoş geldiniz'), body: tr('Yeni uygulama'), startsAt: new Date('2026-11-10T00:00:00Z'),
+      linkUrl: 'https://namazvakti.app', linkTitle: tr('Siteye git'),
+    })
+    await ctx.repo.insertAnnouncement({
+      slug: 'ended', title: tr('Bitti'), body: tr('Eski'), startsAt: new Date('2026-11-01T00:00:00Z'),
+      endsAt: new Date('2026-11-05T00:00:00Z'), platforms: ['ios'],
+    })
+  })
+
+  it('lists announcements for the platform with the contract shape', async () => {
+    const r = await listAnnouncements(ctx, url('?platform=ios&build=12'), NOW)
+    expect(r.status).toBe(200)
+    expect(r.headers['Cache-Control']).toBe(CACHE_SHORT)
+    expect(r.body).toEqual({
+      announcements: [
+        {
+          id: 'welcome', title: tr('Hoş geldiniz'), body: tr('Yeni uygulama'),
+          link: { url: 'https://namazvakti.app', title: tr('Siteye git') },
+          startsAt: '2026-11-10T00:00:00Z', active: true,
+        },
+        { id: 'ended', title: tr('Bitti'), body: tr('Eski'), startsAt: '2026-11-01T00:00:00Z', endsAt: '2026-11-05T00:00:00Z', active: false },
+      ],
+    })
+    check('listAnnouncements', r)
+  })
+
+  it('filters by platform', async () => {
+    const r = await listAnnouncements(ctx, url('?platform=macos'), NOW)
+    expect((r.body as { announcements: { id: string }[] }).announcements.map((a) => a.id)).toEqual(['welcome'])
+    check('listAnnouncements', r)
+  })
+
+  it('rejects a bad platform or build', async () => {
+    for (const qs of ['', '?platform=android', '?platform=ios&build=x', '?platform=ios&build=-1']) {
+      const r = await listAnnouncements(ctx, url(qs), NOW)
+      expect(r.status, qs).toBe(400)
+      check('listAnnouncements', r)
+    }
   })
 })

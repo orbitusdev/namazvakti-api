@@ -11,7 +11,8 @@
     "lint": "echo 'no lint configured'",
     "test": "vitest run",
     "db:migrate": "tsx --env-file-if-exists=../../.env scripts/migrate.ts",
-    "sync:places": "tsx --env-file-if-exists=../../.env scripts/sync-places.ts"
+    "sync:places": "tsx --env-file-if-exists=../../.env scripts/sync-places.ts",
+    "announce": "tsx --env-file-if-exists=../../.env scripts/announce.ts"
   },
   "dependencies": {
     "@electric-sql/pglite": "0.3.16",
